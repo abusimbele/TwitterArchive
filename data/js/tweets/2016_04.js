@@ -2,1372 +2,6 @@ Grailbird.data.tweets_2016_04 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 0, 23 ],
-      "url" : "https:\/\/t.co\/kpL73wki7o",
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/718580980408270849?s=09",
-      "display_url" : "twitter.com\/MechTech4\/stat\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "726418270241325057",
-  "geo" : { },
-  "id_str" : "726574922319929345",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "https:\/\/t.co\/kpL73wki7o",
-  "id" : 726574922319929345,
-  "in_reply_to_status_id" : 726418270241325057,
-  "created_at" : "2016-05-01 00:52:15 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Meredith Perry",
-      "screen_name" : "meredithperry",
-      "indices" : [ 0, 14 ],
-      "id_str" : "26609111",
-      "id" : 26609111
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726565327597895680\/photo\/1",
-      "indices" : [ 36, 59 ],
-      "url" : "https:\/\/t.co\/80ymi4AzN3",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChVHRiWWkAAm0xY.jpg",
-      "id_str" : "726565281494110208",
-      "id" : 726565281494110208,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChVHRiWWkAAm0xY.jpg",
-      "sizes" : [ {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 900
-      }, {
-        "h" : 2048,
-        "resize" : "fit",
-        "w" : 1536
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 2048,
-        "resize" : "fit",
-        "w" : 1536
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 510
-      } ],
-      "display_url" : "pic.twitter.com\/80ymi4AzN3"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "682169565313404928",
-  "geo" : { },
-  "id_str" : "726565327597895680",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "@meredithperry \n\nit's your turn. ;) https:\/\/t.co\/80ymi4AzN3",
-  "id" : 726565327597895680,
-  "in_reply_to_status_id" : 682169565313404928,
-  "created_at" : "2016-05-01 00:14:07 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Ijeoma Mba",
-      "screen_name" : "IjeomaMba",
-      "indices" : [ 3, 13 ],
-      "id_str" : "41190518",
-      "id" : 41190518
-    }, {
-      "name" : "Slate",
-      "screen_name" : "Slate",
-      "indices" : [ 112, 118 ],
-      "id_str" : "15164565",
-      "id" : 15164565
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 84, 107 ],
-      "url" : "https:\/\/t.co\/P30SA14GlR",
-      "expanded_url" : "http:\/\/www.slate.com\/articles\/technology\/technology\/2016\/04\/duolingo_made_language_learning_fun_can_it_do_the_same_for_language_testing.html?wpsrc=sh_all_mob_tw_ru",
-      "display_url" : "slate.com\/articles\/techn\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "726561652062228480",
-  "text" : "RT @IjeomaMba: Duolingo taking on the TOEFL &amp; little known fact about RECAPTCHA https:\/\/t.co\/P30SA14GlR via @slate",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Slate",
-        "screen_name" : "Slate",
-        "indices" : [ 97, 103 ],
-        "id_str" : "15164565",
-        "id" : 15164565
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 69, 92 ],
-        "url" : "https:\/\/t.co\/P30SA14GlR",
-        "expanded_url" : "http:\/\/www.slate.com\/articles\/technology\/technology\/2016\/04\/duolingo_made_language_learning_fun_can_it_do_the_same_for_language_testing.html?wpsrc=sh_all_mob_tw_ru",
-        "display_url" : "slate.com\/articles\/techn\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "726411505181294592",
-    "text" : "Duolingo taking on the TOEFL &amp; little known fact about RECAPTCHA https:\/\/t.co\/P30SA14GlR via @slate",
-    "id" : 726411505181294592,
-    "created_at" : "2016-04-30 14:02:53 +0000",
-    "user" : {
-      "name" : "Ijeoma Mba",
-      "screen_name" : "IjeomaMba",
-      "protected" : false,
-      "id_str" : "41190518",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/824642410818965507\/DL-O5gFz_normal.jpg",
-      "id" : 41190518,
-      "verified" : false
-    }
-  },
-  "id" : 726561652062228480,
-  "created_at" : "2016-04-30 23:59:31 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "edX",
-      "screen_name" : "edXOnline",
-      "indices" : [ 0, 10 ],
-      "id_str" : "567360618",
-      "id" : 567360618
-    }, {
-      "name" : "Kiron Education",
-      "screen_name" : "KironEducation",
-      "indices" : [ 11, 26 ],
-      "id_str" : "3240295685",
-      "id" : 3240295685
-    }, {
-      "name" : "Coursera",
-      "screen_name" : "coursera",
-      "indices" : [ 27, 36 ],
-      "id_str" : "352053266",
-      "id" : 352053266
-    }, {
-      "name" : "FutureLearn",
-      "screen_name" : "FutureLearn",
-      "indices" : [ 37, 49 ],
-      "id_str" : "999095640",
-      "id" : 999095640
-    }, {
-      "name" : "Udacity",
-      "screen_name" : "udacity",
-      "indices" : [ 50, 58 ],
-      "id_str" : "326912209",
-      "id" : 326912209
-    }, {
-      "name" : "iversity",
-      "screen_name" : "iversity",
-      "indices" : [ 59, 68 ],
-      "id_str" : "42177510",
-      "id" : 42177510
-    }, {
-      "name" : "Steam",
-      "screen_name" : "steam_games",
-      "indices" : [ 69, 81 ],
-      "id_str" : "36803580",
-      "id" : 36803580
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "726560629943861250",
-  "geo" : { },
-  "id_str" : "726560966859710465",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "@edXOnline @KironEducation @coursera @FutureLearn @udacity @iversity @steam_games",
-  "id" : 726560966859710465,
-  "in_reply_to_status_id" : 726560629943861250,
-  "created_at" : "2016-04-30 23:56:48 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "726560629943861250",
-  "text" : "Does any MOOC-platform create a Steam-Game with database exchange for achievements? Why not make exercises (collaborate) in steam?",
-  "id" : 726560629943861250,
-  "created_at" : "2016-04-30 23:55:27 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "SMostaghim",
-      "screen_name" : "SanazMostaghim",
-      "indices" : [ 32, 47 ],
-      "id_str" : "826843735",
-      "id" : 826843735
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726559117012287489\/photo\/1",
-      "indices" : [ 74, 97 ],
-      "url" : "https:\/\/t.co\/nt0bgU10yI",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChVBps5UoAA7pWM.jpg",
-      "id_str" : "726559099572232192",
-      "id" : 726559099572232192,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChVBps5UoAA7pWM.jpg",
-      "sizes" : [ {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      } ],
-      "display_url" : "pic.twitter.com\/nt0bgU10yI"
-    } ],
-    "hashtags" : [ {
-      "text" : "streaming",
-      "indices" : [ 0, 10 ]
-    }, {
-      "text" : "robot",
-      "indices" : [ 11, 17 ]
-    }, {
-      "text" : "RaspberryPi",
-      "indices" : [ 18, 30 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 50, 73 ],
-      "url" : "https:\/\/t.co\/NHBoUIvGO5",
-      "expanded_url" : "http:\/\/zacharybears.com\/low-latency-raspberry-pi-video-streaming\/",
-      "display_url" : "zacharybears.com\/low-latency-ra\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "726559117012287489",
-  "text" : "#streaming #robot #RaspberryPi \n@SanazMostaghim \n\nhttps:\/\/t.co\/NHBoUIvGO5 https:\/\/t.co\/nt0bgU10yI",
-  "id" : 726559117012287489,
-  "created_at" : "2016-04-30 23:49:26 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726558175089070081\/photo\/1",
-      "indices" : [ 44, 67 ],
-      "url" : "https:\/\/t.co\/Xzk1FA5JVr",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChVAzK2VEAA9AFD.jpg",
-      "id_str" : "726558162719936512",
-      "id" : 726558162719936512,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChVAzK2VEAA9AFD.jpg",
-      "sizes" : [ {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      } ],
-      "display_url" : "pic.twitter.com\/Xzk1FA5JVr"
-    } ],
-    "hashtags" : [ {
-      "text" : "streaming",
-      "indices" : [ 0, 10 ]
-    }, {
-      "text" : "latency",
-      "indices" : [ 11, 19 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 20, 43 ],
-      "url" : "https:\/\/t.co\/cXv1JnG9us",
-      "expanded_url" : "http:\/\/fomori.org\/blog\/?p=1213",
-      "display_url" : "fomori.org\/blog\/?p=1213"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "726554066713731072",
-  "geo" : { },
-  "id_str" : "726558175089070081",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "#streaming #latency\nhttps:\/\/t.co\/cXv1JnG9us https:\/\/t.co\/Xzk1FA5JVr",
-  "id" : 726558175089070081,
-  "in_reply_to_status_id" : 726554066713731072,
-  "created_at" : "2016-04-30 23:45:42 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Landesregierung BW",
-      "screen_name" : "RegierungBW",
-      "indices" : [ 11, 23 ],
-      "id_str" : "296426654",
-      "id" : 296426654
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726556058865508353\/photo\/1",
-      "indices" : [ 36, 59 ],
-      "url" : "https:\/\/t.co\/H1V5LrwPyz",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChU-2k7UcAARiYg.jpg",
-      "id_str" : "726556022236540928",
-      "id" : 726556022236540928,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChU-2k7UcAARiYg.jpg",
-      "sizes" : [ {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      } ],
-      "display_url" : "pic.twitter.com\/H1V5LrwPyz"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726556058865508353\/photo\/1",
-      "indices" : [ 36, 59 ],
-      "url" : "https:\/\/t.co\/H1V5LrwPyz",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChU-37GUcAEPllz.jpg",
-      "id_str" : "726556045368127489",
-      "id" : 726556045368127489,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChU-37GUcAEPllz.jpg",
-      "sizes" : [ {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      } ],
-      "display_url" : "pic.twitter.com\/H1V5LrwPyz"
-    } ],
-    "hashtags" : [ {
-      "text" : "ARIMIS",
-      "indices" : [ 3, 10 ]
-    }, {
-      "text" : "brokenLink",
-      "indices" : [ 24, 35 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "726556058865508353",
-  "text" : "oO #ARIMIS @RegierungBW #brokenLink https:\/\/t.co\/H1V5LrwPyz",
-  "id" : 726556058865508353,
-  "created_at" : "2016-04-30 23:37:17 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 0, 23 ],
-      "url" : "https:\/\/t.co\/kOsqks80Nw",
-      "expanded_url" : "https:\/\/youtu.be\/LaiObFFKXK4",
-      "display_url" : "youtu.be\/LaiObFFKXK4"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "726551897218383873",
-  "geo" : { },
-  "id_str" : "726554066713731072",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "https:\/\/t.co\/kOsqks80Nw",
-  "id" : 726554066713731072,
-  "in_reply_to_status_id" : 726551897218383873,
-  "created_at" : "2016-04-30 23:29:22 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
-      "screen_name" : "MinuDTizabi",
-      "indices" : [ 0, 12 ],
-      "id_str" : "3058667338",
-      "id" : 3058667338
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "726551826611490816",
-  "geo" : { },
-  "id_str" : "726551897218383873",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "@MinuDTizabi",
-  "id" : 726551897218383873,
-  "in_reply_to_status_id" : 726551826611490816,
-  "created_at" : "2016-04-30 23:20:45 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726551826611490816\/photo\/1",
-      "indices" : [ 63, 86 ],
-      "url" : "https:\/\/t.co\/5x2zxvsBX0",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChU6_aKWUAA1pnG.jpg",
-      "id_str" : "726551775919099904",
-      "id" : 726551775919099904,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChU6_aKWUAA1pnG.jpg",
-      "sizes" : [ {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "display_url" : "pic.twitter.com\/5x2zxvsBX0"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726551826611490816\/photo\/1",
-      "indices" : [ 63, 86 ],
-      "url" : "https:\/\/t.co\/5x2zxvsBX0",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChU7AJ0WUAAQ6Jx.jpg",
-      "id_str" : "726551788711727104",
-      "id" : 726551788711727104,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChU7AJ0WUAAQ6Jx.jpg",
-      "sizes" : [ {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      } ],
-      "display_url" : "pic.twitter.com\/5x2zxvsBX0"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726551826611490816\/photo\/1",
-      "indices" : [ 63, 86 ],
-      "url" : "https:\/\/t.co\/5x2zxvsBX0",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChU7A44WwAAP261.jpg",
-      "id_str" : "726551801344999424",
-      "id" : 726551801344999424,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChU7A44WwAAP261.jpg",
-      "sizes" : [ {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      } ],
-      "display_url" : "pic.twitter.com\/5x2zxvsBX0"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726551826611490816\/photo\/1",
-      "indices" : [ 63, 86 ],
-      "url" : "https:\/\/t.co\/5x2zxvsBX0",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChU7BmMWUAATbCx.jpg",
-      "id_str" : "726551813508452352",
-      "id" : 726551813508452352,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChU7BmMWUAATbCx.jpg",
-      "sizes" : [ {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      } ],
-      "display_url" : "pic.twitter.com\/5x2zxvsBX0"
-    } ],
-    "hashtags" : [ {
-      "text" : "stream",
-      "indices" : [ 0, 7 ]
-    }, {
-      "text" : "play",
-      "indices" : [ 8, 13 ]
-    }, {
-      "text" : "collaborate",
-      "indices" : [ 14, 26 ]
-    }, {
-      "text" : "education",
-      "indices" : [ 27, 37 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 39, 62 ],
-      "url" : "https:\/\/t.co\/mFswW8uDEZ",
-      "expanded_url" : "http:\/\/store.steampowered.com\/tag\/en\/Education#p=0&tab=NewReleases",
-      "display_url" : "store.steampowered.com\/tag\/en\/Educati\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "726546522750504960",
-  "geo" : { },
-  "id_str" : "726551826611490816",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "#stream #play #collaborate #education\n\nhttps:\/\/t.co\/mFswW8uDEZ https:\/\/t.co\/5x2zxvsBX0",
-  "id" : 726551826611490816,
-  "in_reply_to_status_id" : 726546522750504960,
-  "created_at" : "2016-04-30 23:20:28 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "latency",
-      "indices" : [ 87, 95 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 62, 85 ],
-      "url" : "https:\/\/t.co\/e13stxvkGr",
-      "expanded_url" : "http:\/\/www.makeuseof.com\/tag\/steam-broadcasting-can-actually",
-      "display_url" : "makeuseof.com\/tag\/steam-broa\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "726547272654266368",
-  "geo" : { },
-  "id_str" : "726549548420726784",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "Steam Broadcasting is Here! What Can You Actually Do With It? https:\/\/t.co\/e13stxvkGr. #latency",
-  "id" : 726549548420726784,
-  "in_reply_to_status_id" : 726547272654266368,
-  "created_at" : "2016-04-30 23:11:25 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726547272654266368\/photo\/1",
-      "indices" : [ 24, 47 ],
-      "url" : "https:\/\/t.co\/8iVzjY1dkX",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChU23ZqWgAELfvw.jpg",
-      "id_str" : "726547240299429889",
-      "id" : 726547240299429889,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChU23ZqWgAELfvw.jpg",
-      "sizes" : [ {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      } ],
-      "display_url" : "pic.twitter.com\/8iVzjY1dkX"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726547272654266368\/photo\/1",
-      "indices" : [ 24, 47 ],
-      "url" : "https:\/\/t.co\/8iVzjY1dkX",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChU24mGXEAAgPQZ.jpg",
-      "id_str" : "726547260818001920",
-      "id" : 726547260818001920,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChU24mGXEAAgPQZ.jpg",
-      "sizes" : [ {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      } ],
-      "display_url" : "pic.twitter.com\/8iVzjY1dkX"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 0, 23 ],
-      "url" : "https:\/\/t.co\/vaiCPvHT7n",
-      "expanded_url" : "https:\/\/www.xsplit.com",
-      "display_url" : "xsplit.com"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "726546522750504960",
-  "geo" : { },
-  "id_str" : "726547272654266368",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "https:\/\/t.co\/vaiCPvHT7n https:\/\/t.co\/8iVzjY1dkX",
-  "id" : 726547272654266368,
-  "in_reply_to_status_id" : 726546522750504960,
-  "created_at" : "2016-04-30 23:02:23 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726546522750504960\/photo\/1",
-      "indices" : [ 43, 66 ],
-      "url" : "https:\/\/t.co\/YtR7JQq4ki",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChU2KePWwAEgmUC.jpg",
-      "id_str" : "726546468434264065",
-      "id" : 726546468434264065,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChU2KePWwAEgmUC.jpg",
-      "sizes" : [ {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      } ],
-      "display_url" : "pic.twitter.com\/YtR7JQq4ki"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726546522750504960\/photo\/1",
-      "indices" : [ 43, 66 ],
-      "url" : "https:\/\/t.co\/YtR7JQq4ki",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChU2LgIWUAAyVep.jpg",
-      "id_str" : "726546486121615360",
-      "id" : 726546486121615360,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChU2LgIWUAAyVep.jpg",
-      "sizes" : [ {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      } ],
-      "display_url" : "pic.twitter.com\/YtR7JQq4ki"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726546522750504960\/photo\/1",
-      "indices" : [ 43, 66 ],
-      "url" : "https:\/\/t.co\/YtR7JQq4ki",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChU2MpTWkAEbEpJ.jpg",
-      "id_str" : "726546505763557377",
-      "id" : 726546505763557377,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChU2MpTWkAEbEpJ.jpg",
-      "sizes" : [ {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      } ],
-      "display_url" : "pic.twitter.com\/YtR7JQq4ki"
-    } ],
-    "hashtags" : [ {
-      "text" : "screencapturing",
-      "indices" : [ 0, 16 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 19, 42 ],
-      "url" : "https:\/\/t.co\/kldfQOZW7S",
-      "expanded_url" : "http:\/\/alternativeto.net\/software\/xsplit-broadcaster\/",
-      "display_url" : "alternativeto.net\/software\/xspli\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "726541153592590337",
-  "geo" : { },
-  "id_str" : "726546522750504960",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "#screencapturing \n\nhttps:\/\/t.co\/kldfQOZW7S https:\/\/t.co\/YtR7JQq4ki",
-  "id" : 726546522750504960,
-  "in_reply_to_status_id" : 726541153592590337,
-  "created_at" : "2016-04-30 22:59:24 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726541153592590337\/photo\/1",
-      "indices" : [ 39, 62 ],
-      "url" : "https:\/\/t.co\/9TLLORJbij",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChUxUMuW0AAaq-d.jpg",
-      "id_str" : "726541137973006336",
-      "id" : 726541137973006336,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChUxUMuW0AAaq-d.jpg",
-      "sizes" : [ {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      } ],
-      "display_url" : "pic.twitter.com\/9TLLORJbij"
-    } ],
-    "hashtags" : [ {
-      "text" : "skype",
-      "indices" : [ 0, 6 ]
-    }, {
-      "text" : "limit",
-      "indices" : [ 7, 13 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 15, 38 ],
-      "url" : "https:\/\/t.co\/rKdt337krq",
-      "expanded_url" : "https:\/\/technet.microsoft.com\/en-us\/library\/skype-for-business-online-limits.aspx",
-      "display_url" : "technet.microsoft.com\/en-us\/library\/\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "726539891241308160",
-  "geo" : { },
-  "id_str" : "726541153592590337",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "#skype #limit \nhttps:\/\/t.co\/rKdt337krq https:\/\/t.co\/9TLLORJbij",
-  "id" : 726541153592590337,
-  "in_reply_to_status_id" : 726539891241308160,
-  "created_at" : "2016-04-30 22:38:04 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "eduScrum",
-      "screen_name" : "eduscrum",
-      "indices" : [ 0, 9 ],
-      "id_str" : "564570503",
-      "id" : 564570503
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "726538254988759040",
-  "geo" : { },
-  "id_str" : "726539891241308160",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "@eduscrum",
-  "id" : 726539891241308160,
-  "in_reply_to_status_id" : 726538254988759040,
-  "created_at" : "2016-04-30 22:33:03 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "John C.",
-      "screen_name" : "Jragga",
-      "indices" : [ 0, 7 ],
-      "id_str" : "51664358",
-      "id" : 51664358
-    }, {
-      "name" : "Arnold",
-      "screen_name" : "Schwarzenegger",
-      "indices" : [ 8, 23 ],
-      "id_str" : "12044602",
-      "id" : 12044602
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "726529500536791040",
-  "geo" : { },
-  "id_str" : "726538861149577216",
-  "in_reply_to_user_id" : 51664358,
-  "text" : "@Jragga @Schwarzenegger \n\nSo, welcome back ;)",
-  "id" : 726538861149577216,
-  "in_reply_to_status_id" : 726529500536791040,
-  "created_at" : "2016-04-30 22:28:57 +0000",
-  "in_reply_to_screen_name" : "Jragga",
-  "in_reply_to_user_id_str" : "51664358",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726538254988759040\/photo\/1",
-      "indices" : [ 0, 23 ],
-      "url" : "https:\/\/t.co\/1Yu0jsqLxl",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChUuq9NUYAA3cuR.jpg",
-      "id_str" : "726538230410010624",
-      "id" : 726538230410010624,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChUuq9NUYAA3cuR.jpg",
-      "sizes" : [ {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      } ],
-      "display_url" : "pic.twitter.com\/1Yu0jsqLxl"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "726538094116241410",
-  "geo" : { },
-  "id_str" : "726538254988759040",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "https:\/\/t.co\/1Yu0jsqLxl",
-  "id" : 726538254988759040,
-  "in_reply_to_status_id" : 726538094116241410,
-  "created_at" : "2016-04-30 22:26:33 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 0, 23 ],
-      "url" : "https:\/\/t.co\/wKzAC6ic7x",
-      "expanded_url" : "http:\/\/gaming.stackexchange.com\/q\/3115",
-      "display_url" : "gaming.stackexchange.com\/q\/3115"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "726535987812286464",
-  "geo" : { },
-  "id_str" : "726538094116241410",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "https:\/\/t.co\/wKzAC6ic7x",
-  "id" : 726538094116241410,
-  "in_reply_to_status_id" : 726535987812286464,
-  "created_at" : "2016-04-30 22:25:54 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "edX",
-      "screen_name" : "edXOnline",
-      "indices" : [ 71, 81 ],
-      "id_str" : "567360618",
-      "id" : 567360618
-    }, {
-      "name" : "Kiron Education",
-      "screen_name" : "KironEducation",
-      "indices" : [ 82, 97 ],
-      "id_str" : "3240295685",
-      "id" : 3240295685
-    }, {
-      "name" : "Coursera",
-      "screen_name" : "coursera",
-      "indices" : [ 98, 107 ],
-      "id_str" : "352053266",
-      "id" : 352053266
-    }, {
-      "name" : "FutureLearn",
-      "screen_name" : "FutureLearn",
-      "indices" : [ 108, 120 ],
-      "id_str" : "999095640",
-      "id" : 999095640
-    }, {
-      "name" : "Udacity",
-      "screen_name" : "udacity",
-      "indices" : [ 121, 129 ],
-      "id_str" : "326912209",
-      "id" : 326912209
-    }, {
-      "name" : "iversity",
-      "screen_name" : "iversity",
-      "indices" : [ 130, 139 ],
-      "id_str" : "42177510",
-      "id" : 42177510
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "726535077719621632",
-  "geo" : { },
-  "id_str" : "726535987812286464",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "Which MOOC-platforms use VOIP channels to extend discussionForums etc? @edXOnline @KironEducation @coursera @FutureLearn @udacity @iversity",
-  "id" : 726535987812286464,
-  "in_reply_to_status_id" : 726535077719621632,
-  "created_at" : "2016-04-30 22:17:32 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/726535077719621632\/photo\/1",
-      "indices" : [ 24, 47 ],
-      "url" : "https:\/\/t.co\/WlcebcM4wS",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/ChUryhUWgAAKb3A.jpg",
-      "id_str" : "726535061827387392",
-      "id" : 726535061827387392,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/ChUryhUWgAAKb3A.jpg",
-      "sizes" : [ {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      } ],
-      "display_url" : "pic.twitter.com\/WlcebcM4wS"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 0, 23 ],
-      "url" : "https:\/\/t.co\/FRdueU3gST",
-      "expanded_url" : "https:\/\/mmo-mumble.com\/help\/ComparisonChart",
-      "display_url" : "mmo-mumble.com\/help\/Compariso\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "726534844684050436",
-  "geo" : { },
-  "id_str" : "726535077719621632",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "https:\/\/t.co\/FRdueU3gST https:\/\/t.co\/WlcebcM4wS",
-  "id" : 726535077719621632,
-  "in_reply_to_status_id" : 726534844684050436,
-  "created_at" : "2016-04-30 22:13:55 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Top Ten Reviews",
-      "screen_name" : "TopTenReviews",
-      "indices" : [ 102, 116 ],
-      "id_str" : "16098199",
-      "id" : 16098199
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 74, 97 ],
-      "url" : "https:\/\/t.co\/GJlOgev6Zr",
-      "expanded_url" : "https:\/\/shar.es\/1e7cz7",
-      "display_url" : "shar.es\/1e7cz7"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "726521935459434496",
-  "geo" : { },
-  "id_str" : "726534844684050436",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "The Best VoIP Software for Gaming: Mumble vs. TeamSpeak 3 - TopTenREVIEWS https:\/\/t.co\/GJlOgev6Zr via @TopTenReviews",
-  "id" : 726534844684050436,
-  "in_reply_to_status_id" : 726521935459434496,
-  "created_at" : "2016-04-30 22:12:59 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Pi My Life Up",
       "screen_name" : "pimylifeup",
@@ -1516,13 +150,9 @@ Grailbird.data.tweets_2016_04 =
       "id" : 726431370549956609,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/726431370549956609\/pu\/img\/cfYp2M4LuVH3hac6.jpg",
       "sizes" : [ {
-        "h" : 0,
+        "h" : 640,
         "resize" : "fit",
-        "w" : 0
-      }, {
-        "h" : 340,
-        "resize" : "fit",
-        "w" : 340
+        "w" : 640
       }, {
         "h" : 150,
         "resize" : "crop",
@@ -1532,9 +162,13 @@ Grailbird.data.tweets_2016_04 =
         "resize" : "fit",
         "w" : 640
       }, {
-        "h" : 600,
+        "h" : 640,
         "resize" : "fit",
-        "w" : 600
+        "w" : 640
+      }, {
+        "h" : 640,
+        "resize" : "fit",
+        "w" : 640
       } ],
       "display_url" : "pic.twitter.com\/1M0hOT6qfx"
     } ],
@@ -1557,13 +191,9 @@ Grailbird.data.tweets_2016_04 =
         "id" : 726431370549956609,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/726431370549956609\/pu\/img\/cfYp2M4LuVH3hac6.jpg",
         "sizes" : [ {
-          "h" : 0,
+          "h" : 640,
           "resize" : "fit",
-          "w" : 0
-        }, {
-          "h" : 340,
-          "resize" : "fit",
-          "w" : 340
+          "w" : 640
         }, {
           "h" : 150,
           "resize" : "crop",
@@ -1573,9 +203,13 @@ Grailbird.data.tweets_2016_04 =
           "resize" : "fit",
           "w" : 640
         }, {
-          "h" : 600,
+          "h" : 640,
           "resize" : "fit",
-          "w" : 600
+          "w" : 640
+        }, {
+          "h" : 640,
+          "resize" : "fit",
+          "w" : 640
         } ],
         "display_url" : "pic.twitter.com\/1M0hOT6qfx"
       } ],
@@ -5383,7 +4017,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -14493,7 +13127,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904335299156865028\/uMEAz-Dq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930520747675738113\/SqTTdEVM_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -14583,7 +13217,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "DSMeu",
       "protected" : false,
       "id_str" : "205315827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925352911885889536\/cywqp0xq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930019056584929280\/vVYcPdTv_normal.jpg",
       "id" : 205315827,
       "verified" : true
     }
@@ -18125,7 +16759,7 @@ Grailbird.data.tweets_2016_04 =
       "id_str" : "252124716",
       "id" : 252124716
     }, {
-      "name" : "Jonathan Gray",
+      "name" : "Jonathan Gray \uD83D\uDC3C",
       "screen_name" : "jwyg",
       "indices" : [ 27, 32 ],
       "id_str" : "14389093",
@@ -19889,7 +18523,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "ttranpham",
       "protected" : false,
       "id_str" : "35207120",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827934983851560961\/I8fgDgIY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/929490356437176320\/jsKLaZkn_normal.jpg",
       "id" : 35207120,
       "verified" : false
     }
@@ -24502,7 +23136,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 0, 4 ],
       "id_str" : "15460048",
@@ -26161,7 +24795,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 0, 4 ],
       "id_str" : "15460048",
@@ -28005,7 +26639,7 @@ Grailbird.data.tweets_2016_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 106, 110 ],
       "id_str" : "15460048",
@@ -30327,21 +28961,21 @@ Grailbird.data.tweets_2016_04 =
       "id" : 718605633684045824,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/718605633684045824\/pu\/img\/Nh3VQiZhu3a6iqEt.jpg",
       "sizes" : [ {
-        "h" : 0,
+        "h" : 360,
         "resize" : "fit",
-        "w" : 0
+        "w" : 640
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 338,
+        "h" : 360,
         "resize" : "fit",
-        "w" : 600
+        "w" : 640
       }, {
-        "h" : 191,
+        "h" : 360,
         "resize" : "fit",
-        "w" : 340
+        "w" : 640
       }, {
         "h" : 360,
         "resize" : "fit",
@@ -30368,21 +29002,21 @@ Grailbird.data.tweets_2016_04 =
         "id" : 718605633684045824,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/718605633684045824\/pu\/img\/Nh3VQiZhu3a6iqEt.jpg",
         "sizes" : [ {
-          "h" : 0,
+          "h" : 360,
           "resize" : "fit",
-          "w" : 0
+          "w" : 640
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 338,
+          "h" : 360,
           "resize" : "fit",
-          "w" : 600
+          "w" : 640
         }, {
-          "h" : 191,
+          "h" : 360,
           "resize" : "fit",
-          "w" : 340
+          "w" : 640
         }, {
           "h" : 360,
           "resize" : "fit",
@@ -30432,25 +29066,25 @@ Grailbird.data.tweets_2016_04 =
       "id" : 718580817639968768,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/718580817639968768\/pu\/img\/Ecgzdqcd62gwLFsq.jpg",
       "sizes" : [ {
-        "h" : 0,
+        "h" : 383,
         "resize" : "fit",
-        "w" : 0
+        "w" : 680
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 1280
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 338,
+        "h" : 720,
         "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 191,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 576,
-        "resize" : "fit",
-        "w" : 1024
+        "w" : 1280
       } ],
       "display_url" : "pic.twitter.com\/JKjc2tZHcx"
     } ],
@@ -30626,25 +29260,25 @@ Grailbird.data.tweets_2016_04 =
       "id" : 718577422988419077,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/718577422988419077\/pu\/img\/9akefAEE04PCfeU_.jpg",
       "sizes" : [ {
-        "h" : 604,
+        "h" : 1280,
         "resize" : "fit",
-        "w" : 340
+        "w" : 720
       }, {
         "h" : 1280,
         "resize" : "fit",
         "w" : 720
       }, {
-        "h" : 0,
-        "resize" : "fit",
-        "w" : 0
-      }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 1067,
+        "h" : 680,
         "resize" : "fit",
-        "w" : 600
+        "w" : 383
+      }, {
+        "h" : 1200,
+        "resize" : "fit",
+        "w" : 675
       } ],
       "display_url" : "pic.twitter.com\/JtslwjEi8w"
     } ],
@@ -33175,7 +31809,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "KITKarlsruhe",
       "protected" : false,
       "id_str" : "91110697",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534074098\/kit_logo_en_farbe_positiv_klein_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927888741288603649\/gfA8OXGq_normal.jpg",
       "id" : 91110697,
       "verified" : true
     }
@@ -34162,7 +32796,7 @@ Grailbird.data.tweets_2016_04 =
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904335299156865028\/uMEAz-Dq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930520747675738113\/SqTTdEVM_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -37820,25 +36454,25 @@ Grailbird.data.tweets_2016_04 =
       "id" : 716709718593437696,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/716709718593437696\/pu\/img\/b4eeBIO0OwwsXCsY.jpg",
       "sizes" : [ {
-        "h" : 0,
+        "h" : 383,
         "resize" : "fit",
-        "w" : 0
+        "w" : 680
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 1280
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 338,
+        "h" : 720,
         "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 191,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 576,
-        "resize" : "fit",
-        "w" : 1024
+        "w" : 1280
       } ],
       "display_url" : "pic.twitter.com\/jNgadBNNI5"
     } ],
@@ -42432,6 +41066,215 @@ Grailbird.data.tweets_2016_04 =
   "text" : "#St\u00F6rhaftung Why not add an OpenHardware&amp;OpenSource Device into an existing network thatLooksForNew MAC\/IP addresses https:\/\/t.co\/dURsIY20xg",
   "id" : 715909485286596612,
   "created_at" : "2016-04-01 14:31:36 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Minu D. Tizabi",
+      "screen_name" : "MinuDTizabi",
+      "indices" : [ 0, 12 ],
+      "id_str" : "3058667338",
+      "id" : 3058667338
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 14, 37 ],
+      "url" : "https:\/\/t.co\/8zOrt90dBo",
+      "expanded_url" : "https:\/\/twitter.com\/scienmag\/status\/715675088742391808",
+      "display_url" : "twitter.com\/scienmag\/statu\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "715684464848973825",
+  "in_reply_to_user_id" : 3058667338,
+  "text" : "@MinuDTizabi  https:\/\/t.co\/8zOrt90dBo",
+  "id" : 715684464848973825,
+  "created_at" : "2016-03-31 23:37:27 +0000",
+  "in_reply_to_screen_name" : "MinuDTizabi",
+  "in_reply_to_user_id_str" : "3058667338",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Bernie Sanders",
+      "screen_name" : "SenSanders",
+      "indices" : [ 3, 14 ],
+      "id_str" : "29442313",
+      "id" : 29442313
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "geo" : { },
+  "id_str" : "715682794547097600",
+  "text" : "RT @SenSanders: We should not accept that programs many other nations have instituted- affordable college, universal healthcare- are imposs\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ ]
+    },
+    "geo" : { },
+    "id_str" : "715673834586812416",
+    "text" : "We should not accept that programs many other nations have instituted- affordable college, universal healthcare- are impossible in America.",
+    "id" : 715673834586812416,
+    "created_at" : "2016-03-31 22:55:13 +0000",
+    "user" : {
+      "name" : "Bernie Sanders",
+      "screen_name" : "SenSanders",
+      "protected" : false,
+      "id_str" : "29442313",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794619281271033856\/Fs0QQaH7_normal.jpg",
+      "id" : 29442313,
+      "verified" : true
+    }
+  },
+  "id" : 715682794547097600,
+  "created_at" : "2016-03-31 23:30:49 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hackaday",
+      "screen_name" : "hackaday",
+      "indices" : [ 3, 12 ],
+      "id_str" : "14607140",
+      "id" : 14607140
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 87, 110 ],
+      "url" : "https:\/\/t.co\/Iv6HVGWjdP",
+      "expanded_url" : "http:\/\/wp.me\/pk3lN-Pke",
+      "display_url" : "wp.me\/pk3lN-Pke"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "715682569384275968",
+  "text" : "RT @hackaday: PJON, Fancy One Wire Arduino Communications Protocol For Home Automation https:\/\/t.co\/Iv6HVGWjdP",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/publicize.wp.com\/\" rel=\"nofollow\"\u003EWordPress.com\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 73, 96 ],
+        "url" : "https:\/\/t.co\/Iv6HVGWjdP",
+        "expanded_url" : "http:\/\/wp.me\/pk3lN-Pke",
+        "display_url" : "wp.me\/pk3lN-Pke"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "715629858768859137",
+    "text" : "PJON, Fancy One Wire Arduino Communications Protocol For Home Automation https:\/\/t.co\/Iv6HVGWjdP",
+    "id" : 715629858768859137,
+    "created_at" : "2016-03-31 20:00:28 +0000",
+    "user" : {
+      "name" : "hackaday",
+      "screen_name" : "hackaday",
+      "protected" : false,
+      "id_str" : "14607140",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699222440702926848\/8Pm7yZFb_normal.png",
+      "id" : 14607140,
+      "verified" : true
+    }
+  },
+  "id" : 715682569384275968,
+  "created_at" : "2016-03-31 23:29:55 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "hackaday",
+      "screen_name" : "hackaday",
+      "indices" : [ 3, 12 ],
+      "id_str" : "14607140",
+      "id" : 14607140
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 71, 94 ],
+      "url" : "https:\/\/t.co\/pX7mMPaobc",
+      "expanded_url" : "http:\/\/wp.me\/pk3lN-PsX",
+      "display_url" : "wp.me\/pk3lN-PsX"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "715677631660863489",
+  "text" : "RT @hackaday: 3D-Printed Case Turns Servo into Quality Linear Actuator https:\/\/t.co\/pX7mMPaobc",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/publicize.wp.com\/\" rel=\"nofollow\"\u003EWordPress.com\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 57, 80 ],
+        "url" : "https:\/\/t.co\/pX7mMPaobc",
+        "expanded_url" : "http:\/\/wp.me\/pk3lN-PsX",
+        "display_url" : "wp.me\/pk3lN-PsX"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "715675237853999105",
+    "text" : "3D-Printed Case Turns Servo into Quality Linear Actuator https:\/\/t.co\/pX7mMPaobc",
+    "id" : 715675237853999105,
+    "created_at" : "2016-03-31 23:00:47 +0000",
+    "user" : {
+      "name" : "hackaday",
+      "screen_name" : "hackaday",
+      "protected" : false,
+      "id_str" : "14607140",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699222440702926848\/8Pm7yZFb_normal.png",
+      "id" : 14607140,
+      "verified" : true
+    }
+  },
+  "id" : 715677631660863489,
+  "created_at" : "2016-03-31 23:10:18 +0000",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",

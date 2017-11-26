@@ -1418,25 +1418,25 @@ Grailbird.data.tweets_2016_01 =
         "id" : 682194247936794624,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/682194247936794624\/pu\/img\/G4l-Nvauq8-V47nx.jpg",
         "sizes" : [ {
-          "h" : 0,
+          "h" : 383,
           "resize" : "fit",
-          "w" : 0
+          "w" : 680
+        }, {
+          "h" : 675,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1280
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 338,
+          "h" : 720,
           "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 191,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 576,
-          "resize" : "fit",
-          "w" : 1024
+          "w" : 1280
         } ],
         "display_url" : "pic.twitter.com\/3CI1Si2n71"
       } ],
@@ -2047,7 +2047,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "JansnetSocial",
       "protected" : false,
       "id_str" : "421750629",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/668032591484817409\/n6X_cRrM_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931906739557031937\/HANnAavd_normal.jpg",
       "id" : 421750629,
       "verified" : false
     }
@@ -2722,7 +2722,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "1909479860",
       "id" : 1909479860
     }, {
-      "name" : "Murtaza Hussain",
+      "name" : "Murtaza Mohammad Hussain",
       "screen_name" : "MazMHussain",
       "indices" : [ 38, 50 ],
       "id_str" : "84816752",
@@ -2744,7 +2744,7 @@ Grailbird.data.tweets_2016_01 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Murtaza Hussain",
+        "name" : "Murtaza Mohammad Hussain",
         "screen_name" : "MazMHussain",
         "indices" : [ 19, 31 ],
         "id_str" : "84816752",
@@ -4917,7 +4917,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -5337,7 +5337,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904335299156865028\/uMEAz-Dq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930520747675738113\/SqTTdEVM_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -5388,7 +5388,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904335299156865028\/uMEAz-Dq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930520747675738113\/SqTTdEVM_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -6384,7 +6384,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -6463,11 +6463,11 @@ Grailbird.data.tweets_2016_01 =
     "id" : 692423128035778561,
     "created_at" : "2016-01-27 19:05:12 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -7257,7 +7257,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "1613451108",
       "id" : 1613451108
     }, {
-      "name" : "Jan B\u00F6hmermann \uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Jan B\u00F6hmermann \uD83E\uDD28",
       "screen_name" : "janboehm",
       "indices" : [ 8, 17 ],
       "id_str" : "19072286",
@@ -7305,7 +7305,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "1613451108",
       "id" : 1613451108
     }, {
-      "name" : "Jan B\u00F6hmermann \uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Jan B\u00F6hmermann \uD83C\uDDE9\uD83C\uDDEA DEUSCTHLAND",
       "screen_name" : "janboehm",
       "indices" : [ 8, 17 ],
       "id_str" : "19072286",
@@ -7718,7 +7718,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904335299156865028\/uMEAz-Dq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930520747675738113\/SqTTdEVM_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -7775,7 +7775,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904335299156865028\/uMEAz-Dq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930520747675738113\/SqTTdEVM_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -8352,7 +8352,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "KITKarlsruhe",
       "protected" : false,
       "id_str" : "91110697",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534074098\/kit_logo_en_farbe_positiv_klein_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927888741288603649\/gfA8OXGq_normal.jpg",
       "id" : 91110697,
       "verified" : true
     }
@@ -10367,7 +10367,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -10436,7 +10436,7 @@ Grailbird.data.tweets_2016_01 =
       "id" : 217030924
     }, {
       "name" : "Volkswagen Group",
-      "screen_name" : "vwgroup_de",
+      "screen_name" : "VWGroup_DE",
       "indices" : [ 75, 86 ],
       "id_str" : "3021174369",
       "id" : 3021174369
@@ -12840,25 +12840,25 @@ Grailbird.data.tweets_2016_01 =
       "id" : 690586078680604672,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/690586078680604672\/pu\/img\/TyVi68Jp6Ywe59A4.jpg",
       "sizes" : [ {
-        "h" : 0,
+        "h" : 383,
         "resize" : "fit",
-        "w" : 0
+        "w" : 680
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 1280
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 338,
+        "h" : 720,
         "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 191,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 576,
-        "resize" : "fit",
-        "w" : 1024
+        "w" : 1280
       } ],
       "display_url" : "pic.twitter.com\/D26tZTFgMS"
     } ],
@@ -12884,25 +12884,25 @@ Grailbird.data.tweets_2016_01 =
         "id" : 690586078680604672,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/690586078680604672\/pu\/img\/TyVi68Jp6Ywe59A4.jpg",
         "sizes" : [ {
-          "h" : 0,
+          "h" : 383,
           "resize" : "fit",
-          "w" : 0
+          "w" : 680
+        }, {
+          "h" : 675,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1280
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 338,
+          "h" : 720,
           "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 191,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 576,
-          "resize" : "fit",
-          "w" : 1024
+          "w" : 1280
         } ],
         "display_url" : "pic.twitter.com\/D26tZTFgMS"
       } ],
@@ -13905,7 +13905,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Wall Street Journal",
+      "name" : "The Wall Street Journal",
       "screen_name" : "WSJ",
       "indices" : [ 83, 87 ],
       "id_str" : "3108351",
@@ -14202,7 +14202,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "tazgezwitscher",
       "protected" : false,
       "id_str" : "15243812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/454280998159532032\/Pq43tr1F_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931462317983911936\/FTi4GcfG_normal.jpg",
       "id" : 15243812,
       "verified" : true
     }
@@ -17558,7 +17558,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "20188680",
       "id" : 20188680
     }, {
-      "name" : "Jan B\u00F6hmermann \uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Jan B\u00F6hmermann \uD83E\uDD28",
       "screen_name" : "janboehm",
       "indices" : [ 38, 47 ],
       "id_str" : "19072286",
@@ -17923,7 +17923,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "20188680",
       "id" : 20188680
     }, {
-      "name" : "Jan B\u00F6hmermann \uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Jan B\u00F6hmermann \uD83E\uDD28",
       "screen_name" : "janboehm",
       "indices" : [ 38, 47 ],
       "id_str" : "19072286",
@@ -18389,7 +18389,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "79321561",
       "id" : 79321561
     }, {
-      "name" : "Univ. of Neb-Lincoln",
+      "name" : "University of Nebraska-Lincoln",
       "screen_name" : "UNLincoln",
       "indices" : [ 100, 110 ],
       "id_str" : "762288787",
@@ -18423,7 +18423,7 @@ Grailbird.data.tweets_2016_01 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Univ. of Neb-Lincoln",
+        "name" : "University of Nebraska-Lincoln",
         "screen_name" : "UNLincoln",
         "indices" : [ 84, 94 ],
         "id_str" : "762288787",
@@ -20051,6 +20051,61 @@ Grailbird.data.tweets_2016_01 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 113, 136 ],
+      "url" : "https:\/\/t.co\/Qe309p0CIn",
+      "expanded_url" : "https:\/\/twitter.com\/hackerrank\/status\/689136622453960705",
+      "display_url" : "twitter.com\/hackerrank\/sta\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "689175311901167617",
+  "text" : "RT @Nitesh360: Comp sci degrees usually don't teach useful skills, tech firms should hire based on coding skills https:\/\/t.co\/Qe309p0CIn",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 98, 121 ],
+        "url" : "https:\/\/t.co\/Qe309p0CIn",
+        "expanded_url" : "https:\/\/twitter.com\/hackerrank\/status\/689136622453960705",
+        "display_url" : "twitter.com\/hackerrank\/sta\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "689137163120840706",
+    "text" : "Comp sci degrees usually don't teach useful skills, tech firms should hire based on coding skills https:\/\/t.co\/Qe309p0CIn",
+    "id" : 689137163120840706,
+    "created_at" : "2016-01-18 17:27:57 +0000",
+    "user" : {
+      "name" : "Brain Interactive",
+      "screen_name" : "BrainInteractiv",
+      "protected" : false,
+      "id_str" : "92103672",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/797416156072181760\/495tvJm-_normal.jpg",
+      "id" : 92103672,
+      "verified" : false
+    }
+  },
+  "id" : 689175311901167617,
+  "created_at" : "2016-01-18 19:59:33 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
     "user_mentions" : [ {
       "name" : "WIRED",
       "screen_name" : "WIRED",
@@ -21469,7 +21524,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -21536,11 +21591,11 @@ Grailbird.data.tweets_2016_01 =
     "id" : 688738909447188481,
     "created_at" : "2016-01-17 15:05:26 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -22637,92 +22692,6 @@ Grailbird.data.tweets_2016_01 =
   "text" : "Why is this man, who only told what he thought, still in prison?\n\nTolerance = acceptance of different lifestyles or beliefs [as long as(1\/2)",
   "id" : 688369539705368576,
   "created_at" : "2016-01-16 14:37:42 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "#Backlash",
-      "screen_name" : "backlashgroup",
-      "indices" : [ 3, 17 ],
-      "id_str" : "3191218762",
-      "id" : 3191218762
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "FreeSpeech",
-      "indices" : [ 28, 39 ]
-    }, {
-      "text" : "Oppression",
-      "indices" : [ 40, 51 ]
-    }, {
-      "text" : "HumanRights",
-      "indices" : [ 52, 64 ]
-    }, {
-      "text" : "SaudiArabia",
-      "indices" : [ 99, 111 ]
-    }, {
-      "text" : "FreeRaif",
-      "indices" : [ 114, 123 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "688367229902176257",
-  "text" : "RT @backlashgroup: PETITION #FreeSpeech #Oppression #HumanRights\n\n\u00B7 UN Human Rights Council: Expel #SaudiArabia \u00B7 #FreeRaif\n\nhttps:\/\/t.co\/I\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "FreeSpeech",
-        "indices" : [ 9, 20 ]
-      }, {
-        "text" : "Oppression",
-        "indices" : [ 21, 32 ]
-      }, {
-        "text" : "HumanRights",
-        "indices" : [ 33, 45 ]
-      }, {
-        "text" : "SaudiArabia",
-        "indices" : [ 80, 92 ]
-      }, {
-        "text" : "FreeRaif",
-        "indices" : [ 95, 104 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 106, 129 ],
-        "url" : "https:\/\/t.co\/I7UHeoMF4G",
-        "expanded_url" : "http:\/\/ow.ly\/X4r5W",
-        "display_url" : "ow.ly\/X4r5W"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "687722657559752704",
-    "text" : "PETITION #FreeSpeech #Oppression #HumanRights\n\n\u00B7 UN Human Rights Council: Expel #SaudiArabia \u00B7 #FreeRaif\n\nhttps:\/\/t.co\/I7UHeoMF4G",
-    "id" : 687722657559752704,
-    "created_at" : "2016-01-14 19:47:13 +0000",
-    "user" : {
-      "name" : "#Backlash",
-      "screen_name" : "backlashgroup",
-      "protected" : false,
-      "id_str" : "3191218762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605284781241286656\/9N4qMFRa_normal.png",
-      "id" : 3191218762,
-      "verified" : false
-    }
-  },
-  "id" : 688367229902176257,
-  "created_at" : "2016-01-16 14:28:31 +0000",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",
@@ -24182,25 +24151,25 @@ Grailbird.data.tweets_2016_01 =
         "id" : 687542660933021696,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/687542660933021696\/pu\/img\/w4FN4H73uW7bIE8R.jpg",
         "sizes" : [ {
-          "h" : 0,
+          "h" : 383,
           "resize" : "fit",
-          "w" : 0
+          "w" : 680
+        }, {
+          "h" : 675,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1280
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 338,
+          "h" : 720,
           "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 191,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 576,
-          "resize" : "fit",
-          "w" : 1024
+          "w" : 1280
         } ],
         "display_url" : "pic.twitter.com\/IvBOOG56uL"
       } ],
@@ -24228,7 +24197,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "DSMeu",
       "protected" : false,
       "id_str" : "205315827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925352911885889536\/cywqp0xq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930019056584929280\/vVYcPdTv_normal.jpg",
       "id" : 205315827,
       "verified" : true
     }
@@ -25792,7 +25761,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "KITKarlsruhe",
       "protected" : false,
       "id_str" : "91110697",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534074098\/kit_logo_en_farbe_positiv_klein_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927888741288603649\/gfA8OXGq_normal.jpg",
       "id" : 91110697,
       "verified" : true
     }
@@ -25848,7 +25817,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "KITKarlsruhe",
       "protected" : false,
       "id_str" : "91110697",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534074098\/kit_logo_en_farbe_positiv_klein_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927888741288603649\/gfA8OXGq_normal.jpg",
       "id" : 91110697,
       "verified" : true
     }
@@ -25963,7 +25932,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "esimperl",
       "protected" : false,
       "id_str" : "203250712",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/672756908764217344\/b6ldz-2p_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/928695586823516161\/JDS73Snh_normal.jpg",
       "id" : 203250712,
       "verified" : false
     }
@@ -26262,7 +26231,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "3058667338",
       "id" : 3058667338
     }, {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 109, 113 ],
       "id_str" : "15460048",
@@ -26297,7 +26266,7 @@ Grailbird.data.tweets_2016_01 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MIT",
+        "name" : "Massachusetts Institute of Technology (MIT)",
         "screen_name" : "MIT",
         "indices" : [ 92, 96 ],
         "id_str" : "15460048",
@@ -29449,7 +29418,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -30179,7 +30148,7 @@ Grailbird.data.tweets_2016_01 =
       "id" : 39475170
     }, {
       "name" : "Volkswagen Group",
-      "screen_name" : "vwgroup_de",
+      "screen_name" : "VWGroup_DE",
       "indices" : [ 69, 80 ],
       "id_str" : "3021174369",
       "id" : 3021174369
@@ -32700,7 +32669,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "miss9afi",
       "protected" : false,
       "id_str" : "309187913",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/897191053064904705\/2KxyeAhK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931747180808933376\/4IIf3e2A_normal.jpg",
       "id" : 309187913,
       "verified" : true
     }
@@ -38431,7 +38400,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904335299156865028\/uMEAz-Dq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930520747675738113\/SqTTdEVM_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }

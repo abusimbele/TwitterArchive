@@ -9,149 +9,6 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "816653",
       "id" : 816653
     }, {
-      "name" : "(((Shiebelieber)))",
-      "screen_name" : "jshieber",
-      "indices" : [ 127, 136 ],
-      "id_str" : "30783608",
-      "id" : 30783608
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 101, 123 ],
-      "url" : "http:\/\/t.co\/rwFfZ2wH83",
-      "expanded_url" : "http:\/\/tcrn.ch\/1DWZq7R",
-      "display_url" : "tcrn.ch\/1DWZq7R"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "627261961005346816",
-  "text" : "RT @TechCrunch: FarmLogs CEO Jesse Vollmar Will Talk About The  AgTech Revolution At Disrupt SF 2015 http:\/\/t.co\/rwFfZ2wH83 by @jshieber  #\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/10up.com\" rel=\"nofollow\"\u003E10up Publish Tweet\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "(((Shiebelieber)))",
-        "screen_name" : "jshieber",
-        "indices" : [ 111, 120 ],
-        "id_str" : "30783608",
-        "id" : 30783608
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "TCDisrupt",
-        "indices" : [ 122, 132 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 85, 107 ],
-        "url" : "http:\/\/t.co\/rwFfZ2wH83",
-        "expanded_url" : "http:\/\/tcrn.ch\/1DWZq7R",
-        "display_url" : "tcrn.ch\/1DWZq7R"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "627252645909131266",
-    "text" : "FarmLogs CEO Jesse Vollmar Will Talk About The  AgTech Revolution At Disrupt SF 2015 http:\/\/t.co\/rwFfZ2wH83 by @jshieber  #TCDisrupt",
-    "id" : 627252645909131266,
-    "created_at" : "2015-07-31 23:00:59 +0000",
-    "user" : {
-      "name" : "TechCrunch",
-      "screen_name" : "TechCrunch",
-      "protected" : false,
-      "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
-      "id" : 816653,
-      "verified" : true
-    }
-  },
-  "id" : 627261961005346816,
-  "created_at" : "2015-07-31 23:38:00 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Education Next",
-      "screen_name" : "EducationNext",
-      "indices" : [ 3, 17 ],
-      "id_str" : "38500966",
-      "id" : 38500966
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 116, 138 ],
-      "url" : "http:\/\/t.co\/c2Zf7IO7LU",
-      "expanded_url" : "http:\/\/ednxt.co\/1LbWCd9",
-      "display_url" : "ednxt.co\/1LbWCd9"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "627258707643105284",
-  "text" : "RT @EducationNext: Win or lose, President Obama's Race to the Top initiative led states to enact education reforms. http:\/\/t.co\/c2Zf7IO7LU \u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "William Howell",
-        "screen_name" : "ProfWillHowell",
-        "indices" : [ 121, 136 ],
-        "id_str" : "3317817508",
-        "id" : 3317817508
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 97, 119 ],
-        "url" : "http:\/\/t.co\/c2Zf7IO7LU",
-        "expanded_url" : "http:\/\/ednxt.co\/1LbWCd9",
-        "display_url" : "ednxt.co\/1LbWCd9"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "627253713485348864",
-    "text" : "Win or lose, President Obama's Race to the Top initiative led states to enact education reforms. http:\/\/t.co\/c2Zf7IO7LU  @ProfWillHowell",
-    "id" : 627253713485348864,
-    "created_at" : "2015-07-31 23:05:13 +0000",
-    "user" : {
-      "name" : "Education Next",
-      "screen_name" : "EducationNext",
-      "protected" : false,
-      "id_str" : "38500966",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826080744934035459\/rukJzWT__normal.jpg",
-      "id" : 38500966,
-      "verified" : false
-    }
-  },
-  "id" : 627258707643105284,
-  "created_at" : "2015-07-31 23:25:04 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "TechCrunch",
-      "screen_name" : "TechCrunch",
-      "indices" : [ 3, 14 ],
-      "id_str" : "816653",
-      "id" : 816653
-    }, {
       "name" : "Drew Scott Fan Page",
       "screen_name" : "drew",
       "indices" : [ 79, 84 ],
@@ -664,7 +521,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Chronicle",
+      "name" : "The Chronicle of Higher Education",
       "screen_name" : "chronicle",
       "indices" : [ 61, 71 ],
       "id_str" : "12413032",
@@ -2525,7 +2382,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -7848,7 +7705,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "manomama",
       "protected" : false,
       "id_str" : "41116723",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/889527809189830657\/50YoiZyl_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933753914478026752\/Hle_v0FG_normal.jpg",
       "id" : 41116723,
       "verified" : false
     }
@@ -7909,7 +7766,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "CubeSpawn",
       "protected" : false,
       "id_str" : "93942597",
-      "profile_image_url_https" : "https:\/\/abs.twimg.com\/sticky\/default_profile_images\/default_profile_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931197173189918720\/NWvgDhbt_normal.jpg",
       "id" : 93942597,
       "verified" : false
     }
@@ -8300,73 +8157,6 @@ Grailbird.data.tweets_2015_07 =
   },
   "id" : 625421503199318016,
   "created_at" : "2015-07-26 21:44:40 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "#Backlash",
-      "screen_name" : "backlashgroup",
-      "indices" : [ 3, 17 ],
-      "id_str" : "3191218762",
-      "id" : 3191218762
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 113, 135 ],
-      "url" : "http:\/\/t.co\/OCrGPNqQIG",
-      "expanded_url" : "http:\/\/buff.ly\/1VkkRup",
-      "display_url" : "buff.ly\/1VkkRup"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "625420352303288320",
-  "text" : "RT @backlashgroup: Frau des verurteilten Bloggers Badawi: \"Sie kommen immer nach dem Freitagsgebet - oder nicht\" http:\/\/t.co\/OCrGPNqQIG #Fr\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "FreeRaif",
-        "indices" : [ 117, 126 ]
-      }, {
-        "text" : "Backlash",
-        "indices" : [ 127, 136 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 94, 116 ],
-        "url" : "http:\/\/t.co\/OCrGPNqQIG",
-        "expanded_url" : "http:\/\/buff.ly\/1VkkRup",
-        "display_url" : "buff.ly\/1VkkRup"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "625354423657742336",
-    "text" : "Frau des verurteilten Bloggers Badawi: \"Sie kommen immer nach dem Freitagsgebet - oder nicht\" http:\/\/t.co\/OCrGPNqQIG #FreeRaif #Backlash",
-    "id" : 625354423657742336,
-    "created_at" : "2015-07-26 17:18:07 +0000",
-    "user" : {
-      "name" : "#Backlash",
-      "screen_name" : "backlashgroup",
-      "protected" : false,
-      "id_str" : "3191218762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605284781241286656\/9N4qMFRa_normal.png",
-      "id" : 3191218762,
-      "verified" : false
-    }
-  },
-  "id" : 625420352303288320,
-  "created_at" : "2015-07-26 21:40:06 +0000",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",
@@ -9914,7 +9704,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -10011,11 +9801,11 @@ Grailbird.data.tweets_2015_07 =
     "id" : 624671715789045760,
     "created_at" : "2015-07-24 20:05:17 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -11479,7 +11269,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "KITKarlsruhe",
       "protected" : false,
       "id_str" : "91110697",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534074098\/kit_logo_en_farbe_positiv_klein_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927888741288603649\/gfA8OXGq_normal.jpg",
       "id" : 91110697,
       "verified" : true
     }
@@ -13493,7 +13283,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -14078,7 +13868,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "KITKarlsruhe",
       "protected" : false,
       "id_str" : "91110697",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534074098\/kit_logo_en_farbe_positiv_klein_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927888741288603649\/gfA8OXGq_normal.jpg",
       "id" : 91110697,
       "verified" : true
     }
@@ -14514,7 +14304,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -15315,79 +15105,6 @@ Grailbird.data.tweets_2015_07 =
   },
   "id" : 623603365990281216,
   "created_at" : "2015-07-21 21:20:03 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "#Backlash",
-      "screen_name" : "backlashgroup",
-      "indices" : [ 3, 17 ],
-      "id_str" : "3191218762",
-      "id" : 3191218762
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "FreeRaif",
-      "indices" : [ 115, 124 ]
-    }, {
-      "text" : "Backlash",
-      "indices" : [ 125, 134 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 92, 114 ],
-      "url" : "http:\/\/t.co\/fYnK9kQWPa",
-      "expanded_url" : "http:\/\/buff.ly\/1RIYeR5",
-      "display_url" : "buff.ly\/1RIYeR5"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "623602830486728704",
-  "text" : "RT @backlashgroup: UN debate: Hillel Neuer calls out Saudi Arabia holding Raif Badawi award http:\/\/t.co\/fYnK9kQWPa #FreeRaif #Backlash",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "FreeRaif",
-        "indices" : [ 96, 105 ]
-      }, {
-        "text" : "Backlash",
-        "indices" : [ 106, 115 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 73, 95 ],
-        "url" : "http:\/\/t.co\/fYnK9kQWPa",
-        "expanded_url" : "http:\/\/buff.ly\/1RIYeR5",
-        "display_url" : "buff.ly\/1RIYeR5"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "623587788211011584",
-    "text" : "UN debate: Hillel Neuer calls out Saudi Arabia holding Raif Badawi award http:\/\/t.co\/fYnK9kQWPa #FreeRaif #Backlash",
-    "id" : 623587788211011584,
-    "created_at" : "2015-07-21 20:18:09 +0000",
-    "user" : {
-      "name" : "#Backlash",
-      "screen_name" : "backlashgroup",
-      "protected" : false,
-      "id_str" : "3191218762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605284781241286656\/9N4qMFRa_normal.png",
-      "id" : 3191218762,
-      "verified" : false
-    }
-  },
-  "id" : 623602830486728704,
-  "created_at" : "2015-07-21 21:17:55 +0000",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",
@@ -18930,7 +18647,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "Raspberry_Pi",
       "protected" : false,
       "id_str" : "302666251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923493298827857920\/ylgF4eHD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927516702392373249\/6ecFQ3X4_normal.jpg",
       "id" : 302666251,
       "verified" : true
     }
@@ -19700,7 +19417,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "Raspberry_Pi",
       "protected" : false,
       "id_str" : "302666251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923493298827857920\/ylgF4eHD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927516702392373249\/6ecFQ3X4_normal.jpg",
       "id" : 302666251,
       "verified" : true
     }
@@ -20391,7 +20108,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -20488,11 +20205,11 @@ Grailbird.data.tweets_2015_07 =
     "id" : 622406840412938240,
     "created_at" : "2015-07-18 14:05:29 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -20875,7 +20592,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -24820,7 +24537,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -24935,11 +24652,11 @@ Grailbird.data.tweets_2015_07 =
     "id" : 621334829108477952,
     "created_at" : "2015-07-15 15:05:41 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -25235,7 +24952,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "17248121",
       "id" : 17248121
     }, {
-      "name" : "Washington U.",
+      "name" : "Washington University in St. Louis",
       "screen_name" : "WUSTL",
       "indices" : [ 114, 120 ],
       "id_str" : "17815224",
@@ -25257,7 +24974,7 @@ Grailbird.data.tweets_2015_07 =
     "source" : "\u003Ca href=\"https:\/\/sciencex.com\/\" rel=\"nofollow\"\u003EScience X Status Updates\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Washington U.",
+        "name" : "Washington University in St. Louis",
         "screen_name" : "WUSTL",
         "indices" : [ 97, 103 ],
         "id_str" : "17815224",
@@ -26166,7 +25883,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -27374,7 +27091,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "17248121",
       "id" : 17248121
     }, {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 111, 115 ],
       "id_str" : "15460048",
@@ -27399,7 +27116,7 @@ Grailbird.data.tweets_2015_07 =
     "source" : "\u003Ca href=\"https:\/\/sciencex.com\/\" rel=\"nofollow\"\u003EScience X Status Updates\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MIT",
+        "name" : "Massachusetts Institute of Technology (MIT)",
         "screen_name" : "MIT",
         "indices" : [ 94, 98 ],
         "id_str" : "15460048",
@@ -28388,7 +28105,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -28481,11 +28198,11 @@ Grailbird.data.tweets_2015_07 =
     "id" : 620918231629328385,
     "created_at" : "2015-07-14 11:30:17 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -28953,7 +28670,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -29050,11 +28767,11 @@ Grailbird.data.tweets_2015_07 =
     "id" : 620594980885790720,
     "created_at" : "2015-07-13 14:05:48 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -30550,7 +30267,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "BillGates",
       "protected" : false,
       "id_str" : "50393960",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/889736688624312321\/xVAFH9ZH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/929933611754708992\/ioSgz49P_normal.jpg",
       "id" : 50393960,
       "verified" : true
     }
@@ -35194,7 +34911,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "kickstarter",
       "protected" : false,
       "id_str" : "16186995",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/892491364482592769\/tatwPk6m_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930810738343600128\/SjHF8zs2_normal.jpg",
       "id" : 16186995,
       "verified" : true
     }
@@ -35617,7 +35334,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "A. Robinson Gross",
+      "name" : "Andy Gross",
       "screen_name" : "argv0",
       "indices" : [ 3, 9 ],
       "id_str" : "6509982",
@@ -35647,11 +35364,11 @@ Grailbird.data.tweets_2015_07 =
     "id" : 582310874741800960,
     "created_at" : "2015-03-29 22:38:26 +0000",
     "user" : {
-      "name" : "A. Robinson Gross",
+      "name" : "Andy Gross",
       "screen_name" : "argv0",
       "protected" : false,
       "id_str" : "6509982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/853303726118916097\/zaoLLw9n_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930176356968644608\/8Np88qqV_normal.jpg",
       "id" : 6509982,
       "verified" : false
     }
@@ -38785,7 +38502,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -41711,7 +41428,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "Raspberry_Pi",
       "protected" : false,
       "id_str" : "302666251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923493298827857920\/ylgF4eHD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927516702392373249\/6ecFQ3X4_normal.jpg",
       "id" : 302666251,
       "verified" : true
     }
@@ -45800,7 +45517,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -45832,11 +45549,11 @@ Grailbird.data.tweets_2015_07 =
     "id" : 617393783924228096,
     "created_at" : "2015-07-04 18:05:23 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -49129,7 +48846,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "17248121",
       "id" : 17248121
     }, {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 74, 78 ],
       "id_str" : "15460048",
@@ -49154,7 +48871,7 @@ Grailbird.data.tweets_2015_07 =
     "source" : "\u003Ca href=\"https:\/\/sciencex.com\/\" rel=\"nofollow\"\u003EScience X Status Updates\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MIT",
+        "name" : "Massachusetts Institute of Technology (MIT)",
         "screen_name" : "MIT",
         "indices" : [ 57, 61 ],
         "id_str" : "15460048",
@@ -53086,7 +52803,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Chronicle",
+      "name" : "The Chronicle of Higher Education",
       "screen_name" : "chronicle",
       "indices" : [ 3, 13 ],
       "id_str" : "12413032",
@@ -53135,7 +52852,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 616239835431333889,
     "created_at" : "2015-07-01 13:40:00 +0000",
     "user" : {
-      "name" : "The Chronicle",
+      "name" : "The Chronicle of Higher Education",
       "screen_name" : "chronicle",
       "protected" : false,
       "id_str" : "12413032",
@@ -54019,7 +53736,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "arduino",
       "protected" : false,
       "id_str" : "266400754",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925810344420872194\/upbtlgzt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/928655749605199872\/ygogGX2j_normal.jpg",
       "id" : 266400754,
       "verified" : true
     }
@@ -54708,6 +54425,688 @@ Grailbird.data.tweets_2015_07 =
   "created_at" : "2015-07-01 12:49:25 +0000",
   "in_reply_to_screen_name" : "missjaayne",
   "in_reply_to_user_id_str" : "607109595",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Education Week",
+      "screen_name" : "educationweek",
+      "indices" : [ 3, 17 ],
+      "id_str" : "15147042",
+      "id" : 15147042
+    }, {
+      "name" : "Early Years",
+      "screen_name" : "EarlyYearsEW",
+      "indices" : [ 20, 33 ],
+      "id_str" : "1072383656",
+      "id" : 1072383656
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 112, 134 ],
+      "url" : "http:\/\/t.co\/Gv3j7GYXuI",
+      "expanded_url" : "http:\/\/bit.ly\/1JqGy5z",
+      "display_url" : "bit.ly\/1JqGy5z"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "616024832690528257",
+  "text" : "RT @educationweek: .@EarlyYearsEW: Preschoolers, Elders Share Retirement Home and Equal Billing in Planned Film http:\/\/t.co\/Gv3j7GYXuI #ear\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "Early Years",
+        "screen_name" : "EarlyYearsEW",
+        "indices" : [ 1, 14 ],
+        "id_str" : "1072383656",
+        "id" : 1072383656
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "earlychildhood",
+        "indices" : [ 116, 131 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 93, 115 ],
+        "url" : "http:\/\/t.co\/Gv3j7GYXuI",
+        "expanded_url" : "http:\/\/bit.ly\/1JqGy5z",
+        "display_url" : "bit.ly\/1JqGy5z"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "616019718227427328",
+    "text" : ".@EarlyYearsEW: Preschoolers, Elders Share Retirement Home and Equal Billing in Planned Film http:\/\/t.co\/Gv3j7GYXuI #earlychildhood",
+    "id" : 616019718227427328,
+    "created_at" : "2015-06-30 23:05:20 +0000",
+    "user" : {
+      "name" : "Education Week",
+      "screen_name" : "educationweek",
+      "protected" : false,
+      "id_str" : "15147042",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/460768184279117825\/KVtl_fK__normal.png",
+      "id" : 15147042,
+      "verified" : true
+    }
+  },
+  "id" : 616024832690528257,
+  "created_at" : "2015-06-30 23:25:39 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "EE Times",
+      "screen_name" : "eetimes",
+      "indices" : [ 3, 11 ],
+      "id_str" : "111645972",
+      "id" : 111645972
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 50, 72 ],
+      "url" : "http:\/\/t.co\/iOlpDLqlyA",
+      "expanded_url" : "http:\/\/ubm.io\/1KrmhzS",
+      "display_url" : "ubm.io\/1KrmhzS"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "616024663047700480",
+  "text" : "RT @eetimes: RISC vs CISC: What's the Difference? http:\/\/t.co\/iOlpDLqlyA",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 37, 59 ],
+        "url" : "http:\/\/t.co\/iOlpDLqlyA",
+        "expanded_url" : "http:\/\/ubm.io\/1KrmhzS",
+        "display_url" : "ubm.io\/1KrmhzS"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "616019828701327360",
+    "text" : "RISC vs CISC: What's the Difference? http:\/\/t.co\/iOlpDLqlyA",
+    "id" : 616019828701327360,
+    "created_at" : "2015-06-30 23:05:46 +0000",
+    "user" : {
+      "name" : "EE Times",
+      "screen_name" : "eetimes",
+      "protected" : false,
+      "id_str" : "111645972",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3755166233\/cc115418c3ab46f7cc698572da86dcc1_normal.png",
+      "id" : 111645972,
+      "verified" : false
+    }
+  },
+  "id" : 616024663047700480,
+  "created_at" : "2015-06-30 23:24:59 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Make:",
+      "screen_name" : "make",
+      "indices" : [ 3, 8 ],
+      "id_str" : "1118451",
+      "id" : 1118451
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "LEGO",
+      "indices" : [ 43, 48 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 102, 124 ],
+      "url" : "http:\/\/t.co\/cs217mc4rM",
+      "expanded_url" : "http:\/\/bit.ly\/1KoHOrc",
+      "display_url" : "bit.ly\/1KoHOrc"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "616024634136358912",
+  "text" : "RT @make: Transform your favorite art into #LEGO mosaic using \u201CBricasso,\u201D an all-Lego mosaic printer! http:\/\/t.co\/cs217mc4rM http:\/\/t.co\/96\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/make\/status\/616019908237860864\/photo\/1",
+        "indices" : [ 115, 137 ],
+        "url" : "http:\/\/t.co\/96dqUgkhns",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CIyK17lWcAA35BS.jpg",
+        "id_str" : "616019908174966784",
+        "id" : 616019908174966784,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CIyK17lWcAA35BS.jpg",
+        "sizes" : [ {
+          "h" : 344,
+          "resize" : "fit",
+          "w" : 620
+        }, {
+          "h" : 344,
+          "resize" : "fit",
+          "w" : 620
+        }, {
+          "h" : 344,
+          "resize" : "fit",
+          "w" : 620
+        }, {
+          "h" : 344,
+          "resize" : "fit",
+          "w" : 620
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        } ],
+        "display_url" : "pic.twitter.com\/96dqUgkhns"
+      } ],
+      "hashtags" : [ {
+        "text" : "LEGO",
+        "indices" : [ 33, 38 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 92, 114 ],
+        "url" : "http:\/\/t.co\/cs217mc4rM",
+        "expanded_url" : "http:\/\/bit.ly\/1KoHOrc",
+        "display_url" : "bit.ly\/1KoHOrc"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "616019908237860864",
+    "text" : "Transform your favorite art into #LEGO mosaic using \u201CBricasso,\u201D an all-Lego mosaic printer! http:\/\/t.co\/cs217mc4rM http:\/\/t.co\/96dqUgkhns",
+    "id" : 616019908237860864,
+    "created_at" : "2015-06-30 23:06:05 +0000",
+    "user" : {
+      "name" : "Make:",
+      "screen_name" : "make",
+      "protected" : false,
+      "id_str" : "1118451",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/783080298665775108\/LESsgngz_normal.jpg",
+      "id" : 1118451,
+      "verified" : true
+    }
+  },
+  "id" : 616024634136358912,
+  "created_at" : "2015-06-30 23:24:52 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Kickstarter",
+      "screen_name" : "kickstarter",
+      "indices" : [ 3, 15 ],
+      "id_str" : "16186995",
+      "id" : 16186995
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/kickstarter\/status\/616020913323008000\/photo\/1",
+      "indices" : [ 112, 134 ],
+      "url" : "http:\/\/t.co\/ui3UdN2JYk",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CIx3IryW8AAbA-q.png",
+      "id_str" : "615998240119517184",
+      "id" : 615998240119517184,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CIx3IryW8AAbA-q.png",
+      "sizes" : [ {
+        "h" : 601,
+        "resize" : "fit",
+        "w" : 679
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 601,
+        "resize" : "fit",
+        "w" : 679
+      }, {
+        "h" : 601,
+        "resize" : "fit",
+        "w" : 679
+      }, {
+        "h" : 601,
+        "resize" : "fit",
+        "w" : 679
+      } ],
+      "display_url" : "pic.twitter.com\/ui3UdN2JYk"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 88, 111 ],
+      "url" : "https:\/\/t.co\/ShuKRWyxej",
+      "expanded_url" : "https:\/\/www.kickstarter.com\/projects\/valenceone\/condense-a-game-about-collecting-mass",
+      "display_url" : "kickstarter.com\/projects\/valen\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "616024050339586048",
+  "text" : "RT @kickstarter: Start as a single atom, then collect mass to grow into larger objects: https:\/\/t.co\/ShuKRWyxej http:\/\/t.co\/ui3UdN2JYk",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/kickstarter\/status\/616020913323008000\/photo\/1",
+        "indices" : [ 95, 117 ],
+        "url" : "http:\/\/t.co\/ui3UdN2JYk",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CIx3IryW8AAbA-q.png",
+        "id_str" : "615998240119517184",
+        "id" : 615998240119517184,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CIx3IryW8AAbA-q.png",
+        "sizes" : [ {
+          "h" : 601,
+          "resize" : "fit",
+          "w" : 679
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 601,
+          "resize" : "fit",
+          "w" : 679
+        }, {
+          "h" : 601,
+          "resize" : "fit",
+          "w" : 679
+        }, {
+          "h" : 601,
+          "resize" : "fit",
+          "w" : 679
+        } ],
+        "display_url" : "pic.twitter.com\/ui3UdN2JYk"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 71, 94 ],
+        "url" : "https:\/\/t.co\/ShuKRWyxej",
+        "expanded_url" : "https:\/\/www.kickstarter.com\/projects\/valenceone\/condense-a-game-about-collecting-mass",
+        "display_url" : "kickstarter.com\/projects\/valen\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "616020913323008000",
+    "text" : "Start as a single atom, then collect mass to grow into larger objects: https:\/\/t.co\/ShuKRWyxej http:\/\/t.co\/ui3UdN2JYk",
+    "id" : 616020913323008000,
+    "created_at" : "2015-06-30 23:10:05 +0000",
+    "user" : {
+      "name" : "Kickstarter",
+      "screen_name" : "kickstarter",
+      "protected" : false,
+      "id_str" : "16186995",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930810738343600128\/SjHF8zs2_normal.jpg",
+      "id" : 16186995,
+      "verified" : true
+    }
+  },
+  "id" : 616024050339586048,
+  "created_at" : "2015-06-30 23:22:33 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "GPE",
+      "screen_name" : "GPforEducation",
+      "indices" : [ 3, 18 ],
+      "id_str" : "171314974",
+      "id" : 171314974
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 98, 120 ],
+      "url" : "http:\/\/t.co\/TKRYilEukw",
+      "expanded_url" : "http:\/\/bit.ly\/conflictedu",
+      "display_url" : "bit.ly\/conflictedu"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "616021577872842752",
+  "text" : "RT @GPforEducation: Education urgently needs to be made a priority in conflict-affected countries http:\/\/t.co\/TKRYilEukw",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 78, 100 ],
+        "url" : "http:\/\/t.co\/TKRYilEukw",
+        "expanded_url" : "http:\/\/bit.ly\/conflictedu",
+        "display_url" : "bit.ly\/conflictedu"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "616008085891493888",
+    "text" : "Education urgently needs to be made a priority in conflict-affected countries http:\/\/t.co\/TKRYilEukw",
+    "id" : 616008085891493888,
+    "created_at" : "2015-06-30 22:19:07 +0000",
+    "user" : {
+      "name" : "GPE",
+      "screen_name" : "GPforEducation",
+      "protected" : false,
+      "id_str" : "171314974",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2479080709\/g9iii4vpz2ra71c0efuo_normal.jpeg",
+      "id" : 171314974,
+      "verified" : true
+    }
+  },
+  "id" : 616021577872842752,
+  "created_at" : "2015-06-30 23:12:43 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "MaayBee",
+      "screen_name" : "missjaayne",
+      "indices" : [ 0, 11 ],
+      "id_str" : "607109595",
+      "id" : 607109595
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 13, 36 ],
+      "url" : "https:\/\/t.co\/FbZlZGRo6r",
+      "expanded_url" : "https:\/\/twitter.com\/VideosOfScience\/status\/615905427662835712",
+      "display_url" : "twitter.com\/VideosOfScienc\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "616021303905099776",
+  "in_reply_to_user_id" : 607109595,
+  "text" : "@missjaayne  https:\/\/t.co\/FbZlZGRo6r",
+  "id" : 616021303905099776,
+  "created_at" : "2015-06-30 23:11:38 +0000",
+  "in_reply_to_screen_name" : "missjaayne",
+  "in_reply_to_user_id_str" : "607109595",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Phys.org",
+      "screen_name" : "physorg_com",
+      "indices" : [ 3, 15 ],
+      "id_str" : "17248121",
+      "id" : 17248121
+    }, {
+      "name" : "NASA Goddard",
+      "screen_name" : "NASAGoddard",
+      "indices" : [ 82, 94 ],
+      "id_str" : "20060293",
+      "id" : 20060293
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 59, 81 ],
+      "url" : "http:\/\/t.co\/gqjbdHGh9A",
+      "expanded_url" : "http:\/\/phy.so\/354907670",
+      "display_url" : "phy.so\/354907670"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "616020813066715136",
+  "text" : "RT @physorg_com: NASA missions monitor a waking black hole http:\/\/t.co\/gqjbdHGh9A @NASAGoddard",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/sciencex.com\/\" rel=\"nofollow\"\u003EScience X Status Updates\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "NASA Goddard",
+        "screen_name" : "NASAGoddard",
+        "indices" : [ 65, 77 ],
+        "id_str" : "20060293",
+        "id" : 20060293
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 42, 64 ],
+        "url" : "http:\/\/t.co\/gqjbdHGh9A",
+        "expanded_url" : "http:\/\/phy.so\/354907670",
+        "display_url" : "phy.so\/354907670"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "616010316917440512",
+    "text" : "NASA missions monitor a waking black hole http:\/\/t.co\/gqjbdHGh9A @NASAGoddard",
+    "id" : 616010316917440512,
+    "created_at" : "2015-06-30 22:27:59 +0000",
+    "user" : {
+      "name" : "Phys.org",
+      "screen_name" : "physorg_com",
+      "protected" : false,
+      "id_str" : "17248121",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555400719478444032\/ky9g4wh6_normal.png",
+      "id" : 17248121,
+      "verified" : true
+    }
+  },
+  "id" : 616020813066715136,
+  "created_at" : "2015-06-30 23:09:41 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Maribel Acosta",
+      "screen_name" : "maribelacosta",
+      "indices" : [ 0, 14 ],
+      "id_str" : "38799512",
+      "id" : 38799512
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 16, 39 ],
+      "url" : "https:\/\/t.co\/l6lOzc6b7u",
+      "expanded_url" : "https:\/\/twitter.com\/udacity\/status\/616011838707396608",
+      "display_url" : "twitter.com\/udacity\/status\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "616020682246365184",
+  "in_reply_to_user_id" : 38799512,
+  "text" : "@maribelacosta  https:\/\/t.co\/l6lOzc6b7u",
+  "id" : 616020682246365184,
+  "created_at" : "2015-06-30 23:09:10 +0000",
+  "in_reply_to_screen_name" : "maribelacosta",
+  "in_reply_to_user_id_str" : "38799512",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Indiegogo",
+      "screen_name" : "Indiegogo",
+      "indices" : [ 3, 13 ],
+      "id_str" : "34732474",
+      "id" : 34732474
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/Indiegogo\/status\/616014465939603456\/photo\/1",
+      "indices" : [ 94, 116 ],
+      "url" : "http:\/\/t.co\/SFQrvbth3z",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CIyF5EoUcAAh1e4.png",
+      "id_str" : "616014464584806400",
+      "id" : 616014464584806400,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CIyF5EoUcAAh1e4.png",
+      "sizes" : [ {
+        "h" : 342,
+        "resize" : "fit",
+        "w" : 611
+      }, {
+        "h" : 342,
+        "resize" : "fit",
+        "w" : 611
+      }, {
+        "h" : 342,
+        "resize" : "fit",
+        "w" : 611
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 342,
+        "resize" : "fit",
+        "w" : 611
+      } ],
+      "display_url" : "pic.twitter.com\/SFQrvbth3z"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 71, 93 ],
+      "url" : "http:\/\/t.co\/8obFSY0BTd",
+      "expanded_url" : "http:\/\/igg.me\/at\/Kingii\/x\/6992136",
+      "display_url" : "igg.me\/at\/Kingii\/x\/69\u2026"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "616020409146863620",
+  "text" : "RT @Indiegogo: This wearable water safety device could save your life: http:\/\/t.co\/8obFSY0BTd http:\/\/t.co\/SFQrvbth3z",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/Indiegogo\/status\/616014465939603456\/photo\/1",
+        "indices" : [ 79, 101 ],
+        "url" : "http:\/\/t.co\/SFQrvbth3z",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CIyF5EoUcAAh1e4.png",
+        "id_str" : "616014464584806400",
+        "id" : 616014464584806400,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CIyF5EoUcAAh1e4.png",
+        "sizes" : [ {
+          "h" : 342,
+          "resize" : "fit",
+          "w" : 611
+        }, {
+          "h" : 342,
+          "resize" : "fit",
+          "w" : 611
+        }, {
+          "h" : 342,
+          "resize" : "fit",
+          "w" : 611
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 342,
+          "resize" : "fit",
+          "w" : 611
+        } ],
+        "display_url" : "pic.twitter.com\/SFQrvbth3z"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 56, 78 ],
+        "url" : "http:\/\/t.co\/8obFSY0BTd",
+        "expanded_url" : "http:\/\/igg.me\/at\/Kingii\/x\/6992136",
+        "display_url" : "igg.me\/at\/Kingii\/x\/69\u2026"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "616014465939603456",
+    "text" : "This wearable water safety device could save your life: http:\/\/t.co\/8obFSY0BTd http:\/\/t.co\/SFQrvbth3z",
+    "id" : 616014465939603456,
+    "created_at" : "2015-06-30 22:44:28 +0000",
+    "user" : {
+      "name" : "Indiegogo",
+      "screen_name" : "Indiegogo",
+      "protected" : false,
+      "id_str" : "34732474",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752602521609261056\/UfbPivD6_normal.jpg",
+      "id" : 34732474,
+      "verified" : true
+    }
+  },
+  "id" : 616020409146863620,
+  "created_at" : "2015-06-30 23:08:05 +0000",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",

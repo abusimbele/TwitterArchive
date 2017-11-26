@@ -2,215 +2,6 @@ Grailbird.data.tweets_2016_03 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
-      "screen_name" : "MinuDTizabi",
-      "indices" : [ 0, 12 ],
-      "id_str" : "3058667338",
-      "id" : 3058667338
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 14, 37 ],
-      "url" : "https:\/\/t.co\/8zOrt90dBo",
-      "expanded_url" : "https:\/\/twitter.com\/scienmag\/status\/715675088742391808",
-      "display_url" : "twitter.com\/scienmag\/statu\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "715684464848973825",
-  "in_reply_to_user_id" : 3058667338,
-  "text" : "@MinuDTizabi  https:\/\/t.co\/8zOrt90dBo",
-  "id" : 715684464848973825,
-  "created_at" : "2016-03-31 23:37:27 +0000",
-  "in_reply_to_screen_name" : "MinuDTizabi",
-  "in_reply_to_user_id_str" : "3058667338",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Bernie Sanders",
-      "screen_name" : "SenSanders",
-      "indices" : [ 3, 14 ],
-      "id_str" : "29442313",
-      "id" : 29442313
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "715682794547097600",
-  "text" : "RT @SenSanders: We should not accept that programs many other nations have instituted- affordable college, universal healthcare- are imposs\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "715673834586812416",
-    "text" : "We should not accept that programs many other nations have instituted- affordable college, universal healthcare- are impossible in America.",
-    "id" : 715673834586812416,
-    "created_at" : "2016-03-31 22:55:13 +0000",
-    "user" : {
-      "name" : "Bernie Sanders",
-      "screen_name" : "SenSanders",
-      "protected" : false,
-      "id_str" : "29442313",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/794619281271033856\/Fs0QQaH7_normal.jpg",
-      "id" : 29442313,
-      "verified" : true
-    }
-  },
-  "id" : 715682794547097600,
-  "created_at" : "2016-03-31 23:30:49 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "hackaday",
-      "screen_name" : "hackaday",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14607140",
-      "id" : 14607140
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 87, 110 ],
-      "url" : "https:\/\/t.co\/Iv6HVGWjdP",
-      "expanded_url" : "http:\/\/wp.me\/pk3lN-Pke",
-      "display_url" : "wp.me\/pk3lN-Pke"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "715682569384275968",
-  "text" : "RT @hackaday: PJON, Fancy One Wire Arduino Communications Protocol For Home Automation https:\/\/t.co\/Iv6HVGWjdP",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/publicize.wp.com\/\" rel=\"nofollow\"\u003EWordPress.com\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 73, 96 ],
-        "url" : "https:\/\/t.co\/Iv6HVGWjdP",
-        "expanded_url" : "http:\/\/wp.me\/pk3lN-Pke",
-        "display_url" : "wp.me\/pk3lN-Pke"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "715629858768859137",
-    "text" : "PJON, Fancy One Wire Arduino Communications Protocol For Home Automation https:\/\/t.co\/Iv6HVGWjdP",
-    "id" : 715629858768859137,
-    "created_at" : "2016-03-31 20:00:28 +0000",
-    "user" : {
-      "name" : "hackaday",
-      "screen_name" : "hackaday",
-      "protected" : false,
-      "id_str" : "14607140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699222440702926848\/8Pm7yZFb_normal.png",
-      "id" : 14607140,
-      "verified" : true
-    }
-  },
-  "id" : 715682569384275968,
-  "created_at" : "2016-03-31 23:29:55 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "hackaday",
-      "screen_name" : "hackaday",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14607140",
-      "id" : 14607140
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 71, 94 ],
-      "url" : "https:\/\/t.co\/pX7mMPaobc",
-      "expanded_url" : "http:\/\/wp.me\/pk3lN-PsX",
-      "display_url" : "wp.me\/pk3lN-PsX"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "715677631660863489",
-  "text" : "RT @hackaday: 3D-Printed Case Turns Servo into Quality Linear Actuator https:\/\/t.co\/pX7mMPaobc",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/publicize.wp.com\/\" rel=\"nofollow\"\u003EWordPress.com\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 57, 80 ],
-        "url" : "https:\/\/t.co\/pX7mMPaobc",
-        "expanded_url" : "http:\/\/wp.me\/pk3lN-PsX",
-        "display_url" : "wp.me\/pk3lN-PsX"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "715675237853999105",
-    "text" : "3D-Printed Case Turns Servo into Quality Linear Actuator https:\/\/t.co\/pX7mMPaobc",
-    "id" : 715675237853999105,
-    "created_at" : "2016-03-31 23:00:47 +0000",
-    "user" : {
-      "name" : "hackaday",
-      "screen_name" : "hackaday",
-      "protected" : false,
-      "id_str" : "14607140",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/699222440702926848\/8Pm7yZFb_normal.png",
-      "id" : 14607140,
-      "verified" : true
-    }
-  },
-  "id" : 715677631660863489,
-  "created_at" : "2016-03-31 23:10:18 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/715612913504022530\/photo\/1",
@@ -614,7 +405,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "KITKarlsruhe",
       "protected" : false,
       "id_str" : "91110697",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534074098\/kit_logo_en_farbe_positiv_klein_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927888741288603649\/gfA8OXGq_normal.jpg",
       "id" : 91110697,
       "verified" : true
     }
@@ -1950,7 +1741,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -3286,7 +3077,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -3353,11 +3144,11 @@ Grailbird.data.tweets_2016_03 =
     "id" : 714879958557007872,
     "created_at" : "2016-03-29 18:20:38 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -5516,7 +5307,7 @@ Grailbird.data.tweets_2016_03 =
       "id_str" : "2307675307",
       "id" : 2307675307
     }, {
-      "name" : "Wall Street Journal",
+      "name" : "The Wall Street Journal",
       "screen_name" : "WSJ",
       "indices" : [ 103, 107 ],
       "id_str" : "3108351",
@@ -5577,7 +5368,7 @@ Grailbird.data.tweets_2016_03 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Wall Street Journal",
+        "name" : "The Wall Street Journal",
         "screen_name" : "WSJ",
         "indices" : [ 83, 87 ],
         "id_str" : "3108351",
@@ -9798,7 +9589,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -9865,11 +9656,11 @@ Grailbird.data.tweets_2016_03 =
     "id" : 713728519340212224,
     "created_at" : "2016-03-26 14:05:14 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -11516,67 +11307,6 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "#Backlash",
-      "screen_name" : "backlashgroup",
-      "indices" : [ 3, 17 ],
-      "id_str" : "3191218762",
-      "id" : 3191218762
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 99, 122 ],
-      "url" : "https:\/\/t.co\/FI6YRr8r8L",
-      "expanded_url" : "http:\/\/ow.ly\/ZP4tk",
-      "display_url" : "ow.ly\/ZP4tk"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "713373171890655233",
-  "text" : "RT @backlashgroup: Saudi Arabia brutality against its people revealed in video | Daily Mail Online https:\/\/t.co\/FI6YRr8r8L",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 80, 103 ],
-        "url" : "https:\/\/t.co\/FI6YRr8r8L",
-        "expanded_url" : "http:\/\/ow.ly\/ZP4tk",
-        "display_url" : "ow.ly\/ZP4tk"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "712382796279517184",
-    "text" : "Saudi Arabia brutality against its people revealed in video | Daily Mail Online https:\/\/t.co\/FI6YRr8r8L",
-    "id" : 712382796279517184,
-    "created_at" : "2016-03-22 20:57:48 +0000",
-    "user" : {
-      "name" : "#Backlash",
-      "screen_name" : "backlashgroup",
-      "protected" : false,
-      "id_str" : "3191218762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605284781241286656\/9N4qMFRa_normal.png",
-      "id" : 3191218762,
-      "verified" : false
-    }
-  },
-  "id" : 713373171890655233,
-  "created_at" : "2016-03-25 14:33:12 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Abacus Books",
       "screen_name" : "AbacusBooks",
       "indices" : [ 3, 15 ],
@@ -11710,7 +11440,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "AbacusBooks",
       "protected" : false,
       "id_str" : "38146811",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/830007108917657601\/O76d8lb5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/929016063429365762\/ubbePSHa_normal.jpg",
       "id" : 38146811,
       "verified" : false
     }
@@ -12075,7 +11805,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "MailOnline",
       "protected" : false,
       "id_str" : "15438913",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/907912182523981824\/3vkEVuHh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930087648202575872\/q4pq9RGV_normal.jpg",
       "id" : 15438913,
       "verified" : true
     }
@@ -24143,7 +23873,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 139, 143 ],
       "id_str" : "15460048",
@@ -25772,7 +25502,7 @@ Grailbird.data.tweets_2016_03 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "James Giannantonio",
+      "name" : "James G.",
       "screen_name" : "jjgiannantonio",
       "indices" : [ 3, 18 ],
       "id_str" : "2223374978",
@@ -25839,7 +25569,7 @@ Grailbird.data.tweets_2016_03 =
     "in_reply_to_screen_name" : "RaytonSolar",
     "in_reply_to_user_id_str" : "2360236130",
     "user" : {
-      "name" : "James Giannantonio",
+      "name" : "James G.",
       "screen_name" : "jjgiannantonio",
       "protected" : false,
       "id_str" : "2223374978",
@@ -25999,25 +25729,25 @@ Grailbird.data.tweets_2016_03 =
       "id" : 710250040917364736,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/710250040917364736\/pu\/img\/NBIiXRZujWCy2_-B.jpg",
       "sizes" : [ {
-        "h" : 0,
+        "h" : 383,
         "resize" : "fit",
-        "w" : 0
+        "w" : 680
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 1280
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 338,
+        "h" : 720,
         "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 191,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 576,
-        "resize" : "fit",
-        "w" : 1024
+        "w" : 1280
       } ],
       "display_url" : "pic.twitter.com\/9DLQ1z5osy"
     } ],
@@ -26040,25 +25770,25 @@ Grailbird.data.tweets_2016_03 =
         "id" : 710250040917364736,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/710250040917364736\/pu\/img\/NBIiXRZujWCy2_-B.jpg",
         "sizes" : [ {
-          "h" : 0,
+          "h" : 383,
           "resize" : "fit",
-          "w" : 0
+          "w" : 680
+        }, {
+          "h" : 675,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1280
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 338,
+          "h" : 720,
           "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 191,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 576,
-          "resize" : "fit",
-          "w" : 1024
+          "w" : 1280
         } ],
         "display_url" : "pic.twitter.com\/9DLQ1z5osy"
       } ],
@@ -26082,98 +25812,6 @@ Grailbird.data.tweets_2016_03 =
   },
   "id" : 710255388306837504,
   "created_at" : "2016-03-17 00:04:15 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "#Backlash",
-      "screen_name" : "backlashgroup",
-      "indices" : [ 3, 17 ],
-      "id_str" : "3191218762",
-      "id" : 3191218762
-    }, {
-      "name" : "Raif Badawi",
-      "screen_name" : "raif_badawi",
-      "indices" : [ 89, 101 ],
-      "id_str" : "50746928",
-      "id" : 50746928
-    }, {
-      "name" : "Ensaf haidar",
-      "screen_name" : "miss9afi",
-      "indices" : [ 102, 111 ],
-      "id_str" : "309187913",
-      "id" : 309187913
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "FreeRaif",
-      "indices" : [ 112, 121 ]
-    }, {
-      "text" : "Backlash",
-      "indices" : [ 122, 131 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "710253248591093760",
-  "text" : "RT @backlashgroup: Little, Brown and English PEN hold vigil for imprisoned Saudi blogger @Raif_Badawi @miss9afi #FreeRaif #Backlash\n\nhttps:\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Raif Badawi",
-        "screen_name" : "raif_badawi",
-        "indices" : [ 70, 82 ],
-        "id_str" : "50746928",
-        "id" : 50746928
-      }, {
-        "name" : "Ensaf haidar",
-        "screen_name" : "miss9afi",
-        "indices" : [ 83, 92 ],
-        "id_str" : "309187913",
-        "id" : 309187913
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "FreeRaif",
-        "indices" : [ 93, 102 ]
-      }, {
-        "text" : "Backlash",
-        "indices" : [ 103, 112 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 114, 137 ],
-        "url" : "https:\/\/t.co\/YAHDIVYxTE",
-        "expanded_url" : "http:\/\/ow.ly\/Zzzu4",
-        "display_url" : "ow.ly\/Zzzu4"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "710250982899372033",
-    "text" : "Little, Brown and English PEN hold vigil for imprisoned Saudi blogger @Raif_Badawi @miss9afi #FreeRaif #Backlash\n\nhttps:\/\/t.co\/YAHDIVYxTE",
-    "id" : 710250982899372033,
-    "created_at" : "2016-03-16 23:46:44 +0000",
-    "user" : {
-      "name" : "#Backlash",
-      "screen_name" : "backlashgroup",
-      "protected" : false,
-      "id_str" : "3191218762",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/605284781241286656\/9N4qMFRa_normal.png",
-      "id" : 3191218762,
-      "verified" : false
-    }
-  },
-  "id" : 710253248591093760,
-  "created_at" : "2016-03-16 23:55:44 +0000",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",
@@ -27749,7 +27387,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "arduino",
       "protected" : false,
       "id_str" : "266400754",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925810344420872194\/upbtlgzt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/928655749605199872\/ygogGX2j_normal.jpg",
       "id" : 266400754,
       "verified" : true
     }
@@ -31825,25 +31463,25 @@ Grailbird.data.tweets_2016_03 =
       "id" : 709503119865069569,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/709503119865069569\/pu\/img\/sD5cu8Iw180suYHP.jpg",
       "sizes" : [ {
-        "h" : 333,
+        "h" : 400,
         "resize" : "fit",
-        "w" : 600
+        "w" : 720
       }, {
         "h" : 400,
         "resize" : "fit",
         "w" : 720
       }, {
-        "h" : 189,
+        "h" : 378,
         "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 0,
-        "resize" : "fit",
-        "w" : 0
+        "w" : 680
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 720
       } ],
       "display_url" : "pic.twitter.com\/m1OW2pBspL"
     } ],
@@ -31878,25 +31516,25 @@ Grailbird.data.tweets_2016_03 =
         "id" : 709503119865069569,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/709503119865069569\/pu\/img\/sD5cu8Iw180suYHP.jpg",
         "sizes" : [ {
-          "h" : 333,
+          "h" : 400,
           "resize" : "fit",
-          "w" : 600
+          "w" : 720
         }, {
           "h" : 400,
           "resize" : "fit",
           "w" : 720
         }, {
-          "h" : 189,
+          "h" : 378,
           "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 0,
-          "resize" : "fit",
-          "w" : 0
+          "w" : 680
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 400,
+          "resize" : "fit",
+          "w" : 720
         } ],
         "display_url" : "pic.twitter.com\/m1OW2pBspL"
       } ],
@@ -40402,7 +40040,7 @@ Grailbird.data.tweets_2016_03 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }

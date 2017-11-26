@@ -2,1298 +2,6 @@ Grailbird.data.tweets_2015_04 =
  [ {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/zArchitectBill\/status\/593861871846883328\/photo\/1",
-      "indices" : [ 113, 135 ],
-      "url" : "http:\/\/t.co\/ME8SPtoxCs",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CD3SOdgUsAElB-W.png",
-      "id_str" : "593861871762976769",
-      "id" : 593861871762976769,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CD3SOdgUsAElB-W.png",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "fit",
-        "w" : 150
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 150,
-        "resize" : "fit",
-        "w" : 150
-      }, {
-        "h" : 150,
-        "resize" : "fit",
-        "w" : 150
-      }, {
-        "h" : 150,
-        "resize" : "fit",
-        "w" : 150
-      } ],
-      "display_url" : "pic.twitter.com\/ME8SPtoxCs"
-    } ],
-    "hashtags" : [ {
-      "text" : "arduino",
-      "indices" : [ 76, 84 ]
-    }, {
-      "text" : "IoT",
-      "indices" : [ 85, 89 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 90, 112 ],
-      "url" : "http:\/\/t.co\/5HdP4kd5Zn",
-      "expanded_url" : "http:\/\/bit.ly\/1DFgpK8",
-      "display_url" : "bit.ly\/1DFgpK8"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593913018280505344",
-  "text" : "RT @zArchitectBill: Connect Your Arduino Uno Device To IBM's IoT Foundation #arduino #IoT http:\/\/t.co\/5HdP4kd5Zn http:\/\/t.co\/ME8SPtoxCs",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/dynamicsignal.com\/\" rel=\"nofollow\"\u003EVoiceStorm\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/zArchitectBill\/status\/593861871846883328\/photo\/1",
-        "indices" : [ 93, 115 ],
-        "url" : "http:\/\/t.co\/ME8SPtoxCs",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CD3SOdgUsAElB-W.png",
-        "id_str" : "593861871762976769",
-        "id" : 593861871762976769,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CD3SOdgUsAElB-W.png",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "fit",
-          "w" : 150
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 150,
-          "resize" : "fit",
-          "w" : 150
-        }, {
-          "h" : 150,
-          "resize" : "fit",
-          "w" : 150
-        }, {
-          "h" : 150,
-          "resize" : "fit",
-          "w" : 150
-        } ],
-        "display_url" : "pic.twitter.com\/ME8SPtoxCs"
-      } ],
-      "hashtags" : [ {
-        "text" : "arduino",
-        "indices" : [ 56, 64 ]
-      }, {
-        "text" : "IoT",
-        "indices" : [ 65, 69 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 70, 92 ],
-        "url" : "http:\/\/t.co\/5HdP4kd5Zn",
-        "expanded_url" : "http:\/\/bit.ly\/1DFgpK8",
-        "display_url" : "bit.ly\/1DFgpK8"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "593861871846883328",
-    "text" : "Connect Your Arduino Uno Device To IBM's IoT Foundation #arduino #IoT http:\/\/t.co\/5HdP4kd5Zn http:\/\/t.co\/ME8SPtoxCs",
-    "id" : 593861871846883328,
-    "created_at" : "2015-04-30 19:37:58 +0000",
-    "user" : {
-      "name" : "Bill The ITArchitect",
-      "screen_name" : "ITArchitectBill",
-      "protected" : false,
-      "id_str" : "285719172",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793194162086641664\/gYpFFBd7_normal.jpg",
-      "id" : 285719172,
-      "verified" : false
-    }
-  },
-  "id" : 593913018280505344,
-  "created_at" : "2015-04-30 23:01:12 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Science Magazine",
-      "screen_name" : "sciencemagazine",
-      "indices" : [ 3, 19 ],
-      "id_str" : "32372834",
-      "id" : 32372834
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/sciencemagazine\/status\/593880379045617664\/photo\/1",
-      "indices" : [ 103, 125 ],
-      "url" : "http:\/\/t.co\/f1gSwQUH9Q",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CD3jDtYWYAEGYQj.jpg",
-      "id_str" : "593880378743611393",
-      "id" : 593880378743611393,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CD3jDtYWYAEGYQj.jpg",
-      "sizes" : [ {
-        "h" : 2829,
-        "resize" : "fit",
-        "w" : 2000
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 848
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 481
-      }, {
-        "h" : 2048,
-        "resize" : "fit",
-        "w" : 1448
-      } ],
-      "display_url" : "pic.twitter.com\/f1gSwQUH9Q"
-    } ],
-    "hashtags" : [ {
-      "text" : "SpecialIssue",
-      "indices" : [ 43, 56 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 80, 102 ],
-      "url" : "http:\/\/t.co\/MAnKw0tV84",
-      "expanded_url" : "http:\/\/www.sciencemag.org\/content\/348\/6234#SpecialIssue?utm_source=twitter&utm_medium=social&utm_campaign=twitter",
-      "display_url" : "sciencemag.org\/content\/348\/62\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593912492105080832",
-  "text" : "RT @sciencemagazine: Check out this week\u2019s #SpecialIssue on light &amp; optics! http:\/\/t.co\/MAnKw0tV84 http:\/\/t.co\/f1gSwQUH9Q",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/sciencemagazine\/status\/593880379045617664\/photo\/1",
-        "indices" : [ 82, 104 ],
-        "url" : "http:\/\/t.co\/f1gSwQUH9Q",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CD3jDtYWYAEGYQj.jpg",
-        "id_str" : "593880378743611393",
-        "id" : 593880378743611393,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CD3jDtYWYAEGYQj.jpg",
-        "sizes" : [ {
-          "h" : 2829,
-          "resize" : "fit",
-          "w" : 2000
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 1200,
-          "resize" : "fit",
-          "w" : 848
-        }, {
-          "h" : 680,
-          "resize" : "fit",
-          "w" : 481
-        }, {
-          "h" : 2048,
-          "resize" : "fit",
-          "w" : 1448
-        } ],
-        "display_url" : "pic.twitter.com\/f1gSwQUH9Q"
-      } ],
-      "hashtags" : [ {
-        "text" : "SpecialIssue",
-        "indices" : [ 22, 35 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 59, 81 ],
-        "url" : "http:\/\/t.co\/MAnKw0tV84",
-        "expanded_url" : "http:\/\/www.sciencemag.org\/content\/348\/6234#SpecialIssue?utm_source=twitter&utm_medium=social&utm_campaign=twitter",
-        "display_url" : "sciencemag.org\/content\/348\/62\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "593880379045617664",
-    "text" : "Check out this week\u2019s #SpecialIssue on light &amp; optics! http:\/\/t.co\/MAnKw0tV84 http:\/\/t.co\/f1gSwQUH9Q",
-    "id" : 593880379045617664,
-    "created_at" : "2015-04-30 20:51:30 +0000",
-    "user" : {
-      "name" : "Science Magazine",
-      "screen_name" : "sciencemagazine",
-      "protected" : false,
-      "id_str" : "32372834",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/885961364644261888\/k2uehOaU_normal.jpg",
-      "id" : 32372834,
-      "verified" : true
-    }
-  },
-  "id" : 593912492105080832,
-  "created_at" : "2015-04-30 22:59:07 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "TED Talks",
-      "screen_name" : "TEDTalks",
-      "indices" : [ 3, 12 ],
-      "id_str" : "15492359",
-      "id" : 15492359
-    }, {
-      "name" : "TED-Ed",
-      "screen_name" : "TED_ED",
-      "indices" : [ 79, 86 ],
-      "id_str" : "259403751",
-      "id" : 259403751
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 52, 74 ],
-      "url" : "http:\/\/t.co\/XGWT0rlx8l",
-      "expanded_url" : "http:\/\/t.ted.com\/lOxwYFo",
-      "display_url" : "t.ted.com\/lOxwYFo"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593912449637679104",
-  "text" : "RT @TEDTalks: This is how static electricity works: http:\/\/t.co\/XGWT0rlx8l via @TED_ED",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003ESocialFlow\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "TED-Ed",
-        "screen_name" : "TED_ED",
-        "indices" : [ 65, 72 ],
-        "id_str" : "259403751",
-        "id" : 259403751
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 38, 60 ],
-        "url" : "http:\/\/t.co\/XGWT0rlx8l",
-        "expanded_url" : "http:\/\/t.ted.com\/lOxwYFo",
-        "display_url" : "t.ted.com\/lOxwYFo"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "593880561992790016",
-    "text" : "This is how static electricity works: http:\/\/t.co\/XGWT0rlx8l via @TED_ED",
-    "id" : 593880561992790016,
-    "created_at" : "2015-04-30 20:52:14 +0000",
-    "user" : {
-      "name" : "TED Talks",
-      "screen_name" : "TEDTalks",
-      "protected" : false,
-      "id_str" : "15492359",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/877631054525472768\/Xp5FAPD5_normal.jpg",
-      "id" : 15492359,
-      "verified" : true
-    }
-  },
-  "id" : 593912449637679104,
-  "created_at" : "2015-04-30 22:58:57 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Engadget",
-      "screen_name" : "engadget",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14372486",
-      "id" : 14372486
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/engadget\/status\/593883286612606976\/photo\/1",
-      "indices" : [ 90, 112 ],
-      "url" : "http:\/\/t.co\/EmMnfhjJ8i",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CD3lszdWYAAfNpH.jpg",
-      "id_str" : "593883283773087744",
-      "id" : 593883283773087744,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CD3lszdWYAAfNpH.jpg",
-      "sizes" : [ {
-        "h" : 394,
-        "resize" : "fit",
-        "w" : 630
-      }, {
-        "h" : 394,
-        "resize" : "fit",
-        "w" : 630
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 394,
-        "resize" : "fit",
-        "w" : 630
-      }, {
-        "h" : 394,
-        "resize" : "fit",
-        "w" : 630
-      } ],
-      "display_url" : "pic.twitter.com\/EmMnfhjJ8i"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 67, 89 ],
-      "url" : "http:\/\/t.co\/2WUFFiQ5Wp",
-      "expanded_url" : "http:\/\/engt.co\/1JcI0rh",
-      "display_url" : "engt.co\/1JcI0rh"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593911650283040770",
-  "text" : "RT @engadget: Valve releases a kit for making virtual reality apps http:\/\/t.co\/2WUFFiQ5Wp http:\/\/t.co\/EmMnfhjJ8i",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.aol.com\" rel=\"nofollow\"\u003EAOL Blogsmith\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/engadget\/status\/593883286612606976\/photo\/1",
-        "indices" : [ 76, 98 ],
-        "url" : "http:\/\/t.co\/EmMnfhjJ8i",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CD3lszdWYAAfNpH.jpg",
-        "id_str" : "593883283773087744",
-        "id" : 593883283773087744,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CD3lszdWYAAfNpH.jpg",
-        "sizes" : [ {
-          "h" : 394,
-          "resize" : "fit",
-          "w" : 630
-        }, {
-          "h" : 394,
-          "resize" : "fit",
-          "w" : 630
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 394,
-          "resize" : "fit",
-          "w" : 630
-        }, {
-          "h" : 394,
-          "resize" : "fit",
-          "w" : 630
-        } ],
-        "display_url" : "pic.twitter.com\/EmMnfhjJ8i"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 53, 75 ],
-        "url" : "http:\/\/t.co\/2WUFFiQ5Wp",
-        "expanded_url" : "http:\/\/engt.co\/1JcI0rh",
-        "display_url" : "engt.co\/1JcI0rh"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "593883286612606976",
-    "text" : "Valve releases a kit for making virtual reality apps http:\/\/t.co\/2WUFFiQ5Wp http:\/\/t.co\/EmMnfhjJ8i",
-    "id" : 593883286612606976,
-    "created_at" : "2015-04-30 21:03:04 +0000",
-    "user" : {
-      "name" : "Engadget",
-      "screen_name" : "engadget",
-      "protected" : false,
-      "id_str" : "14372486",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655059892022022144\/Pq3Q_1oU_normal.png",
-      "id" : 14372486,
-      "verified" : true
-    }
-  },
-  "id" : 593911650283040770,
-  "created_at" : "2015-04-30 22:55:46 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "ScienceDaily",
-      "screen_name" : "ScienceDaily",
-      "indices" : [ 3, 16 ],
-      "id_str" : "18700629",
-      "id" : 18700629
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 63, 85 ],
-      "url" : "http:\/\/t.co\/XZoC4NB8jn",
-      "expanded_url" : "http:\/\/bit.ly\/1It88zQ",
-      "display_url" : "bit.ly\/1It88zQ"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593911259642404865",
-  "text" : "RT @ScienceDaily: Engineering a Better Solar Cell: Use Flaws - http:\/\/t.co\/XZoC4NB8jn",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 45, 67 ],
-        "url" : "http:\/\/t.co\/XZoC4NB8jn",
-        "expanded_url" : "http:\/\/bit.ly\/1It88zQ",
-        "display_url" : "bit.ly\/1It88zQ"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "593888249497550849",
-    "text" : "Engineering a Better Solar Cell: Use Flaws - http:\/\/t.co\/XZoC4NB8jn",
-    "id" : 593888249497550849,
-    "created_at" : "2015-04-30 21:22:47 +0000",
-    "user" : {
-      "name" : "ScienceDaily",
-      "screen_name" : "ScienceDaily",
-      "protected" : false,
-      "id_str" : "18700629",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/887738529668673536\/LQyAlyUh_normal.jpg",
-      "id" : 18700629,
-      "verified" : true
-    }
-  },
-  "id" : 593911259642404865,
-  "created_at" : "2015-04-30 22:54:13 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "NASA Technology",
-      "screen_name" : "NASA_Technology",
-      "indices" : [ 3, 19 ],
-      "id_str" : "159588456",
-      "id" : 159588456
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "NASA",
-      "indices" : [ 39, 44 ]
-    }, {
-      "text" : "321TechOff",
-      "indices" : [ 127, 138 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "593911193875677185",
-  "text" : "RT @NASA_Technology: Code sharing with #NASA! 2nd ed. of Software Catalog w\/ more than 1,000 downloadable codes now available! #321TechOff \u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "NASA",
-        "indices" : [ 18, 23 ]
-      }, {
-        "text" : "321TechOff",
-        "indices" : [ 106, 117 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 118, 140 ],
-        "url" : "http:\/\/t.co\/epS1mN5CaS",
-        "expanded_url" : "http:\/\/www.nasa.gov\/feature\/nasa-updates-reissues-one-stop-shop-software-catalog",
-        "display_url" : "nasa.gov\/feature\/nasa-u\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "593803743231135744",
-    "text" : "Code sharing with #NASA! 2nd ed. of Software Catalog w\/ more than 1,000 downloadable codes now available! #321TechOff http:\/\/t.co\/epS1mN5CaS",
-    "id" : 593803743231135744,
-    "created_at" : "2015-04-30 15:46:59 +0000",
-    "user" : {
-      "name" : "NASA Technology",
-      "screen_name" : "NASA_Technology",
-      "protected" : false,
-      "id_str" : "159588456",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1074223648\/nasalogo_twitter_normal.jpg",
-      "id" : 159588456,
-      "verified" : true
-    }
-  },
-  "id" : 593911193875677185,
-  "created_at" : "2015-04-30 22:53:57 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Stanford University",
-      "screen_name" : "Stanford",
-      "indices" : [ 3, 12 ],
-      "id_str" : "18036441",
-      "id" : 18036441
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 109, 131 ],
-      "url" : "http:\/\/t.co\/e55tE51zPM",
-      "expanded_url" : "http:\/\/stanford.io\/1Ek1wAS",
-      "display_url" : "stanford.io\/1Ek1wAS"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593911103136079872",
-  "text" : "RT @Stanford: Said this month at Stanford: \"We have to deal with the reality that we are in a new climate.\"  http:\/\/t.co\/e55tE51zPM",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003ESocialFlow\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 95, 117 ],
-        "url" : "http:\/\/t.co\/e55tE51zPM",
-        "expanded_url" : "http:\/\/stanford.io\/1Ek1wAS",
-        "display_url" : "stanford.io\/1Ek1wAS"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "593890849823563776",
-    "text" : "Said this month at Stanford: \"We have to deal with the reality that we are in a new climate.\"  http:\/\/t.co\/e55tE51zPM",
-    "id" : 593890849823563776,
-    "created_at" : "2015-04-30 21:33:07 +0000",
-    "user" : {
-      "name" : "Stanford University",
-      "screen_name" : "Stanford",
-      "protected" : false,
-      "id_str" : "18036441",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875395483128049664\/8z_jvdLB_normal.jpg",
-      "id" : 18036441,
-      "verified" : true
-    }
-  },
-  "id" : 593911103136079872,
-  "created_at" : "2015-04-30 22:53:35 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "NASA",
-      "screen_name" : "NASA",
-      "indices" : [ 3, 8 ],
-      "id_str" : "11348282",
-      "id" : 11348282
-    }, {
-      "name" : "MESSENGER",
-      "screen_name" : "MESSENGER2011",
-      "indices" : [ 18, 32 ],
-      "id_str" : "16029857",
-      "id" : 16029857
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 104, 126 ],
-      "url" : "http:\/\/t.co\/83yWT4T49O",
-      "expanded_url" : "http:\/\/go.nasa.gov\/1zvpc6N",
-      "display_url" : "go.nasa.gov\/1zvpc6N"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593910923414413312",
-  "text" : "RT @NASA: Goodbye @MESSENGER2011! The spacecraft sent its final pic before impacting Mercury's surface: http:\/\/t.co\/83yWT4T49O http:\/\/t.co\/\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "MESSENGER",
-        "screen_name" : "MESSENGER2011",
-        "indices" : [ 8, 22 ],
-        "id_str" : "16029857",
-        "id" : 16029857
-      } ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/NASA\/status\/593890946418368512\/photo\/1",
-        "indices" : [ 117, 139 ],
-        "url" : "http:\/\/t.co\/kMP2NwNpTt",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CD3sq0qWMAArSnJ.jpg",
-        "id_str" : "593890946317692928",
-        "id" : 593890946317692928,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CD3sq0qWMAArSnJ.jpg",
-        "sizes" : [ {
-          "h" : 512,
-          "resize" : "fit",
-          "w" : 508
-        }, {
-          "h" : 512,
-          "resize" : "fit",
-          "w" : 508
-        }, {
-          "h" : 512,
-          "resize" : "fit",
-          "w" : 508
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 512,
-          "resize" : "fit",
-          "w" : 508
-        } ],
-        "display_url" : "pic.twitter.com\/kMP2NwNpTt"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 94, 116 ],
-        "url" : "http:\/\/t.co\/83yWT4T49O",
-        "expanded_url" : "http:\/\/go.nasa.gov\/1zvpc6N",
-        "display_url" : "go.nasa.gov\/1zvpc6N"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "593890946418368512",
-    "text" : "Goodbye @MESSENGER2011! The spacecraft sent its final pic before impacting Mercury's surface: http:\/\/t.co\/83yWT4T49O http:\/\/t.co\/kMP2NwNpTt",
-    "id" : 593890946418368512,
-    "created_at" : "2015-04-30 21:33:30 +0000",
-    "user" : {
-      "name" : "NASA",
-      "screen_name" : "NASA",
-      "protected" : false,
-      "id_str" : "11348282",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/188302352\/nasalogo_twitter_normal.jpg",
-      "id" : 11348282,
-      "verified" : true
-    }
-  },
-  "id" : 593910923414413312,
-  "created_at" : "2015-04-30 22:52:53 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Engadget",
-      "screen_name" : "engadget",
-      "indices" : [ 3, 12 ],
-      "id_str" : "14372486",
-      "id" : 14372486
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/engadget\/status\/593895615890923520\/photo\/1",
-      "indices" : [ 67, 89 ],
-      "url" : "http:\/\/t.co\/Sz7oF5POst",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CD3w6dbWYAADZS1.jpg",
-      "id_str" : "593895613005193216",
-      "id" : 593895613005193216,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CD3w6dbWYAADZS1.jpg",
-      "sizes" : [ {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 630
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 630
-      }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 630
-      }, {
-        "h" : 400,
-        "resize" : "fit",
-        "w" : 630
-      } ],
-      "display_url" : "pic.twitter.com\/Sz7oF5POst"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 44, 66 ],
-      "url" : "http:\/\/t.co\/G9B2CrA7e2",
-      "expanded_url" : "http:\/\/engt.co\/1JcR9A2",
-      "display_url" : "engt.co\/1JcR9A2"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593910742904111105",
-  "text" : "RT @engadget: 'OK Google, Shazam this song' http:\/\/t.co\/G9B2CrA7e2 http:\/\/t.co\/Sz7oF5POst",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.aol.com\" rel=\"nofollow\"\u003EAOL Blogsmith\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/engadget\/status\/593895615890923520\/photo\/1",
-        "indices" : [ 53, 75 ],
-        "url" : "http:\/\/t.co\/Sz7oF5POst",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CD3w6dbWYAADZS1.jpg",
-        "id_str" : "593895613005193216",
-        "id" : 593895613005193216,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CD3w6dbWYAADZS1.jpg",
-        "sizes" : [ {
-          "h" : 400,
-          "resize" : "fit",
-          "w" : 630
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 400,
-          "resize" : "fit",
-          "w" : 630
-        }, {
-          "h" : 400,
-          "resize" : "fit",
-          "w" : 630
-        }, {
-          "h" : 400,
-          "resize" : "fit",
-          "w" : 630
-        } ],
-        "display_url" : "pic.twitter.com\/Sz7oF5POst"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 30, 52 ],
-        "url" : "http:\/\/t.co\/G9B2CrA7e2",
-        "expanded_url" : "http:\/\/engt.co\/1JcR9A2",
-        "display_url" : "engt.co\/1JcR9A2"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "593895615890923520",
-    "text" : "'OK Google, Shazam this song' http:\/\/t.co\/G9B2CrA7e2 http:\/\/t.co\/Sz7oF5POst",
-    "id" : 593895615890923520,
-    "created_at" : "2015-04-30 21:52:03 +0000",
-    "user" : {
-      "name" : "Engadget",
-      "screen_name" : "engadget",
-      "protected" : false,
-      "id_str" : "14372486",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/655059892022022144\/Pq3Q_1oU_normal.png",
-      "id" : 14372486,
-      "verified" : true
-    }
-  },
-  "id" : 593910742904111105,
-  "created_at" : "2015-04-30 22:52:10 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "t3n Magazin",
-      "screen_name" : "t3n",
-      "indices" : [ 3, 7 ],
-      "id_str" : "11060982",
-      "id" : 11060982
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 101, 123 ],
-      "url" : "http:\/\/t.co\/j1TKEoyvri",
-      "expanded_url" : "http:\/\/t3n.me\/1GIS6zF",
-      "display_url" : "t3n.me\/1GIS6zF"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593910437839765504",
-  "text" : "RT @t3n: Visual Studio Code: Kostenloser, simpler Code-Editor von Microsoft f\u00FCr alle Betriebssysteme http:\/\/t.co\/j1TKEoyvri http:\/\/t.co\/UGa\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/t3n\/status\/593897447283359745\/photo\/1",
-        "indices" : [ 115, 137 ],
-        "url" : "http:\/\/t.co\/UGaL4G8iUJ",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CD3ylOEWMAAL6MG.png",
-        "id_str" : "593897447128182784",
-        "id" : 593897447128182784,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CD3ylOEWMAAL6MG.png",
-        "sizes" : [ {
-          "h" : 566,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 566,
-          "resize" : "fit",
-          "w" : 1200
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 321,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 566,
-          "resize" : "fit",
-          "w" : 1200
-        } ],
-        "display_url" : "pic.twitter.com\/UGaL4G8iUJ"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 92, 114 ],
-        "url" : "http:\/\/t.co\/j1TKEoyvri",
-        "expanded_url" : "http:\/\/t3n.me\/1GIS6zF",
-        "display_url" : "t3n.me\/1GIS6zF"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "593897447283359745",
-    "text" : "Visual Studio Code: Kostenloser, simpler Code-Editor von Microsoft f\u00FCr alle Betriebssysteme http:\/\/t.co\/j1TKEoyvri http:\/\/t.co\/UGaL4G8iUJ",
-    "id" : 593897447283359745,
-    "created_at" : "2015-04-30 21:59:20 +0000",
-    "user" : {
-      "name" : "t3n Magazin",
-      "screen_name" : "t3n",
-      "protected" : false,
-      "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
-      "id" : 11060982,
-      "verified" : true
-    }
-  },
-  "id" : 593910437839765504,
-  "created_at" : "2015-04-30 22:50:57 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "SMostaghim",
-      "screen_name" : "SanazMostaghim",
-      "indices" : [ 0, 15 ],
-      "id_str" : "826843735",
-      "id" : 826843735
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 17, 40 ],
-      "url" : "https:\/\/t.co\/jncUOTLe4z",
-      "expanded_url" : "https:\/\/twitter.com\/TEDTalks\/status\/593901087008108544",
-      "display_url" : "twitter.com\/TEDTalks\/statu\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593910077301641216",
-  "in_reply_to_user_id" : 826843735,
-  "text" : "@SanazMostaghim  https:\/\/t.co\/jncUOTLe4z",
-  "id" : 593910077301641216,
-  "created_at" : "2015-04-30 22:49:31 +0000",
-  "in_reply_to_screen_name" : "SanazMostaghim",
-  "in_reply_to_user_id_str" : "826843735",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "MIT Tech Review",
-      "screen_name" : "techreview",
-      "indices" : [ 3, 14 ],
-      "id_str" : "15808647",
-      "id" : 15808647
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 62, 84 ],
-      "url" : "http:\/\/t.co\/CRHg53Izmo",
-      "expanded_url" : "http:\/\/bit.ly\/1OK2YEy",
-      "display_url" : "bit.ly\/1OK2YEy"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593910007596482560",
-  "text" : "RT @techreview: Fast 3-D Printing in Pediatric Intensive Care http:\/\/t.co\/CRHg53Izmo",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 46, 68 ],
-        "url" : "http:\/\/t.co\/CRHg53Izmo",
-        "expanded_url" : "http:\/\/bit.ly\/1OK2YEy",
-        "display_url" : "bit.ly\/1OK2YEy"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "593901288791781376",
-    "text" : "Fast 3-D Printing in Pediatric Intensive Care http:\/\/t.co\/CRHg53Izmo",
-    "id" : 593901288791781376,
-    "created_at" : "2015-04-30 22:14:36 +0000",
-    "user" : {
-      "name" : "MIT Tech Review",
-      "screen_name" : "techreview",
-      "protected" : false,
-      "id_str" : "15808647",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875400785294532608\/feOza3es_normal.jpg",
-      "id" : 15808647,
-      "verified" : true
-    }
-  },
-  "id" : 593910007596482560,
-  "created_at" : "2015-04-30 22:49:14 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "TechCrunch",
-      "screen_name" : "TechCrunch",
-      "indices" : [ 3, 14 ],
-      "id_str" : "816653",
-      "id" : 816653
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 62, 84 ],
-      "url" : "http:\/\/t.co\/CftYThtYHf",
-      "expanded_url" : "http:\/\/tcrn.ch\/1ztC1ON",
-      "display_url" : "tcrn.ch\/1ztC1ON"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593909936247205890",
-  "text" : "RT @TechCrunch: MS-DOS games also now work directly in tweets http:\/\/t.co\/CftYThtYHf",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003ESocialFlow\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 46, 68 ],
-        "url" : "http:\/\/t.co\/CftYThtYHf",
-        "expanded_url" : "http:\/\/tcrn.ch\/1ztC1ON",
-        "display_url" : "tcrn.ch\/1ztC1ON"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "593902699550285826",
-    "text" : "MS-DOS games also now work directly in tweets http:\/\/t.co\/CftYThtYHf",
-    "id" : 593902699550285826,
-    "created_at" : "2015-04-30 22:20:12 +0000",
-    "user" : {
-      "name" : "TechCrunch",
-      "screen_name" : "TechCrunch",
-      "protected" : false,
-      "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
-      "id" : 816653,
-      "verified" : true
-    }
-  },
-  "id" : 593909936247205890,
-  "created_at" : "2015-04-30 22:48:57 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Raspberry Pi",
-      "screen_name" : "Raspberry_Pi",
-      "indices" : [ 3, 16 ],
-      "id_str" : "302666251",
-      "id" : 302666251
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "msbuild",
-      "indices" : [ 126, 134 ]
-    } ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "593909866315526144",
-  "text" : "RT @Raspberry_Pi: It's not quite the B15 bot we posted to the blog this morning, but here's another Windows 10 IoT Core robot #msbuild http\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/Raspberry_Pi\/status\/593904473728122882\/photo\/1",
-        "indices" : [ 117, 139 ],
-        "url" : "http:\/\/t.co\/gqyc44aYOd",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CD349u9UgAADD1p.jpg",
-        "id_str" : "593904465343709184",
-        "id" : 593904465343709184,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CD349u9UgAADD1p.jpg",
-        "sizes" : [ {
-          "h" : 768,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 510,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 768,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 768,
-          "resize" : "fit",
-          "w" : 1024
-        } ],
-        "display_url" : "pic.twitter.com\/gqyc44aYOd"
-      } ],
-      "hashtags" : [ {
-        "text" : "msbuild",
-        "indices" : [ 108, 116 ]
-      } ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "593904473728122882",
-    "text" : "It's not quite the B15 bot we posted to the blog this morning, but here's another Windows 10 IoT Core robot #msbuild http:\/\/t.co\/gqyc44aYOd",
-    "id" : 593904473728122882,
-    "created_at" : "2015-04-30 22:27:15 +0000",
-    "user" : {
-      "name" : "Raspberry Pi",
-      "screen_name" : "Raspberry_Pi",
-      "protected" : false,
-      "id_str" : "302666251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923493298827857920\/ylgF4eHD_normal.jpg",
-      "id" : 302666251,
-      "verified" : true
-    }
-  },
-  "id" : 593909866315526144,
-  "created_at" : "2015-04-30 22:48:41 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Stanford University",
-      "screen_name" : "Stanford",
-      "indices" : [ 3, 12 ],
-      "id_str" : "18036441",
-      "id" : 18036441
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 112, 134 ],
-      "url" : "http:\/\/t.co\/dC1gkHH5DA",
-      "expanded_url" : "http:\/\/stanford.io\/1E02iQa",
-      "display_url" : "stanford.io\/1E02iQa"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593909811563143169",
-  "text" : "RT @Stanford: Prof. Daniel Schwartz explains how teaching ideas to a robot named Betty can help students learn: http:\/\/t.co\/dC1gkHH5DA",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003ESocialFlow\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 98, 120 ],
-        "url" : "http:\/\/t.co\/dC1gkHH5DA",
-        "expanded_url" : "http:\/\/stanford.io\/1E02iQa",
-        "display_url" : "stanford.io\/1E02iQa"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "593904821012410368",
-    "text" : "Prof. Daniel Schwartz explains how teaching ideas to a robot named Betty can help students learn: http:\/\/t.co\/dC1gkHH5DA",
-    "id" : 593904821012410368,
-    "created_at" : "2015-04-30 22:28:38 +0000",
-    "user" : {
-      "name" : "Stanford University",
-      "screen_name" : "Stanford",
-      "protected" : false,
-      "id_str" : "18036441",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/875395483128049664\/8z_jvdLB_normal.jpg",
-      "id" : 18036441,
-      "verified" : true
-    }
-  },
-  "id" : 593909811563143169,
-  "created_at" : "2015-04-30 22:48:28 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Meredith Perry",
-      "screen_name" : "meredithperry",
-      "indices" : [ 34, 48 ],
-      "id_str" : "26609111",
-      "id" : 26609111
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 51, 73 ],
-      "url" : "http:\/\/t.co\/ZqD3ekvjuU",
-      "expanded_url" : "http:\/\/en.m.wikipedia.org\/wiki\/Inertial_confinement_fusion",
-      "display_url" : "en.m.wikipedia.org\/wiki\/Inertial_\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "593909221823008768",
-  "text" : "Wiki: Inertial confinement fusion @meredithperry \n\nhttp:\/\/t.co\/ZqD3ekvjuU",
-  "id" : 593909221823008768,
-  "created_at" : "2015-04-30 22:46:07 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
     "user_mentions" : [ {
       "name" : "Meredith Perry",
       "screen_name" : "meredithperry",
@@ -3049,7 +1757,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Chronicle",
+      "name" : "The Chronicle of Higher Education",
       "screen_name" : "chronicle",
       "indices" : [ 3, 13 ],
       "id_str" : "12413032",
@@ -3081,7 +1789,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 593478606652866560,
     "created_at" : "2015-04-29 18:15:00 +0000",
     "user" : {
-      "name" : "The Chronicle",
+      "name" : "The Chronicle of Higher Education",
       "screen_name" : "chronicle",
       "protected" : false,
       "id_str" : "12413032",
@@ -3787,7 +2495,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -3849,11 +2557,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 593491295227740161,
     "created_at" : "2015-04-29 19:05:25 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -5557,7 +4265,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "kickstarter",
       "protected" : false,
       "id_str" : "16186995",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/892491364482592769\/tatwPk6m_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930810738343600128\/SjHF8zs2_normal.jpg",
       "id" : 16186995,
       "verified" : true
     }
@@ -6912,7 +5620,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -7009,11 +5717,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 592690990579875842,
     "created_at" : "2015-04-27 14:05:18 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -9594,7 +8302,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -9661,11 +8369,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 592328604895322114,
     "created_at" : "2015-04-26 14:05:18 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -10513,7 +9221,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -10610,11 +9318,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 592358785936715776,
     "created_at" : "2015-04-26 16:05:14 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -12921,7 +11629,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "kickstarter",
       "protected" : false,
       "id_str" : "16186995",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/892491364482592769\/tatwPk6m_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930810738343600128\/SjHF8zs2_normal.jpg",
       "id" : 16186995,
       "verified" : true
     }
@@ -14359,7 +13067,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Chronicle",
+      "name" : "The Chronicle of Higher Education",
       "screen_name" : "chronicle",
       "indices" : [ 3, 13 ],
       "id_str" : "12413032",
@@ -14396,7 +13104,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 590967512222826496,
     "created_at" : "2015-04-22 19:56:49 +0000",
     "user" : {
-      "name" : "The Chronicle",
+      "name" : "The Chronicle of Higher Education",
       "screen_name" : "chronicle",
       "protected" : false,
       "id_str" : "12413032",
@@ -16209,7 +14917,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -16312,11 +15020,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 590948671853883392,
     "created_at" : "2015-04-22 18:41:57 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -18055,7 +16763,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "arduino",
       "protected" : false,
       "id_str" : "266400754",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925810344420872194\/upbtlgzt_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/928655749605199872\/ygogGX2j_normal.jpg",
       "id" : 266400754,
       "verified" : true
     }
@@ -18657,7 +17365,7 @@ Grailbird.data.tweets_2015_04 =
       "id_str" : "17248121",
       "id" : 17248121
     }, {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 87, 91 ],
       "id_str" : "15460048",
@@ -18682,7 +17390,7 @@ Grailbird.data.tweets_2015_04 =
     "source" : "\u003Ca href=\"https:\/\/sciencex.com\/\" rel=\"nofollow\"\u003EScience X Status Updates\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MIT",
+        "name" : "Massachusetts Institute of Technology (MIT)",
         "screen_name" : "MIT",
         "indices" : [ 70, 74 ],
         "id_str" : "15460048",
@@ -20420,7 +19128,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -20457,11 +19165,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 589142589087035392,
     "created_at" : "2015-04-17 19:05:13 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -20552,7 +19260,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "kickstarter",
       "protected" : false,
       "id_str" : "16186995",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/892491364482592769\/tatwPk6m_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930810738343600128\/SjHF8zs2_normal.jpg",
       "id" : 16186995,
       "verified" : true
     }
@@ -23736,7 +22444,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -23845,11 +22553,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 588780294012022786,
     "created_at" : "2015-04-16 19:05:35 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -25915,7 +24623,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -26012,11 +24720,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 587632664297000961,
     "created_at" : "2015-04-13 15:05:19 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -27536,7 +26244,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "neil \uD83D\uDC18\uD83D\uDEF0\uD83D\uDC19\uD83E\uDD16\uD83D\uDC3E\uD83C\uDF31\uD83C\uDF35",
+      "name" : "neil",
       "screen_name" : "4nks",
       "indices" : [ 3, 8 ],
       "id_str" : "270863497",
@@ -27615,7 +26323,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 586975828891713536,
     "created_at" : "2015-04-11 19:35:17 +0000",
     "user" : {
-      "name" : "neil \uD83D\uDC18\uD83D\uDEF0\uD83D\uDC19\uD83E\uDD16\uD83D\uDC3E\uD83C\uDF31\uD83C\uDF35",
+      "name" : "neil",
       "screen_name" : "4nks",
       "protected" : false,
       "id_str" : "270863497",
@@ -28457,7 +27165,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -28512,11 +27220,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 587315527175012352,
     "created_at" : "2015-04-12 18:05:08 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -32199,25 +30907,25 @@ Grailbird.data.tweets_2015_04 =
       "id" : 585944098239938560,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/585944098239938560\/pu\/img\/h9oFF6ncpMooJHOe.jpg",
       "sizes" : [ {
-        "h" : 0,
+        "h" : 383,
         "resize" : "fit",
-        "w" : 0
+        "w" : 680
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 720,
+        "resize" : "fit",
+        "w" : 1280
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 338,
+        "h" : 720,
         "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 191,
-        "resize" : "fit",
-        "w" : 340
-      }, {
-        "h" : 576,
-        "resize" : "fit",
-        "w" : 1024
+        "w" : 1280
       } ],
       "display_url" : "pic.twitter.com\/bQ6rhshzwc"
     } ],
@@ -32240,25 +30948,25 @@ Grailbird.data.tweets_2015_04 =
         "id" : 585944098239938560,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/585944098239938560\/pu\/img\/h9oFF6ncpMooJHOe.jpg",
         "sizes" : [ {
-          "h" : 0,
+          "h" : 383,
           "resize" : "fit",
-          "w" : 0
+          "w" : 680
+        }, {
+          "h" : 675,
+          "resize" : "fit",
+          "w" : 1200
+        }, {
+          "h" : 720,
+          "resize" : "fit",
+          "w" : 1280
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 338,
+          "h" : 720,
           "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 191,
-          "resize" : "fit",
-          "w" : 340
-        }, {
-          "h" : 576,
-          "resize" : "fit",
-          "w" : 1024
+          "w" : 1280
         } ],
         "display_url" : "pic.twitter.com\/bQ6rhshzwc"
       } ],
@@ -33610,7 +32318,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -33713,11 +32421,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 585444733956317184,
     "created_at" : "2015-04-07 14:11:16 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -33850,7 +32558,7 @@ Grailbird.data.tweets_2015_04 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -37915,7 +36623,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -38012,11 +36720,11 @@ Grailbird.data.tweets_2015_04 =
     "id" : 584446675063853057,
     "created_at" : "2015-04-04 20:05:20 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -38546,7 +37254,7 @@ Grailbird.data.tweets_2015_04 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Chronicle",
+      "name" : "The Chronicle of Higher Education",
       "screen_name" : "chronicle",
       "indices" : [ 3, 13 ],
       "id_str" : "12413032",
@@ -38583,7 +37291,7 @@ Grailbird.data.tweets_2015_04 =
     "id" : 583682811355246592,
     "created_at" : "2015-04-02 17:30:01 +0000",
     "user" : {
-      "name" : "The Chronicle",
+      "name" : "The Chronicle of Higher Education",
       "screen_name" : "chronicle",
       "protected" : false,
       "id_str" : "12413032",
@@ -38975,6 +37683,67 @@ Grailbird.data.tweets_2015_04 =
   "text" : "Greywater:\nhttp:\/\/t.co\/dXjKL6H2oD",
   "id" : 583596225523490816,
   "created_at" : "2015-04-02 11:45:57 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/838873264889999361\/r4eM9upY_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "WIRED",
+      "screen_name" : "WIRED",
+      "indices" : [ 3, 9 ],
+      "id_str" : "1344951",
+      "id" : 1344951
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 47, 69 ],
+      "url" : "http:\/\/t.co\/IxbYNu2glI",
+      "expanded_url" : "http:\/\/wrd.cm\/1CJyX01",
+      "display_url" : "wrd.cm\/1CJyX01"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "583148069321089024",
+  "text" : "RT @WIRED: Assembling a genome, piece by piece http:\/\/t.co\/IxbYNu2glI",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003ESocialFlow\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 36, 58 ],
+        "url" : "http:\/\/t.co\/IxbYNu2glI",
+        "expanded_url" : "http:\/\/wrd.cm\/1CJyX01",
+        "display_url" : "wrd.cm\/1CJyX01"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "583050157559820288",
+    "text" : "Assembling a genome, piece by piece http:\/\/t.co\/IxbYNu2glI",
+    "id" : 583050157559820288,
+    "created_at" : "2015-03-31 23:36:04 +0000",
+    "user" : {
+      "name" : "WIRED",
+      "screen_name" : "WIRED",
+      "protected" : false,
+      "id_str" : "1344951",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/615598832726970372\/jsK-gBSt_normal.png",
+      "id" : 1344951,
+      "verified" : true
+    }
+  },
+  "id" : 583148069321089024,
+  "created_at" : "2015-04-01 06:05:08 +0000",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",

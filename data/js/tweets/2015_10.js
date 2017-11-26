@@ -884,7 +884,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "MimicaEU",
       "protected" : false,
       "id_str" : "1545333888",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/846277671587864576\/or2R-gve_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/933644486617501696\/ERigaWq2_normal.jpg",
       "id" : 1545333888,
       "verified" : true
     }
@@ -2787,7 +2787,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Chronicle",
+      "name" : "The Chronicle of Higher Education",
       "screen_name" : "chronicle",
       "indices" : [ 3, 13 ],
       "id_str" : "12413032",
@@ -2884,7 +2884,7 @@ Grailbird.data.tweets_2015_10 =
     "id" : 660056306611437568,
     "created_at" : "2015-10-30 11:31:01 +0000",
     "user" : {
-      "name" : "The Chronicle",
+      "name" : "The Chronicle of Higher Education",
       "screen_name" : "chronicle",
       "protected" : false,
       "id_str" : "12413032",
@@ -3402,7 +3402,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "287568380",
       "id" : 287568380
     }, {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 135, 139 ],
       "id_str" : "15460048",
@@ -3427,7 +3427,7 @@ Grailbird.data.tweets_2015_10 =
     "source" : "\u003Ca href=\"https:\/\/sciencex.com\/\" rel=\"nofollow\"\u003EScience X Status Updates\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MIT",
+        "name" : "Massachusetts Institute of Technology (MIT)",
         "screen_name" : "MIT",
         "indices" : [ 115, 119 ],
         "id_str" : "15460048",
@@ -6388,7 +6388,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -6479,11 +6479,11 @@ Grailbird.data.tweets_2015_10 =
     "id" : 658754704139243520,
     "created_at" : "2015-10-26 21:18:55 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -6776,7 +6776,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -10943,7 +10943,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -11052,11 +11052,11 @@ Grailbird.data.tweets_2015_10 =
     "id" : 657920803661553665,
     "created_at" : "2015-10-24 14:05:17 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -12734,7 +12734,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904335299156865028\/uMEAz-Dq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930520747675738113\/SqTTdEVM_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -19967,17 +19967,17 @@ Grailbird.data.tweets_2015_10 =
         "resize" : "fit",
         "w" : 480
       }, {
-        "h" : 0,
+        "h" : 480,
         "resize" : "fit",
-        "w" : 0
-      }, {
-        "h" : 340,
-        "resize" : "fit",
-        "w" : 340
+        "w" : 480
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
+      }, {
+        "h" : 480,
+        "resize" : "fit",
+        "w" : 480
       }, {
         "h" : 480,
         "resize" : "fit",
@@ -20008,17 +20008,17 @@ Grailbird.data.tweets_2015_10 =
           "resize" : "fit",
           "w" : 480
         }, {
-          "h" : 0,
+          "h" : 480,
           "resize" : "fit",
-          "w" : 0
-        }, {
-          "h" : 340,
-          "resize" : "fit",
-          "w" : 340
+          "w" : 480
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
+        }, {
+          "h" : 480,
+          "resize" : "fit",
+          "w" : 480
         }, {
           "h" : 480,
           "resize" : "fit",
@@ -20568,7 +20568,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "176932593",
       "id" : 176932593
     }, {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 104, 108 ],
       "id_str" : "15460048",
@@ -21467,7 +21467,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 0, 4 ],
       "id_str" : "15460048",
@@ -22593,7 +22593,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "273552883",
       "id" : 273552883
     }, {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 64, 68 ],
       "id_str" : "15460048",
@@ -22621,7 +22621,7 @@ Grailbird.data.tweets_2015_10 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MIT",
+        "name" : "Massachusetts Institute of Technology (MIT)",
         "screen_name" : "MIT",
         "indices" : [ 49, 53 ],
         "id_str" : "15460048",
@@ -24748,7 +24748,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904335299156865028\/uMEAz-Dq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930520747675738113\/SqTTdEVM_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -25345,21 +25345,21 @@ Grailbird.data.tweets_2015_10 =
       "id" : 654580605770858496,
       "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/654580605770858496\/pu\/img\/eorQ70Nt6Vk_IfFT.jpg",
       "sizes" : [ {
-        "h" : 0,
+        "h" : 360,
         "resize" : "fit",
-        "w" : 0
+        "w" : 640
       }, {
         "h" : 150,
         "resize" : "crop",
         "w" : 150
       }, {
-        "h" : 338,
+        "h" : 360,
         "resize" : "fit",
-        "w" : 600
+        "w" : 640
       }, {
-        "h" : 191,
+        "h" : 360,
         "resize" : "fit",
-        "w" : 340
+        "w" : 640
       }, {
         "h" : 360,
         "resize" : "fit",
@@ -25400,21 +25400,21 @@ Grailbird.data.tweets_2015_10 =
         "id" : 654580605770858496,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/654580605770858496\/pu\/img\/eorQ70Nt6Vk_IfFT.jpg",
         "sizes" : [ {
-          "h" : 0,
+          "h" : 360,
           "resize" : "fit",
-          "w" : 0
+          "w" : 640
         }, {
           "h" : 150,
           "resize" : "crop",
           "w" : 150
         }, {
-          "h" : 338,
+          "h" : 360,
           "resize" : "fit",
-          "w" : 600
+          "w" : 640
         }, {
-          "h" : 191,
+          "h" : 360,
           "resize" : "fit",
-          "w" : 340
+          "w" : 640
         }, {
           "h" : 360,
           "resize" : "fit",
@@ -27565,7 +27565,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "Raspberry_Pi",
       "protected" : false,
       "id_str" : "302666251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923493298827857920\/ylgF4eHD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927516702392373249\/6ecFQ3X4_normal.jpg",
       "id" : 302666251,
       "verified" : true
     }
@@ -31114,7 +31114,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "aor_4",
       "protected" : false,
       "id_str" : "1947060127",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918410991980855296\/FWP6q9Vg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/934344352653963264\/I096kU-5_normal.jpg",
       "id" : 1947060127,
       "verified" : false
     }
@@ -31241,7 +31241,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "DSMeu",
       "protected" : false,
       "id_str" : "205315827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/925352911885889536\/cywqp0xq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930019056584929280\/vVYcPdTv_normal.jpg",
       "id" : 205315827,
       "verified" : true
     }
@@ -31267,7 +31267,7 @@ Grailbird.data.tweets_2015_10 =
       "id_str" : "15414807",
       "id" : 15414807
     }, {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 66, 70 ],
       "id_str" : "15460048",
@@ -31319,7 +31319,7 @@ Grailbird.data.tweets_2015_10 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MIT",
+        "name" : "Massachusetts Institute of Technology (MIT)",
         "screen_name" : "MIT",
         "indices" : [ 51, 55 ],
         "id_str" : "15460048",
@@ -31911,7 +31911,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "The Chronicle",
+      "name" : "The Chronicle of Higher Education",
       "screen_name" : "chronicle",
       "indices" : [ 3, 13 ],
       "id_str" : "12413032",
@@ -32008,7 +32008,7 @@ Grailbird.data.tweets_2015_10 =
     "id" : 653299289192468480,
     "created_at" : "2015-10-11 20:01:02 +0000",
     "user" : {
-      "name" : "The Chronicle",
+      "name" : "The Chronicle of Higher Education",
       "screen_name" : "chronicle",
       "protected" : false,
       "id_str" : "12413032",
@@ -35399,7 +35399,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
@@ -35484,11 +35484,11 @@ Grailbird.data.tweets_2015_10 =
     "id" : 652569762648748033,
     "created_at" : "2015-10-09 19:42:10 +0000",
     "user" : {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "protected" : false,
       "id_str" : "15460048",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/726083204122312704\/C_SBTZQ__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927969888672632838\/CZxYHc74_normal.jpg",
       "id" : 15460048,
       "verified" : true
     }
@@ -35918,7 +35918,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "BillGates",
       "protected" : false,
       "id_str" : "50393960",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/889736688624312321\/xVAFH9ZH_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/929933611754708992\/ioSgz49P_normal.jpg",
       "id" : 50393960,
       "verified" : true
     }
@@ -36124,7 +36124,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "esimperl",
       "protected" : false,
       "id_str" : "203250712",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/672756908764217344\/b6ldz-2p_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/928695586823516161\/JDS73Snh_normal.jpg",
       "id" : 203250712,
       "verified" : false
     }
@@ -36970,7 +36970,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "miss9afi",
       "protected" : false,
       "id_str" : "309187913",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/897191053064904705\/2KxyeAhK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931747180808933376\/4IIf3e2A_normal.jpg",
       "id" : 309187913,
       "verified" : true
     }
@@ -39331,7 +39331,7 @@ Grailbird.data.tweets_2015_10 =
     "id" : 651307382107193344,
     "created_at" : "2015-10-06 08:05:55 +0000",
     "user" : {
-      "name" : "DlfKultur",
+      "name" : "Deutschlandfunk Kultur",
       "screen_name" : "dlfkultur",
       "protected" : false,
       "id_str" : "320412967",
@@ -41440,7 +41440,7 @@ Grailbird.data.tweets_2015_10 =
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904335299156865028\/uMEAz-Dq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930520747675738113\/SqTTdEVM_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -44815,7 +44815,7 @@ Grailbird.data.tweets_2015_10 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Michael \uD83D\uDC41\uD83D\uDC41\uD83D\uDC41\uD83D\uDC41N",
+      "name" : "Michael Eisen",
       "screen_name" : "mbeisen",
       "indices" : [ 77, 85 ],
       "id_str" : "19843630",
@@ -45946,7 +45946,7 @@ Grailbird.data.tweets_2015_10 =
     "source" : "\u003Ca href=\"https:\/\/sciencex.com\/\" rel=\"nofollow\"\u003EScience X Status Updates\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MIT",
+        "name" : "Massachusetts Institute of Technology (MIT)",
         "screen_name" : "MIT",
         "indices" : [ 125, 129 ],
         "id_str" : "15460048",

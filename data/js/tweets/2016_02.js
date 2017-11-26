@@ -4519,7 +4519,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "kelghazzali",
       "protected" : false,
       "id_str" : "43907060",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/923508327304359937\/UliFygVe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927256573130440704\/LmHwTWZJ_normal.jpg",
       "id" : 43907060,
       "verified" : true
     }
@@ -8964,7 +8964,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "80976498",
       "id" : 80976498
     }, {
-      "name" : "Jan B\u00F6hmermann \uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Jan B\u00F6hmermann \uD83E\uDD28",
       "screen_name" : "janboehm",
       "indices" : [ 89, 98 ],
       "id_str" : "19072286",
@@ -9374,7 +9374,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "826843735",
       "id" : 826843735
     }, {
-      "name" : "Campus Cat \uD83C\uDF83\uD83D\uDC7B",
+      "name" : "Campus Cat",
       "screen_name" : "Campus_Cat",
       "indices" : [ 28, 39 ],
       "id_str" : "1921380715",
@@ -13012,7 +13012,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/904335299156865028\/uMEAz-Dq_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/930520747675738113\/SqTTdEVM_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -13796,7 +13796,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "esimperl",
       "protected" : false,
       "id_str" : "203250712",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/672756908764217344\/b6ldz-2p_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/928695586823516161\/JDS73Snh_normal.jpg",
       "id" : 203250712,
       "verified" : false
     }
@@ -14092,7 +14092,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "274325818",
       "id" : 274325818
     }, {
-      "name" : "MIT",
+      "name" : "Massachusetts Institute of Technology (MIT)",
       "screen_name" : "MIT",
       "indices" : [ 83, 87 ],
       "id_str" : "15460048",
@@ -14279,7 +14279,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Rob Crasco #VR #AI",
+      "name" : "Rob Crasco VR AR AI",
       "screen_name" : "RoblemVR",
       "indices" : [ 3, 12 ],
       "id_str" : "36388601",
@@ -14394,7 +14394,7 @@ Grailbird.data.tweets_2016_02 =
     "id" : 698557292195770369,
     "created_at" : "2016-02-13 17:20:11 +0000",
     "user" : {
-      "name" : "Rob Crasco #VR #AI",
+      "name" : "Rob Crasco VR AR AI",
       "screen_name" : "RoblemVR",
       "protected" : false,
       "id_str" : "36388601",
@@ -19006,13 +19006,13 @@ Grailbird.data.tweets_2016_02 =
         "id" : 679973791196430336,
         "media_url_https" : "https:\/\/pbs.twimg.com\/ext_tw_video_thumb\/679973791196430336\/pu\/img\/QmMMHntA-6mCu3Fi.jpg",
         "sizes" : [ {
-          "h" : 255,
+          "h" : 360,
           "resize" : "fit",
-          "w" : 340
+          "w" : 480
         }, {
-          "h" : 0,
+          "h" : 360,
           "resize" : "fit",
-          "w" : 0
+          "w" : 480
         }, {
           "h" : 360,
           "resize" : "fit",
@@ -21892,7 +21892,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/898164995892154368\/PtzxYWFo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -25784,7 +25784,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "KITKarlsruhe",
       "protected" : false,
       "id_str" : "91110697",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/534074098\/kit_logo_en_farbe_positiv_klein_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927888741288603649\/gfA8OXGq_normal.jpg",
       "id" : 91110697,
       "verified" : true
     }
@@ -30660,7 +30660,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jan B\u00F6hmermann \uD83C\uDDE9\uD83C\uDDEA",
+      "name" : "Jan B\u00F6hmermann \uD83E\uDD28",
       "screen_name" : "janboehm",
       "indices" : [ 0, 9 ],
       "id_str" : "19072286",
@@ -31027,7 +31027,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "cem_oezdemir",
       "protected" : false,
       "id_str" : "19108766",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/883445540092076032\/ro6uQSMJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/927530957950898176\/PW73IBsf_normal.jpg",
       "id" : 19108766,
       "verified" : true
     }
