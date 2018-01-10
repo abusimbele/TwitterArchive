@@ -1,5 +1,6 @@
 
-TronxyX1 parts at Thingiverse:		https://www.thingiverse.com/search?q=tronxy+x1&sa=&dwh=175a5571b7074e9
+TronxyX1 parts at Thingiverse:		
+https://www.thingiverse.com/search?q=tronxy+x1&sa=&dwh=175a5571b7074e9
 
 ------------------------------------
 GoodToKnow videos for Tronxy X1:	
@@ -20,7 +21,9 @@ TRONXY X1 Mods #1 V1 X-Axis:		https://www.youtube.com/watch?v=4oE-dq-QF_0
 3dprinting in general:
 
 
-3D Printing 101 :			https://www.youtube.com/watch?v=BrvMqrgGXuE&list=PLTCCNNvHC8PDR_jQy609toqq8EAfhiOOL
+3D Printing 101:			
+https://www.youtube.com/watch?v=BrvMqrgGXuE&list=PLTCCNNvHC8PDR_jQy609toqq8EAfhiOOL
 
-3D Printing:				https://www.youtube.com/watch?v=PCaKxXI3hwk&list=PL9SWvowxpcSJdZ9cq5VZ1CY94eTVzAWkN
+3D Printing:				
+https://www.youtube.com/watch?v=PCaKxXI3hwk&list=PL9SWvowxpcSJdZ9cq5VZ1CY94eTVzAWkN
 
