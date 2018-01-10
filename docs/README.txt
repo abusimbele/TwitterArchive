@@ -1,0 +1,1 @@
+TronxyX1 parts at Thingiverse:	https://www.thingiverse.com/search?q=tronxy+x1&sa=&dwh=175a5571b7074e9
