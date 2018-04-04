@@ -54,6 +54,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 526
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/NOuE2u08v5"
       } ],
       "hashtags" : [ ],
@@ -148,6 +149,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/26lRi8JOLR"
       } ],
       "hashtags" : [ {
@@ -226,6 +228,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/hDV0kYdvBe"
     } ],
     "hashtags" : [ ],
@@ -267,6 +270,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/hDV0kYdvBe"
       } ],
       "hashtags" : [ ],
@@ -337,6 +341,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 220
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/PGwEXcg4M8"
     } ],
     "hashtags" : [ ],
@@ -383,6 +388,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 220
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/PGwEXcg4M8"
       } ],
       "hashtags" : [ ],
@@ -403,7 +409,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "newscientist",
       "protected" : false,
       "id_str" : "19658826",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/843789564074496001\/m34mTHmg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/960860144329469953\/Tc-GOIGJ_normal.jpg",
       "id" : 19658826,
       "verified" : true
     }
@@ -458,6 +464,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1000
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/RUHodZuMmR"
     } ],
     "hashtags" : [ ],
@@ -504,6 +511,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/RUHodZuMmR"
       } ],
       "hashtags" : [ ],
@@ -579,6 +587,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oohL5laBJh"
     } ],
     "hashtags" : [ ],
@@ -625,6 +634,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/oohL5laBJh"
       } ],
       "hashtags" : [ ],
@@ -761,6 +771,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 800
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/W5MYLuETP2"
     } ],
     "hashtags" : [ ],
@@ -807,6 +818,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 800
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/W5MYLuETP2"
       } ],
       "hashtags" : [ ],
@@ -882,6 +894,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 660
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/DTRZruuNey"
     } ],
     "hashtags" : [ ],
@@ -928,6 +941,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 660
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/DTRZruuNey"
       } ],
       "hashtags" : [ ],
@@ -1070,6 +1084,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tZHqGiGytm"
     } ],
     "hashtags" : [ ],
@@ -1116,6 +1131,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/tZHqGiGytm"
       } ],
       "hashtags" : [ ],
@@ -1191,6 +1207,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HXJwFXdR5w"
     } ],
     "hashtags" : [ ],
@@ -1237,6 +1254,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/HXJwFXdR5w"
       } ],
       "hashtags" : [ ],
@@ -1312,6 +1330,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1000
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/AhbrefgEJv"
     } ],
     "hashtags" : [ ],
@@ -1358,6 +1377,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/AhbrefgEJv"
       } ],
       "hashtags" : [ ],
@@ -1452,6 +1472,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/jxxi26YB0p"
       } ],
       "hashtags" : [ {
@@ -1536,6 +1557,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 800
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gj8p32aq0A"
     } ],
     "hashtags" : [ ],
@@ -1588,6 +1610,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 800
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/gj8p32aq0A"
       } ],
       "hashtags" : [ ],
@@ -1791,6 +1814,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 625
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CFQGvv4Wed"
     } ],
     "hashtags" : [ ],
@@ -1837,6 +1861,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 625
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/CFQGvv4Wed"
       } ],
       "hashtags" : [ ],
@@ -1912,6 +1937,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 800
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BImgOX530C"
     } ],
     "hashtags" : [ ],
@@ -1958,6 +1984,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 800
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/BImgOX530C"
       } ],
       "hashtags" : [ ],
@@ -2033,6 +2060,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 670
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Vju7RL8r57"
     } ],
     "hashtags" : [ ],
@@ -2079,6 +2107,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 670
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Vju7RL8r57"
       } ],
       "hashtags" : [ ],
@@ -2099,7 +2128,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "Seeker",
       "protected" : false,
       "id_str" : "16438248",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/837463017998602240\/QRGUPalC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971887321229402112\/LL0zi_zb_normal.jpg",
       "id" : 16438248,
       "verified" : true
     }
@@ -2148,6 +2177,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 768
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Mpzixi3UZ0"
     } ],
     "hashtags" : [ ],
@@ -2200,6 +2230,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Po8b0NaVPx"
     } ],
     "hashtags" : [ ],
@@ -2252,6 +2283,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gkyNqfHsLS"
     } ],
     "hashtags" : [ ],
@@ -2310,6 +2342,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 580
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/A997HulCSi"
     } ],
     "hashtags" : [ ],
@@ -2356,6 +2389,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 580
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/A997HulCSi"
       } ],
       "hashtags" : [ ],
@@ -2450,6 +2484,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/6TfxJFVKfb"
       } ],
       "hashtags" : [ {
@@ -2750,6 +2785,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 2048
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/KVFXLvth3J"
     } ],
     "hashtags" : [ ],
@@ -2802,6 +2838,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/KVFXLvth3J"
       } ],
       "hashtags" : [ ],
@@ -2896,6 +2933,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 506
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Jl5dSNRhxd"
       } ],
       "hashtags" : [ {
@@ -3179,6 +3217,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/9eSsVOZtl0"
       } ],
       "hashtags" : [ ],
@@ -3194,7 +3233,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "LindseyStirling",
       "protected" : false,
       "id_str" : "289969718",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954480100744994816\/Zo1Q3sLr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971076850184110080\/4HuYQX_q_normal.jpg",
       "id" : 289969718,
       "verified" : true
     }
@@ -3310,6 +3349,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/uD7vNAtKiq"
     } ],
     "hashtags" : [ {
@@ -3362,6 +3402,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/uD7vNAtKiq"
       } ],
       "hashtags" : [ {
@@ -3460,6 +3501,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/6npxklEw2N"
       } ],
       "hashtags" : [ {
@@ -3664,6 +3706,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 630
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Yk2Xfk0RK8"
     } ],
     "hashtags" : [ ],
@@ -3710,6 +3753,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 630
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Yk2Xfk0RK8"
       } ],
       "hashtags" : [ ],
@@ -3801,6 +3845,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1190
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ceXhUy3OQe"
       } ],
       "hashtags" : [ ],
@@ -3892,6 +3937,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 630
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/4nu9Gbku3O"
       } ],
       "hashtags" : [ ],
@@ -3993,6 +4039,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/apEZHgwonm"
       } ],
       "hashtags" : [ {
@@ -4133,7 +4180,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -4343,6 +4390,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/O3Y0QjShZt"
     } ],
     "hashtags" : [ ],
@@ -4395,6 +4443,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/O3Y0QjShZt"
       } ],
       "hashtags" : [ ],
@@ -4470,6 +4519,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Ter1I08G30"
     } ],
     "hashtags" : [ ],
@@ -4516,6 +4566,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Ter1I08G30"
       } ],
       "hashtags" : [ ],
@@ -4610,6 +4661,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 232
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/B8SDdPpBK0"
       } ],
       "hashtags" : [ {
@@ -4939,6 +4991,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/s3DSeZF2SZ"
     } ],
     "hashtags" : [ ],
@@ -4985,6 +5038,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/s3DSeZF2SZ"
       } ],
       "hashtags" : [ ],
@@ -5005,7 +5059,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -5374,6 +5428,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 576
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ev4ITLsHuq"
       } ],
       "hashtags" : [ ],
@@ -5487,6 +5542,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/VZ3CygjDy6"
       } ],
       "hashtags" : [ {
@@ -5560,6 +5616,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5cR5stIkqB"
     } ],
     "hashtags" : [ ],
@@ -5606,6 +5663,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/5cR5stIkqB"
       } ],
       "hashtags" : [ ],
@@ -5626,7 +5684,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -5913,6 +5971,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kE2SUPwLd7"
     } ],
     "hashtags" : [ ],
@@ -5959,6 +6018,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/kE2SUPwLd7"
       } ],
       "hashtags" : [ ],
@@ -5979,7 +6039,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -6034,6 +6094,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 520
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ztDZ3ofshH"
     } ],
     "hashtags" : [ {
@@ -6081,6 +6142,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 520
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ztDZ3ofshH"
       } ],
       "hashtags" : [ {
@@ -6157,6 +6219,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 599
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rGA31ZORay"
     } ],
     "hashtags" : [ ],
@@ -6198,6 +6261,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 599
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/rGA31ZORay"
       } ],
       "hashtags" : [ ],
@@ -6304,6 +6368,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 585
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/rNVW3QqMgn"
       } ],
       "hashtags" : [ {
@@ -6454,7 +6519,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -6523,6 +6588,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ofWdZ7AO1H"
       } ],
       "hashtags" : [ {
@@ -6597,7 +6663,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -6800,7 +6866,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964072513679581184\/4YV1Q0mR_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -6883,6 +6949,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/HyiIQKM5uC"
       } ],
       "hashtags" : [ ],
@@ -7025,6 +7092,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/dyEAPTymmt"
     } ],
     "hashtags" : [ ],
@@ -7077,6 +7145,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/dyEAPTymmt"
       } ],
       "hashtags" : [ ],
@@ -7097,7 +7166,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951527375530962945\/lAVjPUKJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -7366,7 +7435,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -7448,6 +7517,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 948
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/k2mL739eyx"
     } ],
     "hashtags" : [ ],
@@ -7494,6 +7564,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 948
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/k2mL739eyx"
       } ],
       "hashtags" : [ ],
@@ -7685,6 +7756,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 768
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/mglZKcS5Wk"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/536845396950413312\/photo\/1",
@@ -7715,6 +7787,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/mglZKcS5Wk"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/536845396950413312\/photo\/1",
@@ -7745,6 +7818,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/mglZKcS5Wk"
     } ],
     "hashtags" : [ {
@@ -7800,6 +7874,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/cvmiMdrXcT"
     } ],
     "hashtags" : [ ],
@@ -7852,6 +7927,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/E4IGigwtdE"
     } ],
     "hashtags" : [ {
@@ -7910,6 +7986,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FePbupaphb"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/536840831588909057\/photo\/1",
@@ -7940,6 +8017,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FePbupaphb"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/536840831588909057\/photo\/1",
@@ -7970,6 +8048,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FePbupaphb"
     } ],
     "hashtags" : [ ],
@@ -8022,6 +8101,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qKbdS0aCfb"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/536839813656498176\/photo\/1",
@@ -8052,6 +8132,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qKbdS0aCfb"
     } ],
     "hashtags" : [ ],
@@ -8171,6 +8252,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/COUowcgM1j"
     } ],
     "hashtags" : [ ],
@@ -8217,6 +8299,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/COUowcgM1j"
       } ],
       "hashtags" : [ ],
@@ -8237,7 +8320,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -8298,7 +8381,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -8359,7 +8442,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -8420,7 +8503,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -8475,6 +8558,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/dnrH3WKqM9"
     } ],
     "hashtags" : [ ],
@@ -8516,6 +8600,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/dnrH3WKqM9"
       } ],
       "hashtags" : [ ],
@@ -8879,7 +8964,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -9166,7 +9251,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -9276,6 +9361,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 960
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/msjkTck9Yu"
       } ],
       "hashtags" : [ ],
@@ -9379,6 +9465,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/R6ZbKQTw4v"
       } ],
       "hashtags" : [ ],
@@ -9490,7 +9577,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964072513679581184\/4YV1Q0mR_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -9874,6 +9961,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rK11asWlki"
     } ],
     "hashtags" : [ ],
@@ -9926,6 +10014,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/rK11asWlki"
       } ],
       "hashtags" : [ ],
@@ -10068,6 +10157,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HyiIQKM5uC"
     } ],
     "hashtags" : [ ],
@@ -10120,6 +10210,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/HyiIQKM5uC"
       } ],
       "hashtags" : [ ],
@@ -10376,6 +10467,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/jtInrLRxqi"
       } ],
       "hashtags" : [ {
@@ -10507,6 +10599,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/6cmRlVJ82e"
     } ],
     "hashtags" : [ ],
@@ -10559,6 +10652,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/javJVHY9O9"
     } ],
     "hashtags" : [ ],
@@ -10645,6 +10739,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1038
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/pdXmFcy7dP"
       } ],
       "hashtags" : [ ],
@@ -10732,7 +10827,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964072513679581184\/4YV1Q0mR_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -10874,6 +10969,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 576
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/numna0KxLA"
       } ],
       "hashtags" : [ {
@@ -10965,7 +11061,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -11293,7 +11389,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -11409,6 +11505,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 948
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Taw0Sz7v0s"
     } ],
     "hashtags" : [ ],
@@ -11455,6 +11552,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 948
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Taw0Sz7v0s"
       } ],
       "hashtags" : [ ],
@@ -11530,6 +11628,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 620
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/LAOV1h2q3n"
     } ],
     "hashtags" : [ ],
@@ -11576,6 +11675,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 620
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/LAOV1h2q3n"
       } ],
       "hashtags" : [ ],
@@ -11718,7 +11818,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -11816,6 +11916,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 2000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Pqz2e4POSI"
       } ],
       "hashtags" : [ ],
@@ -11891,6 +11992,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 698
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/GnmglSwJ93"
     } ],
     "hashtags" : [ ],
@@ -11932,6 +12034,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 698
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/GnmglSwJ93"
       } ],
       "hashtags" : [ ],
@@ -12002,6 +12105,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nlqqOcIvqh"
     } ],
     "hashtags" : [ {
@@ -12060,6 +12164,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/nlqqOcIvqh"
       } ],
       "hashtags" : [ {
@@ -12253,7 +12358,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -12369,6 +12474,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/2uLfM9YD3E"
     } ],
     "hashtags" : [ ],
@@ -12415,6 +12521,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/2uLfM9YD3E"
       } ],
       "hashtags" : [ ],
@@ -12496,7 +12603,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -12569,7 +12676,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -12651,6 +12758,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 751
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/9axywvpREu"
     } ],
     "hashtags" : [ ],
@@ -12697,6 +12805,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 751
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/9axywvpREu"
       } ],
       "hashtags" : [ ],
@@ -12926,6 +13035,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3OOSKGEh9L"
       } ],
       "hashtags" : [ {
@@ -13069,6 +13179,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 299
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CaMRjVPT9w"
     } ],
     "hashtags" : [ ],
@@ -13121,6 +13232,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 299
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/CaMRjVPT9w"
       } ],
       "hashtags" : [ ],
@@ -13357,6 +13469,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/EPxTqlnZYJ"
       } ],
       "hashtags" : [ {
@@ -13465,6 +13578,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/IET3qsIA4H"
     } ],
     "hashtags" : [ ],
@@ -13517,6 +13631,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Bo9Zfvm6mX"
     } ],
     "hashtags" : [ ],
@@ -13575,6 +13690,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/o39eshNKDG"
     } ],
     "hashtags" : [ ],
@@ -13616,6 +13732,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/o39eshNKDG"
       } ],
       "hashtags" : [ ],
@@ -13680,6 +13797,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 576
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/IBajmVwi5f"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/532453238411624448\/photo\/1",
@@ -13710,6 +13828,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 576
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/IBajmVwi5f"
     } ],
     "hashtags" : [ ],
@@ -13768,6 +13887,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/q2HhmrDI5V"
     } ],
     "hashtags" : [ {
@@ -13820,6 +13940,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/q2HhmrDI5V"
       } ],
       "hashtags" : [ {
@@ -13913,7 +14034,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964072513679581184\/4YV1Q0mR_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -13996,6 +14117,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/E7pMhlM3vI"
       } ],
       "hashtags" : [ ],
@@ -14155,6 +14277,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 620
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/fJOg5sl4ff"
       } ],
       "hashtags" : [ ],
@@ -14224,6 +14347,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 360
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FneGRKNzPC"
     } ],
     "hashtags" : [ ],
@@ -14361,6 +14485,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nuAzh4oOmg"
     } ],
     "hashtags" : [ ],
@@ -14407,6 +14532,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/nuAzh4oOmg"
       } ],
       "hashtags" : [ ],
@@ -14427,7 +14553,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951527375530962945\/lAVjPUKJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -14599,6 +14725,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 900
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kHETVUJmSJ"
     } ],
     "hashtags" : [ {
@@ -14648,6 +14775,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 900
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/kHETVUJmSJ"
       } ],
       "hashtags" : [ {
@@ -14726,6 +14854,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qXxUf3iVrl"
     } ],
     "hashtags" : [ ],
@@ -14772,6 +14901,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/qXxUf3iVrl"
       } ],
       "hashtags" : [ ],
@@ -14847,6 +14977,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 620
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/eGFxNZNW0O"
     } ],
     "hashtags" : [ ],
@@ -14893,6 +15024,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 620
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/eGFxNZNW0O"
       } ],
       "hashtags" : [ ],
@@ -15115,6 +15247,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/RvaZdCH3jd"
       } ],
       "hashtags" : [ {
@@ -15138,7 +15271,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "clausvonwagner",
       "protected" : false,
       "id_str" : "273019562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818835596537896960\/rRoNC73V_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975036237265489921\/eo1zUt8T_normal.jpg",
       "id" : 273019562,
       "verified" : true
     }
@@ -15363,6 +15496,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/CU7u5INP0T"
       } ],
       "hashtags" : [ ],
@@ -15494,6 +15628,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/bONwlrvQLT"
     } ],
     "hashtags" : [ {
@@ -15546,6 +15681,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/bONwlrvQLT"
       } ],
       "hashtags" : [ {
@@ -15694,7 +15830,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -15749,6 +15885,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/OuMTpeAE1B"
     } ],
     "hashtags" : [ ],
@@ -15795,6 +15932,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/OuMTpeAE1B"
       } ],
       "hashtags" : [ ],
@@ -15815,7 +15953,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964072513679581184\/4YV1Q0mR_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -16072,7 +16210,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -16211,6 +16349,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 766
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/E5iaGgbIdv"
       } ],
       "hashtags" : [ ],
@@ -16299,7 +16438,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -16540,6 +16679,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 521
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/iW6mF38m4b"
     } ],
     "hashtags" : [ {
@@ -16592,6 +16732,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 521
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/iW6mF38m4b"
       } ],
       "hashtags" : [ {
@@ -16752,6 +16893,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 950
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sVvNjj3Z09"
     } ],
     "hashtags" : [ {
@@ -16802,6 +16944,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 950
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/sVvNjj3Z09"
       } ],
       "hashtags" : [ {
@@ -17225,6 +17368,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 306
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3xDl6PlKTI"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/Phil44\/status\/530429885647699968\/photo\/1",
@@ -17255,6 +17399,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 306
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3xDl6PlKTI"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/Phil44\/status\/530429885647699968\/photo\/1",
@@ -17285,6 +17430,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 306
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3xDl6PlKTI"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/Phil44\/status\/530429885647699968\/photo\/1",
@@ -17315,6 +17461,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 306
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/3xDl6PlKTI"
       } ],
       "hashtags" : [ {
@@ -17399,7 +17546,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -17538,7 +17685,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951527375530962945\/lAVjPUKJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -17615,6 +17762,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/WzJjVV4eAr"
       } ],
       "hashtags" : [ {
@@ -17757,6 +17905,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 1000
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ROQEyry7C6"
     } ],
     "hashtags" : [ ],
@@ -17803,6 +17952,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 1000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ROQEyry7C6"
       } ],
       "hashtags" : [ ],
@@ -17823,7 +17973,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951527375530962945\/lAVjPUKJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -17878,6 +18028,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 400
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/c401KrOrDl"
     } ],
     "hashtags" : [ {
@@ -17927,6 +18078,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 400
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/c401KrOrDl"
       } ],
       "hashtags" : [ {
@@ -18021,6 +18173,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/dOJpUJdWfH"
       } ],
       "hashtags" : [ ],
@@ -18041,7 +18194,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -18624,6 +18777,7 @@ Grailbird.data.tweets_2014_11 =
         "resize" : "fit",
         "w" : 595
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fDXK8FGQeG"
     } ],
     "hashtags" : [ {
@@ -18673,6 +18827,7 @@ Grailbird.data.tweets_2014_11 =
           "resize" : "fit",
           "w" : 595
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/fDXK8FGQeG"
       } ],
       "hashtags" : [ {
@@ -18696,7 +18851,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964072513679581184\/4YV1Q0mR_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }

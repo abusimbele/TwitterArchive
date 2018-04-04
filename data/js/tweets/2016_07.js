@@ -1,476 +1,5 @@
 Grailbird.data.tweets_2016_07 = 
  [ {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "United Nations",
-      "screen_name" : "UN",
-      "indices" : [ 3, 6 ],
-      "id_str" : "14159148",
-      "id" : 14159148
-    }, {
-      "name" : "ITU",
-      "screen_name" : "ITU",
-      "indices" : [ 72, 76 ],
-      "id_str" : "40425262",
-      "id" : 40425262
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/UN\/status\/759902218929573889\/photo\/1",
-      "indices" : [ 111, 134 ],
-      "url" : "https:\/\/t.co\/tYFisxmA6u",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CodMfRxXYAAFBFL.jpg",
-      "id_str" : "758659162465329152",
-      "id" : 758659162465329152,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CodMfRxXYAAFBFL.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 512,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 512,
-        "resize" : "fit",
-        "w" : 1024
-      }, {
-        "h" : 340,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 512,
-        "resize" : "fit",
-        "w" : 1024
-      } ],
-      "display_url" : "pic.twitter.com\/tYFisxmA6u"
-    } ],
-    "hashtags" : [ {
-      "text" : "ICT4SDG",
-      "indices" : [ 102, 110 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 77, 100 ],
-      "url" : "https:\/\/t.co\/fxmDz6BfHB",
-      "expanded_url" : "http:\/\/ow.ly\/317t302BUec",
-      "display_url" : "ow.ly\/317t302BUec"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "759906731862491136",
-  "text" : "RT @UN: 95% of the world lives in an area covered by a mobile network - @ITU https:\/\/t.co\/fxmDz6BfHB \n#ICT4SDG https:\/\/t.co\/tYFisxmA6u",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "ITU",
-        "screen_name" : "ITU",
-        "indices" : [ 64, 68 ],
-        "id_str" : "40425262",
-        "id" : 40425262
-      } ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/UN\/status\/759902218929573889\/photo\/1",
-        "indices" : [ 103, 126 ],
-        "url" : "https:\/\/t.co\/tYFisxmA6u",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CodMfRxXYAAFBFL.jpg",
-        "id_str" : "758659162465329152",
-        "id" : 758659162465329152,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CodMfRxXYAAFBFL.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 512,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 512,
-          "resize" : "fit",
-          "w" : 1024
-        }, {
-          "h" : 340,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 512,
-          "resize" : "fit",
-          "w" : 1024
-        } ],
-        "display_url" : "pic.twitter.com\/tYFisxmA6u"
-      } ],
-      "hashtags" : [ {
-        "text" : "ICT4SDG",
-        "indices" : [ 94, 102 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 69, 92 ],
-        "url" : "https:\/\/t.co\/fxmDz6BfHB",
-        "expanded_url" : "http:\/\/ow.ly\/317t302BUec",
-        "display_url" : "ow.ly\/317t302BUec"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "759902218929573889",
-    "text" : "95% of the world lives in an area covered by a mobile network - @ITU https:\/\/t.co\/fxmDz6BfHB \n#ICT4SDG https:\/\/t.co\/tYFisxmA6u",
-    "id" : 759902218929573889,
-    "created_at" : "2016-08-01 00:03:01 +0000",
-    "user" : {
-      "name" : "United Nations",
-      "screen_name" : "UN",
-      "protected" : false,
-      "id_str" : "14159148",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950749155575541760\/MZoiVs3G_normal.jpg",
-      "id" : 14159148,
-      "verified" : true
-    }
-  },
-  "id" : 759906731862491136,
-  "created_at" : "2016-08-01 00:20:57 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Lifehacker",
-      "screen_name" : "lifehacker",
-      "indices" : [ 3, 14 ],
-      "id_str" : "7144422",
-      "id" : 7144422
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/lifehacker\/status\/759901488206544897\/photo\/1",
-      "indices" : [ 96, 119 ],
-      "url" : "https:\/\/t.co\/IqQxpI3Yai",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Cou2X9ZWcAAnXDj.jpg",
-      "id_str" : "759901484876197888",
-      "id" : 759901484876197888,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cou2X9ZWcAAnXDj.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 800
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 800
-      }, {
-        "h" : 383,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 450,
-        "resize" : "fit",
-        "w" : 800
-      } ],
-      "display_url" : "pic.twitter.com\/IqQxpI3Yai"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 72, 95 ],
-      "url" : "https:\/\/t.co\/UxfVAaucLc",
-      "expanded_url" : "http:\/\/lifehac.kr\/WDbXijV",
-      "display_url" : "lifehac.kr\/WDbXijV"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "759902404318035968",
-  "text" : "RT @lifehacker: Five fun science experiments you can do with your kids: https:\/\/t.co\/UxfVAaucLc https:\/\/t.co\/IqQxpI3Yai",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003ESocialFlow\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/lifehacker\/status\/759901488206544897\/photo\/1",
-        "indices" : [ 80, 103 ],
-        "url" : "https:\/\/t.co\/IqQxpI3Yai",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cou2X9ZWcAAnXDj.jpg",
-        "id_str" : "759901484876197888",
-        "id" : 759901484876197888,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cou2X9ZWcAAnXDj.jpg",
-        "sizes" : [ {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 800
-        }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 800
-        }, {
-          "h" : 383,
-          "resize" : "fit",
-          "w" : 680
-        }, {
-          "h" : 450,
-          "resize" : "fit",
-          "w" : 800
-        } ],
-        "display_url" : "pic.twitter.com\/IqQxpI3Yai"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 56, 79 ],
-        "url" : "https:\/\/t.co\/UxfVAaucLc",
-        "expanded_url" : "http:\/\/lifehac.kr\/WDbXijV",
-        "display_url" : "lifehac.kr\/WDbXijV"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "759901488206544897",
-    "text" : "Five fun science experiments you can do with your kids: https:\/\/t.co\/UxfVAaucLc https:\/\/t.co\/IqQxpI3Yai",
-    "id" : 759901488206544897,
-    "created_at" : "2016-08-01 00:00:07 +0000",
-    "user" : {
-      "name" : "Lifehacker",
-      "screen_name" : "lifehacker",
-      "protected" : false,
-      "id_str" : "7144422",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590971614545612800\/eV8h6rz7_normal.png",
-      "id" : 7144422,
-      "verified" : true
-    }
-  },
-  "id" : 759902404318035968,
-  "created_at" : "2016-08-01 00:03:46 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "goodreads",
-      "screen_name" : "goodreads",
-      "indices" : [ 127, 137 ],
-      "id_str" : "15898172",
-      "id" : 15898172
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 99, 122 ],
-      "url" : "https:\/\/t.co\/qOgeOy5ZZg",
-      "expanded_url" : "https:\/\/www.goodreads.com\/quotes\/30782",
-      "display_url" : "goodreads.com\/quotes\/30782"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "759899233034051584",
-  "text" : "Likes the quote \"Those who educate children well are more to be honored than they who produce them https:\/\/t.co\/qOgeOy5ZZg via @goodreads",
-  "id" : 759899233034051584,
-  "created_at" : "2016-07-31 23:51:10 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/759892949756997632\/photo\/1",
-      "indices" : [ 0, 23 ],
-      "url" : "https:\/\/t.co\/7WzJXT5xGI",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/Couum53XEAAyBmF.jpg",
-      "id_str" : "759892945533341696",
-      "id" : 759892945533341696,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Couum53XEAAyBmF.jpg",
-      "sizes" : [ {
-        "h" : 490,
-        "resize" : "fit",
-        "w" : 359
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 490,
-        "resize" : "fit",
-        "w" : 359
-      }, {
-        "h" : 490,
-        "resize" : "fit",
-        "w" : 359
-      }, {
-        "h" : 490,
-        "resize" : "fit",
-        "w" : 359
-      } ],
-      "display_url" : "pic.twitter.com\/7WzJXT5xGI"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "750804621833175040",
-  "geo" : { },
-  "id_str" : "759892949756997632",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "https:\/\/t.co\/7WzJXT5xGI",
-  "id" : 759892949756997632,
-  "in_reply_to_status_id" : 750804621833175040,
-  "created_at" : "2016-07-31 23:26:12 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Science Channel",
-      "screen_name" : "ScienceChannel",
-      "indices" : [ 3, 18 ],
-      "id_str" : "16895274",
-      "id" : 16895274
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/ScienceChannel\/status\/759886475110522880\/photo\/1",
-      "indices" : [ 110, 133 ],
-      "url" : "https:\/\/t.co\/Vo2W18pKvx",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CououGbW8AAtpBn.jpg",
-      "id_str" : "759886472094871552",
-      "id" : 759886472094871552,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CououGbW8AAtpBn.jpg",
-      "sizes" : [ {
-        "h" : 308,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 308,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 308,
-        "resize" : "fit",
-        "w" : 600
-      }, {
-        "h" : 308,
-        "resize" : "fit",
-        "w" : 600
-      } ],
-      "display_url" : "pic.twitter.com\/Vo2W18pKvx"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 86, 109 ],
-      "url" : "https:\/\/t.co\/j9NOOWuBcN",
-      "expanded_url" : "http:\/\/bit.ly\/1L0kqyh",
-      "display_url" : "bit.ly\/1L0kqyh"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "759889034479108096",
-  "text" : "RT @ScienceChannel: The inside of a tape measure is way cooler than you would expect! https:\/\/t.co\/j9NOOWuBcN https:\/\/t.co\/Vo2W18pKvx",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/ScienceChannel\/status\/759886475110522880\/photo\/1",
-        "indices" : [ 90, 113 ],
-        "url" : "https:\/\/t.co\/Vo2W18pKvx",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CououGbW8AAtpBn.jpg",
-        "id_str" : "759886472094871552",
-        "id" : 759886472094871552,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CououGbW8AAtpBn.jpg",
-        "sizes" : [ {
-          "h" : 308,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 308,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 308,
-          "resize" : "fit",
-          "w" : 600
-        }, {
-          "h" : 308,
-          "resize" : "fit",
-          "w" : 600
-        } ],
-        "display_url" : "pic.twitter.com\/Vo2W18pKvx"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 66, 89 ],
-        "url" : "https:\/\/t.co\/j9NOOWuBcN",
-        "expanded_url" : "http:\/\/bit.ly\/1L0kqyh",
-        "display_url" : "bit.ly\/1L0kqyh"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "759886475110522880",
-    "text" : "The inside of a tape measure is way cooler than you would expect! https:\/\/t.co\/j9NOOWuBcN https:\/\/t.co\/Vo2W18pKvx",
-    "id" : 759886475110522880,
-    "created_at" : "2016-07-31 23:00:28 +0000",
-    "user" : {
-      "name" : "Science Channel",
-      "screen_name" : "ScienceChannel",
-      "protected" : false,
-      "id_str" : "16895274",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952749303541399552\/NNFrRNGk_normal.jpg",
-      "id" : 16895274,
-      "verified" : true
-    }
-  },
-  "id" : 759889034479108096,
-  "created_at" : "2016-07-31 23:10:38 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -542,6 +71,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/bJlONSPkCK"
     } ],
     "hashtags" : [ {
@@ -608,6 +138,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 892
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/drNs6LMrBo"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/759882242948759552\/photo\/1",
@@ -638,6 +169,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1280
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/drNs6LMrBo"
     } ],
     "hashtags" : [ ],
@@ -821,6 +353,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Ccr1E8WkuD"
     } ],
     "hashtags" : [ {
@@ -895,6 +428,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1253
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/1BYijs2SE3"
     } ],
     "hashtags" : [ {
@@ -967,7 +501,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 0, 12 ],
       "id_str" : "3058667338",
@@ -1077,6 +611,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 400
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4bEVknoBzF"
     } ],
     "hashtags" : [ ],
@@ -1118,6 +653,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 400
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/4bEVknoBzF"
       } ],
       "hashtags" : [ ],
@@ -1215,6 +751,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/KxqTlZVN6L"
     } ],
     "hashtags" : [ ],
@@ -1358,6 +895,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 660
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8xkwOmtefH"
     } ],
     "hashtags" : [ ],
@@ -1615,6 +1153,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 825
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/eHjFBRkBfp"
     } ],
     "hashtags" : [ {
@@ -1662,6 +1201,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 825
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/eHjFBRkBfp"
       } ],
       "hashtags" : [ {
@@ -1764,6 +1304,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 671
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vwHbWHnyC1"
     } ],
     "hashtags" : [ ],
@@ -1897,6 +1438,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 807
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ssE3EyRznl"
     } ],
     "hashtags" : [ ],
@@ -2128,7 +1670,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "3338956540",
       "id" : 3338956540
     }, {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 110, 122 ],
       "id_str" : "3058667338",
@@ -2375,6 +1917,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nuHld0UZ3I"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/759157962636193793\/photo\/1",
@@ -2405,6 +1948,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nuHld0UZ3I"
     } ],
     "hashtags" : [ {
@@ -2473,6 +2017,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/molULiMhDY"
     } ],
     "hashtags" : [ {
@@ -2809,6 +2354,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1280
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/hpMkwaTag9"
     } ],
     "hashtags" : [ ],
@@ -3030,6 +2576,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/cyg5JYqrzU"
     } ],
     "hashtags" : [ ],
@@ -3486,6 +3033,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 480
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EWPf4tecPN"
     } ],
     "hashtags" : [ ],
@@ -3532,6 +3080,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 480
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/EWPf4tecPN"
       } ],
       "hashtags" : [ ],
@@ -3762,6 +3311,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1970
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/SZnJkHl5HR"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/agileschools\/status\/758678292153204736\/photo\/1",
@@ -3792,6 +3342,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/SZnJkHl5HR"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/agileschools\/status\/758678292153204736\/photo\/1",
@@ -3822,6 +3373,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/SZnJkHl5HR"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/agileschools\/status\/758678292153204736\/photo\/1",
@@ -3852,6 +3404,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/SZnJkHl5HR"
       } ],
       "hashtags" : [ {
@@ -3870,7 +3423,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "agileschools",
       "protected" : false,
       "id_str" : "482760579",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/888265197588070402\/dKJ3RNpo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/980669611765989377\/ahXoSi2L_normal.jpg",
       "id" : 482760579,
       "verified" : false
     }
@@ -4214,6 +3767,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/TCNIPz3cVI"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/758697167599104001\/photo\/1",
@@ -4244,6 +3798,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/TCNIPz3cVI"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/758697167599104001\/photo\/1",
@@ -4274,6 +3829,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/TCNIPz3cVI"
     } ],
     "hashtags" : [ {
@@ -4574,6 +4130,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 3000
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/XMOT63OM5w"
     } ],
     "hashtags" : [ ],
@@ -4615,6 +4172,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 3000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/XMOT63OM5w"
       } ],
       "hashtags" : [ ],
@@ -4718,6 +4276,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/y9a6NQHfOu"
     } ],
     "hashtags" : [ {
@@ -4776,6 +4335,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/y9a6NQHfOu"
       } ],
       "hashtags" : [ {
@@ -4808,7 +4368,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "bpol_bw",
       "protected" : false,
       "id_str" : "3169257933",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/813481586318512128\/63lV8zY2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976809218731925505\/Wm0DqRi6_normal.jpg",
       "id" : 3169257933,
       "verified" : true
     }
@@ -4863,6 +4423,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 232
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HbMHvryGEq"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/758634490839302144\/photo\/1",
@@ -4893,6 +4454,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 329
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HbMHvryGEq"
     } ],
     "hashtags" : [ ],
@@ -5064,6 +4626,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 386
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/R4yTTmi9VY"
       } ],
       "hashtags" : [ {
@@ -5180,6 +4743,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 560
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/m8cnWDcoQ2"
     } ],
     "hashtags" : [ ],
@@ -5226,6 +4790,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 560
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/m8cnWDcoQ2"
       } ],
       "hashtags" : [ ],
@@ -5307,6 +4872,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/7bI7E2Chz4"
     } ],
     "hashtags" : [ ],
@@ -5421,6 +4987,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 545
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/45CulRWt6N"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/758610897816420352\/photo\/1",
@@ -5451,6 +5018,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 509
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/45CulRWt6N"
     } ],
     "hashtags" : [ {
@@ -5810,6 +5378,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/mCLGoR92Z2"
       } ],
       "hashtags" : [ ],
@@ -5987,6 +5556,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/WESnHJfqgL"
       } ],
       "hashtags" : [ {
@@ -6383,6 +5953,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FrPA7aan7x"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/758354910807195648\/photo\/1",
@@ -6413,6 +5984,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FrPA7aan7x"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/758354910807195648\/photo\/1",
@@ -6443,6 +6015,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FrPA7aan7x"
     } ],
     "hashtags" : [ {
@@ -7114,6 +6687,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 900
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Grgl8K9DEE"
       } ],
       "hashtags" : [ {
@@ -7206,6 +6780,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/FxkIo4xr9c"
       } ],
       "hashtags" : [ ],
@@ -7281,6 +6856,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 616
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/QBDLcNWyOE"
     } ],
     "hashtags" : [ {
@@ -7419,6 +6995,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5bF6zN9IQG"
     } ],
     "hashtags" : [ {
@@ -7490,6 +7067,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/k9qrIL2uSK"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/758066417690415104\/photo\/1",
@@ -7520,6 +7098,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/k9qrIL2uSK"
     } ],
     "hashtags" : [ ],
@@ -7691,6 +7270,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 636
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ypRjhaAbQu"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/758015590753792000\/photo\/1",
@@ -7721,6 +7301,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 685
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ypRjhaAbQu"
     } ],
     "hashtags" : [ {
@@ -7889,6 +7470,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/a1YpaGGqsg"
     } ],
     "hashtags" : [ {
@@ -7939,6 +7521,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/a1YpaGGqsg"
       } ],
       "hashtags" : [ {
@@ -8194,7 +7777,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 0, 12 ],
       "id_str" : "3058667338",
@@ -8296,6 +7879,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/bWz4fNsnTj"
       } ],
       "hashtags" : [ ],
@@ -8624,6 +8208,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1080
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Iqh5zjnkll"
       } ],
       "hashtags" : [ ],
@@ -8830,6 +8415,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 864
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sh16QqVyy1"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757913611360735232\/photo\/1",
@@ -8860,6 +8446,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sh16QqVyy1"
     } ],
     "hashtags" : [ ],
@@ -8922,6 +8509,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/iSP9i8YXmh"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757913457106780160\/photo\/1",
@@ -8952,6 +8540,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/iSP9i8YXmh"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757913457106780160\/photo\/1",
@@ -8982,6 +8571,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/iSP9i8YXmh"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757913457106780160\/photo\/1",
@@ -9012,6 +8602,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/iSP9i8YXmh"
     } ],
     "hashtags" : [ ],
@@ -9097,6 +8688,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/IW44e06tAf"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757682763990503424\/photo\/1",
@@ -9127,6 +8719,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/IW44e06tAf"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757682763990503424\/photo\/1",
@@ -9157,6 +8750,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/IW44e06tAf"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757682763990503424\/photo\/1",
@@ -9187,6 +8781,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/IW44e06tAf"
     } ],
     "hashtags" : [ {
@@ -9285,6 +8880,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 799
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8szoDDhJhu"
     } ],
     "hashtags" : [ {
@@ -9437,6 +9033,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/0BuWmrdIfV"
       } ],
       "hashtags" : [ ],
@@ -9452,7 +9049,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "henryfong",
       "protected" : false,
       "id_str" : "58562612",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826696727155470336\/fn1nrltw_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/965395899261202432\/HHtrxsgU_normal.jpg",
       "id" : 58562612,
       "verified" : true
     }
@@ -9507,6 +9104,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/LgwfjHbhzt"
     } ],
     "hashtags" : [ ],
@@ -9548,6 +9146,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 640
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/LgwfjHbhzt"
       } ],
       "hashtags" : [ ],
@@ -9563,7 +9162,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "BigBoi",
       "protected" : false,
       "id_str" : "29330030",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/874524205571756033\/M9WFqGLz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971581366944006146\/In2wsevp_normal.jpg",
       "id" : 29330030,
       "verified" : true
     }
@@ -9644,6 +9243,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/L2uh3Ih9KB"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757597642000072705\/photo\/1",
@@ -9674,6 +9274,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/L2uh3Ih9KB"
     } ],
     "hashtags" : [ {
@@ -9745,6 +9346,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/UU0qNtS4eF"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757591731298762754\/photo\/1",
@@ -9775,6 +9377,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/UU0qNtS4eF"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757591731298762754\/photo\/1",
@@ -9805,6 +9408,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/UU0qNtS4eF"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757591731298762754\/photo\/1",
@@ -9835,6 +9439,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/UU0qNtS4eF"
     } ],
     "hashtags" : [ {
@@ -9938,6 +9543,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/jCoysA8tBD"
     } ],
     "hashtags" : [ ],
@@ -10118,7 +9724,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 0, 12 ],
       "id_str" : "3058667338",
@@ -10194,6 +9800,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 640
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5FzzA8bWgQ"
     } ],
     "hashtags" : [ ],
@@ -10257,6 +9864,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1000
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ac3knxlMUS"
     } ],
     "hashtags" : [ ],
@@ -10303,6 +9911,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/ac3knxlMUS"
       } ],
       "hashtags" : [ ],
@@ -10378,6 +9987,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 2048
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/U915NnQt3i"
     } ],
     "hashtags" : [ ],
@@ -10424,6 +10034,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/U915NnQt3i"
       } ],
       "hashtags" : [ ],
@@ -10586,6 +10197,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1920
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/DyR9tFf2Dl"
       } ],
       "hashtags" : [ ],
@@ -10626,7 +10238,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 28, 40 ],
       "id_str" : "3058667338",
@@ -10661,6 +10273,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tBwbE8dkye"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757345943008206848\/photo\/1",
@@ -10691,6 +10304,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tBwbE8dkye"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757345943008206848\/photo\/1",
@@ -10721,6 +10335,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tBwbE8dkye"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757345943008206848\/photo\/1",
@@ -10751,6 +10366,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tBwbE8dkye"
     } ],
     "hashtags" : [ {
@@ -10787,7 +10403,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 23, 35 ],
       "id_str" : "3058667338",
@@ -10822,6 +10438,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/re4USTrj7q"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757345357382709248\/photo\/1",
@@ -10852,6 +10469,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/re4USTrj7q"
     } ],
     "hashtags" : [ {
@@ -10963,7 +10581,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "t3n",
       "protected" : false,
       "id_str" : "11060982",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931121835994943488\/SDlLXnvg_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/964072513679581184\/4YV1Q0mR_normal.jpg",
       "id" : 11060982,
       "verified" : true
     }
@@ -11037,6 +10655,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 440
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/R5Ad9eh1cF"
       } ],
       "hashtags" : [ {
@@ -11060,7 +10679,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "Olympics",
       "protected" : false,
       "id_str" : "52422878",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710745672480382977\/-KLbvo93_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975372356960096256\/mHGbWlPT_normal.jpg",
       "id" : 52422878,
       "verified" : true
     }
@@ -11115,6 +10734,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1562
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/lRbSlGsWrB"
     } ],
     "hashtags" : [ {
@@ -11162,6 +10782,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1562
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/lRbSlGsWrB"
       } ],
       "hashtags" : [ {
@@ -11264,6 +10885,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/lfRMMzv8Wp"
     } ],
     "hashtags" : [ ],
@@ -11321,6 +10943,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/uREgzWUY26"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757240347181379584\/photo\/1",
@@ -11351,6 +10974,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/uREgzWUY26"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757240347181379584\/photo\/1",
@@ -11381,6 +11005,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/uREgzWUY26"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757240347181379584\/photo\/1",
@@ -11411,6 +11036,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/uREgzWUY26"
     } ],
     "hashtags" : [ {
@@ -11518,6 +11144,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vsiiFHmJp6"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757237114547400704\/photo\/1",
@@ -11548,6 +11175,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 924
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vsiiFHmJp6"
     } ],
     "hashtags" : [ ],
@@ -11611,6 +11239,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 851
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/QXpjaO5sYY"
     } ],
     "hashtags" : [ {
@@ -11677,6 +11306,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 450
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/r8NuTE3gzI"
     } ],
     "hashtags" : [ {
@@ -11726,6 +11356,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 450
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/r8NuTE3gzI"
       } ],
       "hashtags" : [ {
@@ -11820,6 +11451,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/2vqSHUotRp"
       } ],
       "hashtags" : [ ],
@@ -12047,6 +11679,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4Q8GKdYDQE"
     } ],
     "hashtags" : [ ],
@@ -12427,6 +12060,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/XrT7O6TCQc"
     } ],
     "hashtags" : [ ],
@@ -12589,6 +12223,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/iy5ShHlv8d"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/756469320968966144\/photo\/1",
@@ -12619,6 +12254,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/iy5ShHlv8d"
     } ],
     "hashtags" : [ {
@@ -12774,6 +12410,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/1HEMauP0XR"
     } ],
     "hashtags" : [ ],
@@ -12972,6 +12609,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tVSXqJ5IEP"
     } ],
     "hashtags" : [ ],
@@ -13060,6 +12698,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/J7wdNvaZnG"
       } ],
       "hashtags" : [ {
@@ -13085,7 +12724,7 @@ Grailbird.data.tweets_2016_07 =
     "id" : 756429276740714498,
     "created_at" : "2016-07-22 10:02:48 +0000",
     "user" : {
-      "name" : "Primary Computing",
+      "name" : "Primary Computing Resources",
       "screen_name" : "iLearn2Primary",
       "protected" : false,
       "id_str" : "200544613",
@@ -13109,7 +12748,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 0, 12 ],
       "id_str" : "3058667338",
@@ -13309,6 +12948,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/zwoeGh84Ke"
     } ],
     "hashtags" : [ ],
@@ -13366,6 +13006,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/YsXmFnhAHm"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/756421260645638144\/photo\/1",
@@ -13396,6 +13037,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/YsXmFnhAHm"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/756421260645638144\/photo\/1",
@@ -13426,6 +13068,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/YsXmFnhAHm"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/756421260645638144\/photo\/1",
@@ -13456,6 +13099,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/YsXmFnhAHm"
     } ],
     "hashtags" : [ {
@@ -13555,6 +13199,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/O4z5kEEU1J"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/756243645636935680\/photo\/1",
@@ -13585,6 +13230,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/O4z5kEEU1J"
     } ],
     "hashtags" : [ ],
@@ -13642,6 +13288,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gbzVWl80c4"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/756243516787986434\/photo\/1",
@@ -13672,6 +13319,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gbzVWl80c4"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/756243516787986434\/photo\/1",
@@ -13702,6 +13350,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gbzVWl80c4"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/756243516787986434\/photo\/1",
@@ -13732,6 +13381,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/gbzVWl80c4"
     } ],
     "hashtags" : [ {
@@ -14154,6 +13804,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 2000
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/AQ1dYzI7Ux"
     } ],
     "hashtags" : [ ],
@@ -14212,6 +13863,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 2000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/AQ1dYzI7Ux"
       } ],
       "hashtags" : [ ],
@@ -14293,6 +13945,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/v888cb272M"
     } ],
     "hashtags" : [ ],
@@ -14355,6 +14008,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/JMySlME1w6"
     } ],
     "hashtags" : [ ],
@@ -14412,6 +14066,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/xE5DeWqn5P"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/756109126913097728\/photo\/1",
@@ -14442,6 +14097,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/xE5DeWqn5P"
     } ],
     "hashtags" : [ {
@@ -14632,6 +14288,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/3vBgRoip4K"
     } ],
     "hashtags" : [ {
@@ -14695,6 +14352,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 218
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CivHC8SUv9"
     } ],
     "hashtags" : [ ],
@@ -14752,6 +14410,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 440
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/m86KbaZ8t5"
     } ],
     "hashtags" : [ ],
@@ -14809,6 +14468,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/O2LzNT9nx9"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/756098066810277888\/photo\/1",
@@ -14839,6 +14499,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/O2LzNT9nx9"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/756098066810277888\/photo\/1",
@@ -14869,6 +14530,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/O2LzNT9nx9"
     } ],
     "hashtags" : [ {
@@ -15038,6 +14700,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/2vWFScUTQX"
     } ],
     "hashtags" : [ {
@@ -15091,6 +14754,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/2vWFScUTQX"
       } ],
       "hashtags" : [ {
@@ -15112,7 +14776,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "Olympics",
       "protected" : false,
       "id_str" : "52422878",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/710745672480382977\/-KLbvo93_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975372356960096256\/mHGbWlPT_normal.jpg",
       "id" : 52422878,
       "verified" : true
     }
@@ -15205,6 +14869,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1296
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Ztwq914DgL"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755883954096500736\/photo\/1",
@@ -15235,6 +14900,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 779
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Ztwq914DgL"
     } ],
     "hashtags" : [ ],
@@ -15292,6 +14958,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oyj9Uh6zcm"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755883386904973312\/photo\/1",
@@ -15322,6 +14989,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oyj9Uh6zcm"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755883386904973312\/photo\/1",
@@ -15352,6 +15020,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oyj9Uh6zcm"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755883386904973312\/photo\/1",
@@ -15382,6 +15051,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/oyj9Uh6zcm"
     } ],
     "hashtags" : [ {
@@ -15492,6 +15162,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/0HNTeVr7NV"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755878243241164800\/photo\/1",
@@ -15522,6 +15193,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/0HNTeVr7NV"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755878243241164800\/photo\/1",
@@ -15552,6 +15224,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/0HNTeVr7NV"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755878243241164800\/photo\/1",
@@ -15582,6 +15255,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/0HNTeVr7NV"
     } ],
     "hashtags" : [ {
@@ -15627,7 +15301,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "826843735",
       "id" : 826843735
     }, {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 25, 37 ],
       "id_str" : "3058667338",
@@ -15704,6 +15378,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Wqvgi8DLsg"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755873968456929281\/photo\/1",
@@ -15734,6 +15409,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Wqvgi8DLsg"
     } ],
     "hashtags" : [ {
@@ -16017,6 +15693,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 484
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/59IfYXfI8B"
     } ],
     "hashtags" : [ ],
@@ -16074,6 +15751,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BWsTKIAQyg"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755756478817005568\/photo\/1",
@@ -16104,6 +15782,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BWsTKIAQyg"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755756478817005568\/photo\/1",
@@ -16134,6 +15813,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BWsTKIAQyg"
     } ],
     "hashtags" : [ {
@@ -16199,6 +15879,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vb2BrseB8b"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755755857791647745\/photo\/1",
@@ -16229,6 +15910,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vb2BrseB8b"
     } ],
     "hashtags" : [ {
@@ -16298,6 +15980,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5yh0cpQNQO"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755754257865924611\/photo\/1",
@@ -16328,6 +16011,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5yh0cpQNQO"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755754257865924611\/photo\/1",
@@ -16358,6 +16042,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5yh0cpQNQO"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755754257865924611\/photo\/1",
@@ -16388,6 +16073,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5yh0cpQNQO"
     } ],
     "hashtags" : [ {
@@ -16431,7 +16117,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "26609111",
       "id" : 26609111
     }, {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 19, 31 ],
       "id_str" : "3058667338",
@@ -16520,6 +16206,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/DglTQJABwB"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755724825038098432\/photo\/1",
@@ -16550,6 +16237,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/DglTQJABwB"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755724825038098432\/photo\/1",
@@ -16580,6 +16268,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/DglTQJABwB"
     } ],
     "hashtags" : [ {
@@ -16731,6 +16420,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/UkbnWzP4ZS"
       } ],
       "hashtags" : [ ],
@@ -16867,6 +16557,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/TrlREZfgbf"
     } ],
     "hashtags" : [ ],
@@ -16930,6 +16621,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/54L0CQCU8G"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755441086118686722\/photo\/1",
@@ -16960,6 +16652,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/54L0CQCU8G"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755441086118686722\/photo\/1",
@@ -16990,6 +16683,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/54L0CQCU8G"
     } ],
     "hashtags" : [ {
@@ -17055,6 +16749,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/6sItro278R"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755439751725977600\/photo\/1",
@@ -17085,6 +16780,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/6sItro278R"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755439751725977600\/photo\/1",
@@ -17115,6 +16811,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/6sItro278R"
     } ],
     "hashtags" : [ {
@@ -17274,7 +16971,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iran Lawrence",
+      "name" : "Abstract Art Guru - Iran Lawrence",
       "screen_name" : "IranLawrence",
       "indices" : [ 0, 13 ],
       "id_str" : "19199743",
@@ -17336,6 +17033,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nYaigy8fZU"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755124519187181569\/photo\/1",
@@ -17366,6 +17064,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nYaigy8fZU"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755124519187181569\/photo\/1",
@@ -17396,6 +17095,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nYaigy8fZU"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/755124519187181569\/photo\/1",
@@ -17426,6 +17126,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nYaigy8fZU"
     } ],
     "hashtags" : [ {
@@ -17539,6 +17240,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/euTR17taJY"
       } ],
       "hashtags" : [ {
@@ -17612,6 +17314,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EigjNwkpgf"
     } ],
     "hashtags" : [ {
@@ -17661,6 +17364,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/EigjNwkpgf"
       } ],
       "hashtags" : [ {
@@ -17806,6 +17510,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/yCcBUfOgXU"
     } ],
     "hashtags" : [ ],
@@ -17858,6 +17563,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/yCcBUfOgXU"
       } ],
       "hashtags" : [ ],
@@ -17878,7 +17584,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/951527375530962945\/lAVjPUKJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -17976,6 +17682,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1054
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/EH0SRdvIlR"
       } ],
       "hashtags" : [ {
@@ -18054,6 +17761,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 529
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/UCbJyTD37E"
     } ],
     "hashtags" : [ ],
@@ -18100,6 +17808,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 529
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/UCbJyTD37E"
       } ],
       "hashtags" : [ ],
@@ -18250,6 +17959,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 3000
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EpfUKBmoWi"
     } ],
     "hashtags" : [ ],
@@ -18297,6 +18007,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 3000
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/EpfUKBmoWi"
       } ],
       "hashtags" : [ ],
@@ -18386,6 +18097,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 597
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/WycyPtQHOQ"
       } ],
       "hashtags" : [ {
@@ -18515,6 +18227,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 650
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/crb3DpbeIQ"
     } ],
     "hashtags" : [ ],
@@ -18659,7 +18372,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Iran Lawrence",
+      "name" : "Abstract Art Guru - Iran Lawrence",
       "screen_name" : "IranLawrence",
       "indices" : [ 0, 13 ],
       "id_str" : "19199743",
@@ -18721,6 +18434,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sVvv7MAkCN"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/754727031728926720\/photo\/1",
@@ -18751,6 +18465,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sVvv7MAkCN"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/754727031728926720\/photo\/1",
@@ -18781,6 +18496,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sVvv7MAkCN"
     } ],
     "hashtags" : [ {
@@ -18846,6 +18562,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4voz6LRsxQ"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/754726296354160640\/photo\/1",
@@ -18876,6 +18593,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4voz6LRsxQ"
     } ],
     "hashtags" : [ {
@@ -18941,6 +18659,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/edqVyMkMxp"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/754725683885174784\/photo\/1",
@@ -18971,6 +18690,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/edqVyMkMxp"
     } ],
     "hashtags" : [ {
@@ -19036,6 +18756,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 210
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Jlp5df0Wj7"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/754724894047342592\/photo\/1",
@@ -19066,6 +18787,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Jlp5df0Wj7"
     } ],
     "hashtags" : [ ],
@@ -19379,6 +19101,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 275
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ocBFTjdjB0"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/754255050118139904\/photo\/1",
@@ -19409,6 +19132,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 480
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ocBFTjdjB0"
     } ],
     "hashtags" : [ ],
@@ -19662,6 +19386,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pQyqWF4KM7"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/754244524738740224\/photo\/1",
@@ -19692,6 +19417,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pQyqWF4KM7"
     } ],
     "hashtags" : [ {
@@ -19788,6 +19514,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 500
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/WbVMTGrKdL"
     } ],
     "hashtags" : [ ],
@@ -19829,6 +19556,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 500
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/WbVMTGrKdL"
       } ],
       "hashtags" : [ ],
@@ -19981,6 +19709,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 458
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/gUmJE6ycRL"
       } ],
       "hashtags" : [ {
@@ -20004,7 +19733,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "jeffcosheriffco",
       "protected" : false,
       "id_str" : "309823307",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/959816684763725824\/l02fR1W8_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/962547255839375361\/MS2JzEum_normal.jpg",
       "id" : 309823307,
       "verified" : true
     }
@@ -20168,6 +19897,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 346
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Ln0Omvc5aC"
     } ],
     "hashtags" : [ ],
@@ -20209,6 +19939,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 346
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Ln0Omvc5aC"
       } ],
       "hashtags" : [ ],
@@ -20399,6 +20130,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/RWbT7gCGLK"
     } ],
     "hashtags" : [ {
@@ -20548,6 +20280,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 754
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4PUZ6JF8NQ"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/pinareall\/status\/728662626411089921\/photo\/1",
@@ -20578,6 +20311,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 960
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4PUZ6JF8NQ"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/pinareall\/status\/728662626411089921\/photo\/1",
@@ -20608,6 +20342,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 668
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4PUZ6JF8NQ"
     } ],
     "hashtags" : [ ],
@@ -20649,6 +20384,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 754
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/4PUZ6JF8NQ"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/pinareall\/status\/728662626411089921\/photo\/1",
@@ -20679,6 +20415,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 960
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/4PUZ6JF8NQ"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/pinareall\/status\/728662626411089921\/photo\/1",
@@ -20709,6 +20446,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 668
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/4PUZ6JF8NQ"
       } ],
       "hashtags" : [ ],
@@ -20779,6 +20517,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1024
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FdCc1fKE46"
     } ],
     "hashtags" : [ ],
@@ -20820,6 +20559,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/FdCc1fKE46"
       } ],
       "hashtags" : [ ],
@@ -20915,6 +20655,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 470
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/wehXOXUYCW"
       } ],
       "hashtags" : [ {
@@ -20999,6 +20740,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 710
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/hgj4ZtxzR9"
     } ],
     "hashtags" : [ ],
@@ -21045,6 +20787,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 710
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/hgj4ZtxzR9"
       } ],
       "hashtags" : [ ],
@@ -21191,6 +20934,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/mhZi6Hgf0u"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753373442494328832\/photo\/1",
@@ -21221,6 +20965,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/mhZi6Hgf0u"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753373442494328832\/photo\/1",
@@ -21251,6 +20996,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/mhZi6Hgf0u"
     } ],
     "hashtags" : [ ],
@@ -21308,6 +21054,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/SDYhHfQ60F"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753373335564783616\/photo\/1",
@@ -21338,6 +21085,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/SDYhHfQ60F"
     } ],
     "hashtags" : [ {
@@ -21401,6 +21149,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/DmerGc0zed"
     } ],
     "hashtags" : [ ],
@@ -21458,6 +21207,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tpEgccOlw8"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753371670807707649\/photo\/1",
@@ -21488,6 +21238,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tpEgccOlw8"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753371670807707649\/photo\/1",
@@ -21518,6 +21269,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tpEgccOlw8"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753371670807707649\/photo\/1",
@@ -21548,6 +21300,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/tpEgccOlw8"
     } ],
     "hashtags" : [ {
@@ -21616,6 +21369,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 675
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/MToPt2XN1u"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753369929156550656\/photo\/1",
@@ -21646,6 +21400,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/MToPt2XN1u"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753369929156550656\/photo\/1",
@@ -21676,6 +21431,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/MToPt2XN1u"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753369929156550656\/photo\/1",
@@ -21706,6 +21462,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/MToPt2XN1u"
     } ],
     "hashtags" : [ {
@@ -21803,7 +21560,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 40, 52 ],
       "id_str" : "3058667338",
@@ -21962,6 +21719,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/flJu12tE8R"
       } ],
       "hashtags" : [ ],
@@ -22076,6 +21834,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 650
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/cE8vHfdfIr"
     } ],
     "hashtags" : [ {
@@ -22131,6 +21890,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 650
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/cE8vHfdfIr"
       } ],
       "hashtags" : [ {
@@ -22341,6 +22101,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 660
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/LERNH162P8"
       } ],
       "hashtags" : [ {
@@ -22433,6 +22194,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 512
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/vl0CC6qfO6"
       } ],
       "hashtags" : [ {
@@ -22545,6 +22307,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/XjzkfQnT5d"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753151437144743936\/photo\/1",
@@ -22575,6 +22338,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 630
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/XjzkfQnT5d"
     } ],
     "hashtags" : [ ],
@@ -22764,7 +22528,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "20188680",
       "id" : 20188680
     }, {
-      "name" : "NEO MAGAZIN ROYALE",
+      "name" : "Neo Magazin Royale",
       "screen_name" : "neomagazin",
       "indices" : [ 21, 32 ],
       "id_str" : "1335048846",
@@ -23126,7 +22890,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 0, 12 ],
       "id_str" : "3058667338",
@@ -23193,6 +22957,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/UtBnBdVdxZ"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753127907812372480\/photo\/1",
@@ -23223,6 +22988,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/UtBnBdVdxZ"
     } ],
     "hashtags" : [ {
@@ -23342,6 +23108,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/70tpID5jIv"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753125975857176576\/photo\/1",
@@ -23372,6 +23139,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/70tpID5jIv"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753125975857176576\/photo\/1",
@@ -23402,6 +23170,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/70tpID5jIv"
     } ],
     "hashtags" : [ {
@@ -23462,6 +23231,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Mz9GjsNwqF"
     } ],
     "hashtags" : [ ],
@@ -23601,6 +23371,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FM78tQslyf"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753115556988018688\/photo\/1",
@@ -23631,6 +23402,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FM78tQslyf"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753115556988018688\/photo\/1",
@@ -23661,6 +23433,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FM78tQslyf"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/753115556988018688\/photo\/1",
@@ -23691,6 +23464,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FM78tQslyf"
     } ],
     "hashtags" : [ {
@@ -23940,7 +23714,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 0, 12 ],
       "id_str" : "3058667338",
@@ -24030,6 +23804,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 936
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/xa3YUhMffk"
       } ],
       "hashtags" : [ {
@@ -24108,6 +23883,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/jRc62r7syB"
     } ],
     "hashtags" : [ {
@@ -24157,6 +23933,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/jRc62r7syB"
       } ],
       "hashtags" : [ {
@@ -24342,6 +24119,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 641
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/8YtB8hC0vk"
       } ],
       "hashtags" : [ {
@@ -24421,6 +24199,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 604
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/0tHuFp0rur"
     } ],
     "hashtags" : [ ],
@@ -24505,6 +24284,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 850
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/9wLJqjgfmX"
     } ],
     "hashtags" : [ ],
@@ -24568,6 +24348,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EUr12kcP8Y"
     } ],
     "hashtags" : [ {
@@ -24636,6 +24417,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/D0QkgV9c40"
     } ],
     "hashtags" : [ ],
@@ -24693,6 +24475,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/2XvayPU1qw"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752947156059820037\/photo\/1",
@@ -24723,6 +24506,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/2XvayPU1qw"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752947156059820037\/photo\/1",
@@ -24753,6 +24537,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/2XvayPU1qw"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752947156059820037\/photo\/1",
@@ -24783,6 +24568,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/2XvayPU1qw"
     } ],
     "hashtags" : [ {
@@ -24843,6 +24629,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/YdiAw31WBa"
     } ],
     "hashtags" : [ {
@@ -24911,6 +24698,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sPoIUfpdd0"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752939786273423360\/photo\/1",
@@ -24941,6 +24729,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sPoIUfpdd0"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752939786273423360\/photo\/1",
@@ -24971,6 +24760,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sPoIUfpdd0"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752939786273423360\/photo\/1",
@@ -25001,6 +24791,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/sPoIUfpdd0"
     } ],
     "hashtags" : [ {
@@ -25072,6 +24863,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/RDCn3iHV4K"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752939054015123456\/photo\/1",
@@ -25102,6 +24894,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/RDCn3iHV4K"
     } ],
     "hashtags" : [ {
@@ -25133,7 +24926,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 21, 33 ],
       "id_str" : "3058667338",
@@ -25168,6 +24961,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/r4gWUXaI27"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752938921831563264\/photo\/1",
@@ -25198,6 +24992,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/r4gWUXaI27"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752938921831563264\/photo\/1",
@@ -25228,6 +25023,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/r4gWUXaI27"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752938921831563264\/photo\/1",
@@ -25258,6 +25054,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/r4gWUXaI27"
     } ],
     "hashtags" : [ {
@@ -25329,6 +25126,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 675
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Wvg1sAUaVM"
     } ],
     "hashtags" : [ {
@@ -25394,6 +25192,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CYoGbbS4Vs"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752937314033266689\/photo\/1",
@@ -25424,6 +25223,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CYoGbbS4Vs"
     } ],
     "hashtags" : [ {
@@ -25520,6 +25320,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kx2mENcHtM"
     } ],
     "hashtags" : [ ],
@@ -25682,6 +25483,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 576
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/e1VxouNvmc"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752872703187619840\/photo\/1",
@@ -25712,6 +25514,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/e1VxouNvmc"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752872703187619840\/photo\/1",
@@ -25742,6 +25545,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/e1VxouNvmc"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752872703187619840\/photo\/1",
@@ -25772,6 +25576,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/e1VxouNvmc"
     } ],
     "hashtags" : [ ],
@@ -25829,6 +25634,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/3sGhu7XwnR"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752872465248968704\/photo\/1",
@@ -25859,6 +25665,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/3sGhu7XwnR"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/752872465248968704\/photo\/1",
@@ -25889,6 +25696,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/3sGhu7XwnR"
     } ],
     "hashtags" : [ {
@@ -26238,6 +26046,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4YoiHZLkXi"
     } ],
     "hashtags" : [ {
@@ -26293,6 +26102,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1920
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/4YoiHZLkXi"
       } ],
       "hashtags" : [ {
@@ -26661,6 +26471,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 476
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/PMbdYaIYqJ"
       } ],
       "hashtags" : [ {
@@ -26776,6 +26587,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Oc4l0JfNPM"
     } ],
     "hashtags" : [ {
@@ -26979,6 +26791,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HAzVQuC3FX"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/751820020519411712\/photo\/1",
@@ -27009,6 +26822,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HAzVQuC3FX"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/751820020519411712\/photo\/1",
@@ -27039,6 +26853,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HAzVQuC3FX"
     } ],
     "hashtags" : [ {
@@ -27200,6 +27015,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/dCtrDcZMMG"
     } ],
     "hashtags" : [ ],
@@ -27359,6 +27175,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/MRn94ELELJ"
     } ],
     "hashtags" : [ ],
@@ -27494,6 +27311,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Hybb2DxlrF"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/751448898967900160\/photo\/1",
@@ -27524,6 +27342,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Hybb2DxlrF"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/751448898967900160\/photo\/1",
@@ -27554,6 +27373,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Hybb2DxlrF"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/751448898967900160\/photo\/1",
@@ -27584,6 +27404,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Hybb2DxlrF"
     } ],
     "hashtags" : [ {
@@ -27758,6 +27579,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/4pAKmQ5btq"
     } ],
     "hashtags" : [ ],
@@ -27869,6 +27691,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 600
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/CIPadayajS"
     } ],
     "hashtags" : [ ],
@@ -27916,6 +27739,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 600
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/CIPadayajS"
       } ],
       "hashtags" : [ ],
@@ -28005,6 +27829,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 662
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/xCNCQJtBky"
       } ],
       "hashtags" : [ {
@@ -28111,6 +27936,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/zlqb1kw302"
       } ],
       "hashtags" : [ ],
@@ -28157,7 +27983,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "826843735",
       "id" : 826843735
     }, {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 20, 32 ],
       "id_str" : "3058667338",
@@ -28482,6 +28308,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/cppLikhEQf"
     } ],
     "hashtags" : [ ],
@@ -28582,6 +28409,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/7MiTdZn7Iu"
     } ],
     "hashtags" : [ ],
@@ -28644,6 +28472,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/wJ7JAN1Xfj"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/750806025347956736\/photo\/1",
@@ -28674,6 +28503,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/wJ7JAN1Xfj"
     } ],
     "hashtags" : [ {
@@ -28780,6 +28610,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 400
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qzcVSmbkZF"
     } ],
     "hashtags" : [ {
@@ -28872,6 +28703,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 2048
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/RWaLNsVWvf"
       } ],
       "hashtags" : [ {
@@ -28973,6 +28805,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/2f9IYjiYrz"
       } ],
       "hashtags" : [ ],
@@ -29219,6 +29052,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 576
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8CSlZRrFVV"
     } ],
     "hashtags" : [ {
@@ -29285,6 +29119,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/dPsk70VlRX"
     } ],
     "hashtags" : [ ],
@@ -29353,6 +29188,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 800
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/bF8u1VzGwj"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/Paris\/status\/750605265574195200\/photo\/1",
@@ -29383,6 +29219,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 800
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/bF8u1VzGwj"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/Paris\/status\/750605265574195200\/photo\/1",
@@ -29413,6 +29250,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 800
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/bF8u1VzGwj"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/Paris\/status\/750605265574195200\/photo\/1",
@@ -29443,6 +29281,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/bF8u1VzGwj"
     } ],
     "hashtags" : [ {
@@ -29492,6 +29331,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 800
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/bF8u1VzGwj"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/Paris\/status\/750605265574195200\/photo\/1",
@@ -29522,6 +29362,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 800
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/bF8u1VzGwj"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/Paris\/status\/750605265574195200\/photo\/1",
@@ -29552,6 +29393,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 800
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/bF8u1VzGwj"
       }, {
         "expanded_url" : "https:\/\/twitter.com\/Paris\/status\/750605265574195200\/photo\/1",
@@ -29582,6 +29424,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/bF8u1VzGwj"
       } ],
       "hashtags" : [ {
@@ -29802,6 +29645,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1920
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/N1eZaJNOQg"
       } ],
       "hashtags" : [ {
@@ -29919,7 +29763,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 0, 12 ],
       "id_str" : "3058667338",
@@ -30179,6 +30023,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 614
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/LNOmRYIksb"
     } ],
     "hashtags" : [ ],
@@ -30242,6 +30087,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/k5BXa1ELjf"
     } ],
     "hashtags" : [ ],
@@ -30388,7 +30234,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "716896256237416449",
       "id" : 716896256237416449
     }, {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 33, 45 ],
       "id_str" : "3058667338",
@@ -30529,7 +30375,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "826843735",
       "id" : 826843735
     }, {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 111, 123 ],
       "id_str" : "3058667338",
@@ -30609,6 +30455,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 625
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/0ZczitTUNE"
     } ],
     "hashtags" : [ ],
@@ -30655,6 +30502,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 625
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/0ZczitTUNE"
       } ],
       "hashtags" : [ ],
@@ -30766,6 +30614,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/T1uJRXpD2X"
     } ],
     "hashtags" : [ {
@@ -30888,6 +30737,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 675
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/IHnCj3PfOR"
     } ],
     "hashtags" : [ {
@@ -30973,6 +30823,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 750
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/VKPoWFn2ZE"
       } ],
       "hashtags" : [ {
@@ -31067,6 +30918,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/mcBgD4Gf1j"
       } ],
       "hashtags" : [ ],
@@ -31217,6 +31069,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BRQzucAbyb"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/750034905556475905\/photo\/1",
@@ -31247,6 +31100,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BRQzucAbyb"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/750034905556475905\/photo\/1",
@@ -31277,6 +31131,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BRQzucAbyb"
     } ],
     "hashtags" : [ {
@@ -31442,6 +31297,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 680
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/OQBF0TkgvJ"
       } ],
       "hashtags" : [ {
@@ -31790,6 +31646,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 365
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kp5vJN1POP"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/749583087420465152\/photo\/1",
@@ -31820,6 +31677,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 680
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/kp5vJN1POP"
     } ],
     "hashtags" : [ {
@@ -31998,6 +31856,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BJFfgnweKM"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/749381840075681793\/photo\/1",
@@ -32028,6 +31887,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BJFfgnweKM"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/749381840075681793\/photo\/1",
@@ -32058,6 +31918,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BJFfgnweKM"
     } ],
     "hashtags" : [ {
@@ -32163,6 +32024,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1024
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/2Xvk6evQzr"
       } ],
       "hashtags" : [ {
@@ -32274,6 +32136,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "crop",
         "w" : 150
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Hm1jAMv3bA"
     } ],
     "hashtags" : [ {
@@ -32326,6 +32189,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "crop",
           "w" : 150
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/Hm1jAMv3bA"
       } ],
       "hashtags" : [ {
@@ -32544,6 +32408,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 480
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/1qlMMhLCWO"
       } ],
       "hashtags" : [ {
@@ -32614,7 +32479,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 0, 12 ],
       "id_str" : "3058667338",
@@ -32669,7 +32534,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "749257090758217729",
   "text" : "RT @kickstarter: A brilliant anthology of speculative stories about historically marginalized youth: https:\/\/t.co\/7Gi4GhMKca https:\/\/t.co\/M\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/percolate.com\" rel=\"nofollow\"\u003EPercolate\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.percolate.com\" rel=\"nofollow\"\u003EPercolate\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -32701,6 +32566,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 474
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/MsoGjJf9Tm"
       } ],
       "hashtags" : [ ],
@@ -32770,6 +32636,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 510
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/Wl8PvlGsyy"
     } ],
     "hashtags" : [ {
@@ -32916,6 +32783,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/1TDgSvKCdD"
     } ],
     "hashtags" : [ {
@@ -32976,6 +32844,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1080
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pljJlmUZPm"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/749033529531654153\/photo\/1",
@@ -33006,6 +32875,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pljJlmUZPm"
     } ],
     "hashtags" : [ {
@@ -33128,6 +32998,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/hSpphpVaUC"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/749030513130733568\/photo\/1",
@@ -33158,6 +33029,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/hSpphpVaUC"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/749030513130733568\/photo\/1",
@@ -33188,6 +33060,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/hSpphpVaUC"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/749030513130733568\/photo\/1",
@@ -33218,6 +33091,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/hSpphpVaUC"
     } ],
     "hashtags" : [ {
@@ -33286,6 +33160,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/AATJrQ0ZzJ"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/749026857769635840\/photo\/1",
@@ -33316,6 +33191,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/AATJrQ0ZzJ"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/749026857769635840\/photo\/1",
@@ -33346,6 +33222,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/AATJrQ0ZzJ"
     } ],
     "hashtags" : [ {
@@ -33406,6 +33283,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pSnoZaeg1r"
     } ],
     "hashtags" : [ {
@@ -33483,6 +33361,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/f7RwEa0bs5"
     } ],
     "hashtags" : [ ],
@@ -33540,6 +33419,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nalIjHAVE3"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/749021935955283968\/photo\/1",
@@ -33570,6 +33450,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nalIjHAVE3"
     } ],
     "hashtags" : [ {
@@ -33777,6 +33658,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ojKCHpO0UA"
     } ],
     "hashtags" : [ ],
@@ -33834,6 +33716,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/ggkbcTEm5Q"
     } ],
     "hashtags" : [ ],
@@ -33891,6 +33774,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/d14qzRtxJY"
     } ],
     "hashtags" : [ {
@@ -33962,6 +33846,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/zJwMb7arSh"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748906905502945280\/photo\/1",
@@ -33992,6 +33877,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/zJwMb7arSh"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748906905502945280\/photo\/1",
@@ -34022,6 +33908,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/zJwMb7arSh"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748906905502945280\/photo\/1",
@@ -34052,6 +33939,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/zJwMb7arSh"
     } ],
     "hashtags" : [ {
@@ -34158,6 +34046,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FRwnYwW9xZ"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748903914637029376\/photo\/1",
@@ -34188,6 +34077,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FRwnYwW9xZ"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748903914637029376\/photo\/1",
@@ -34218,6 +34108,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/FRwnYwW9xZ"
     } ],
     "hashtags" : [ ],
@@ -34313,6 +34204,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qeFJ5nU8Mh"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748899903254978564\/photo\/1",
@@ -34343,6 +34235,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/qeFJ5nU8Mh"
     } ],
     "hashtags" : [ ],
@@ -34405,6 +34298,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/mlr5WH2ZTH"
     } ],
     "hashtags" : [ ],
@@ -34462,6 +34356,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1920
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/nWtLZNfmSW"
     } ],
     "hashtags" : [ ],
@@ -34546,6 +34441,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rZPIU7oJaq"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748895326958915584\/photo\/1",
@@ -34576,6 +34472,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rZPIU7oJaq"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748895326958915584\/photo\/1",
@@ -34606,6 +34503,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rZPIU7oJaq"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748895326958915584\/photo\/1",
@@ -34636,6 +34534,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rZPIU7oJaq"
     } ],
     "hashtags" : [ {
@@ -34878,6 +34777,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EzT5fe1MTU"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748882572822863872\/photo\/1",
@@ -34908,6 +34808,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/EzT5fe1MTU"
     } ],
     "hashtags" : [ {
@@ -35029,6 +34930,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BB6L9zuPkJ"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748881522640420869\/photo\/1",
@@ -35059,6 +34961,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BB6L9zuPkJ"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748881522640420869\/photo\/1",
@@ -35089,6 +34992,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 576
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/BB6L9zuPkJ"
     } ],
     "hashtags" : [ {
@@ -35187,6 +35091,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8MANcWKTAE"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748877985734881280\/photo\/1",
@@ -35217,6 +35122,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8MANcWKTAE"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748877985734881280\/photo\/1",
@@ -35247,6 +35153,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8MANcWKTAE"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748877985734881280\/photo\/1",
@@ -35277,6 +35184,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/8MANcWKTAE"
     } ],
     "hashtags" : [ {
@@ -35345,6 +35253,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HDnlwVO4Bt"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748875423732277249\/photo\/1",
@@ -35375,6 +35284,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/HDnlwVO4Bt"
     } ],
     "hashtags" : [ {
@@ -35478,6 +35388,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/OZ9X2WZ09X"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748868192223760384\/photo\/1",
@@ -35508,6 +35419,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 675
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/OZ9X2WZ09X"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748868192223760384\/photo\/1",
@@ -35538,6 +35450,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/OZ9X2WZ09X"
     } ],
     "hashtags" : [ {
@@ -35651,6 +35564,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rbBtfA277v"
     } ],
     "hashtags" : [ {
@@ -35760,6 +35674,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/5XKNeyAFlX"
     } ],
     "hashtags" : [ ],
@@ -35828,6 +35743,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pTxE2tUuRw"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748863724438585345\/photo\/1",
@@ -35858,6 +35774,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/pTxE2tUuRw"
     } ],
     "hashtags" : [ {
@@ -35954,7 +35871,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "TechCrunch",
       "protected" : false,
       "id_str" : "816653",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879359733936701440\/sitcq7wY_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
       "id" : 816653,
       "verified" : true
     }
@@ -35974,7 +35891,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ali Utlu",
+      "name" : "Ali Utlu \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "AliCologne",
       "indices" : [ 3, 14 ],
       "id_str" : "52354508",
@@ -36020,6 +35937,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 480
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/M0sLrt1WSX"
       } ],
       "hashtags" : [ ],
@@ -36031,11 +35949,11 @@ Grailbird.data.tweets_2016_07 =
     "id" : 748839935218741248,
     "created_at" : "2016-07-01 11:25:27 +0000",
     "user" : {
-      "name" : "Ali Utlu",
+      "name" : "Ali Utlu \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "AliCologne",
       "protected" : false,
       "id_str" : "52354508",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945692375812399104\/muRb_boe_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981061557185589248\/JByqSI_2_normal.jpg",
       "id" : 52354508,
       "verified" : true
     }
@@ -36155,6 +36073,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1280
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/qyVxG1hYFB"
       } ],
       "hashtags" : [ {
@@ -36298,6 +36217,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 1200
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/vhMfeEnWh9"
     } ],
     "hashtags" : [ ],
@@ -36344,6 +36264,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 1200
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/vhMfeEnWh9"
       } ],
       "hashtags" : [ ],
@@ -36450,7 +36371,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Minu D. Tizabi",
+      "name" : "Dr. Minu D. Tizabi",
       "screen_name" : "MinuDTizabi",
       "indices" : [ 0, 12 ],
       "id_str" : "3058667338",
@@ -36545,7 +36466,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "ToolStats_",
       "protected" : false,
       "id_str" : "2372052846",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/747776051372236800\/5Jv-P6EK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/974690681934327808\/FC8CjWAy_normal.jpg",
       "id" : 2372052846,
       "verified" : false
     }
@@ -36600,6 +36521,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 599
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/jBP3KZ0UEI"
     } ],
     "hashtags" : [ {
@@ -36652,6 +36574,7 @@ Grailbird.data.tweets_2016_07 =
           "resize" : "fit",
           "w" : 599
         } ],
+        "media_alt" : "",
         "display_url" : "pic.twitter.com\/jBP3KZ0UEI"
       } ],
       "hashtags" : [ {
@@ -36766,6 +36689,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 675
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/KdQnibV6MX"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748750647080595456\/photo\/1",
@@ -36796,6 +36720,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/KdQnibV6MX"
     } ],
     "hashtags" : [ {
@@ -36856,6 +36781,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/703dx71t2N"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748744176586547200\/photo\/1",
@@ -36886,6 +36812,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/703dx71t2N"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748744176586547200\/photo\/1",
@@ -36916,6 +36843,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/703dx71t2N"
     } ],
     "hashtags" : [ ],
@@ -36973,6 +36901,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rftZ38aWoB"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748744012312424448\/photo\/1",
@@ -37003,6 +36932,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rftZ38aWoB"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748744012312424448\/photo\/1",
@@ -37033,6 +36963,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rftZ38aWoB"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748744012312424448\/photo\/1",
@@ -37063,6 +36994,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/rftZ38aWoB"
     } ],
     "hashtags" : [ ],
@@ -37125,6 +37057,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/E19iEwPYqN"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741958185529344\/photo\/1",
@@ -37155,6 +37088,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/E19iEwPYqN"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741958185529344\/photo\/1",
@@ -37185,6 +37119,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/E19iEwPYqN"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741958185529344\/photo\/1",
@@ -37215,6 +37150,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/E19iEwPYqN"
     } ],
     "hashtags" : [ {
@@ -37280,6 +37216,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fr7y7bp4iu"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741225788825600\/photo\/1",
@@ -37310,6 +37247,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fr7y7bp4iu"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741225788825600\/photo\/1",
@@ -37340,6 +37278,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fr7y7bp4iu"
     }, {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741225788825600\/photo\/1",
@@ -37370,6 +37309,7 @@ Grailbird.data.tweets_2016_07 =
         "resize" : "fit",
         "w" : 383
       } ],
+      "media_alt" : "",
       "display_url" : "pic.twitter.com\/fr7y7bp4iu"
     } ],
     "hashtags" : [ {
