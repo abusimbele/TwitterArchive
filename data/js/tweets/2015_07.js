@@ -9,6 +9,149 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "816653",
       "id" : 816653
     }, {
+      "name" : "(((Shiebelieber)))",
+      "screen_name" : "jshieber",
+      "indices" : [ 127, 136 ],
+      "id_str" : "30783608",
+      "id" : 30783608
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 101, 123 ],
+      "url" : "http:\/\/t.co\/rwFfZ2wH83",
+      "expanded_url" : "http:\/\/tcrn.ch\/1DWZq7R",
+      "display_url" : "tcrn.ch\/1DWZq7R"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "627261961005346816",
+  "text" : "RT @TechCrunch: FarmLogs CEO Jesse Vollmar Will Talk About The  AgTech Revolution At Disrupt SF 2015 http:\/\/t.co\/rwFfZ2wH83 by @jshieber  #\u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/10up.com\" rel=\"nofollow\"\u003E10up Publish Tweet\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "(((Shiebelieber)))",
+        "screen_name" : "jshieber",
+        "indices" : [ 111, 120 ],
+        "id_str" : "30783608",
+        "id" : 30783608
+      } ],
+      "media" : [ ],
+      "hashtags" : [ {
+        "text" : "TCDisrupt",
+        "indices" : [ 122, 132 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 85, 107 ],
+        "url" : "http:\/\/t.co\/rwFfZ2wH83",
+        "expanded_url" : "http:\/\/tcrn.ch\/1DWZq7R",
+        "display_url" : "tcrn.ch\/1DWZq7R"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "627252645909131266",
+    "text" : "FarmLogs CEO Jesse Vollmar Will Talk About The  AgTech Revolution At Disrupt SF 2015 http:\/\/t.co\/rwFfZ2wH83 by @jshieber  #TCDisrupt",
+    "id" : 627252645909131266,
+    "created_at" : "2015-07-31 23:00:59 +0000",
+    "user" : {
+      "name" : "TechCrunch",
+      "screen_name" : "TechCrunch",
+      "protected" : false,
+      "id_str" : "816653",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969240943671955456\/mGuud28F_normal.jpg",
+      "id" : 816653,
+      "verified" : true
+    }
+  },
+  "id" : 627261961005346816,
+  "created_at" : "2015-07-31 23:38:00 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Education Next",
+      "screen_name" : "EducationNext",
+      "indices" : [ 3, 17 ],
+      "id_str" : "38500966",
+      "id" : 38500966
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 116, 138 ],
+      "url" : "http:\/\/t.co\/c2Zf7IO7LU",
+      "expanded_url" : "http:\/\/ednxt.co\/1LbWCd9",
+      "display_url" : "ednxt.co\/1LbWCd9"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "627258707643105284",
+  "text" : "RT @EducationNext: Win or lose, President Obama's Race to the Top initiative led states to enact education reforms. http:\/\/t.co\/c2Zf7IO7LU \u2026",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "William Howell",
+        "screen_name" : "ProfWillHowell",
+        "indices" : [ 121, 136 ],
+        "id_str" : "3317817508",
+        "id" : 3317817508
+      } ],
+      "media" : [ ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 97, 119 ],
+        "url" : "http:\/\/t.co\/c2Zf7IO7LU",
+        "expanded_url" : "http:\/\/ednxt.co\/1LbWCd9",
+        "display_url" : "ednxt.co\/1LbWCd9"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "627253713485348864",
+    "text" : "Win or lose, President Obama's Race to the Top initiative led states to enact education reforms. http:\/\/t.co\/c2Zf7IO7LU  @ProfWillHowell",
+    "id" : 627253713485348864,
+    "created_at" : "2015-07-31 23:05:13 +0000",
+    "user" : {
+      "name" : "Education Next",
+      "screen_name" : "EducationNext",
+      "protected" : false,
+      "id_str" : "38500966",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/826080744934035459\/rukJzWT__normal.jpg",
+      "id" : 38500966,
+      "verified" : false
+    }
+  },
+  "id" : 627258707643105284,
+  "created_at" : "2015-07-31 23:25:04 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "TechCrunch",
+      "screen_name" : "TechCrunch",
+      "indices" : [ 3, 14 ],
+      "id_str" : "816653",
+      "id" : 816653
+    }, {
       "name" : "Drew Scott Fan Page",
       "screen_name" : "drew",
       "indices" : [ 79, 84 ],
@@ -253,7 +396,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "MinuDTizabi",
       "protected" : false,
       "id_str" : "3058667338",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614686647360339968\/-y5JxADh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004733687844491265\/9nJCjfIe_normal.jpg",
       "id" : 3058667338,
       "verified" : false
     }
@@ -430,7 +573,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "627218714899968000",
   "text" : "RT @IEEEorg: IEEE Fellow Oussama Khatib's #Stanford students taught #robots to play #pingpong: http:\/\/t.co\/PaMEhMQKC3 via @IEEESpectrum",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "IEEE Spectrum",
@@ -907,7 +1050,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049344327305056256\/9hlbC5zJ_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -946,7 +1089,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "627174669687353344",
   "text" : "RT @GlblCtzn: Of the 120M youth that entered the workforce in 2013\u201480% couldn\u2019t find a job\u2014what can be done? http:\/\/t.co\/NiKUjZJSoW http:\/\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -999,7 +1142,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "GlblCtzn",
       "protected" : false,
       "id_str" : "596893898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973247306156953601\/_pqvBwMx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016140732820697088\/QsQV8MOi_normal.jpg",
       "id" : 596893898,
       "verified" : true
     }
@@ -1148,7 +1291,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "627171874640932865",
   "text" : "RT @PSFK: Shoes that run for you? Sounds good to us. Check them out: http:\/\/t.co\/JerZTBQTUK http:\/\/t.co\/bfJiKUulPp",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2146,7 +2289,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Kelly Walsh",
+      "name" : "Kelly Walsh - CIO, Teacher, Author, Speaker",
       "screen_name" : "EmergingEdTech",
       "indices" : [ 3, 18 ],
       "id_str" : "18000505",
@@ -2257,7 +2400,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 625634702184054784,
     "created_at" : "2015-07-27 11:51:51 +0000",
     "user" : {
-      "name" : "Kelly Walsh",
+      "name" : "Kelly Walsh - CIO, Teacher, Author, Speaker",
       "screen_name" : "EmergingEdTech",
       "protected" : false,
       "id_str" : "18000505",
@@ -2342,7 +2485,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "626385815023841280",
   "text" : "RT @t3n: Sprachsteuerung f\u00FCr #WhatsApp &amp; Co.: #Google Now unterst\u00FCtzt jetzt bekannte Messaging-Apps http:\/\/t.co\/e7ZLZpZaq4 http:\/\/t.co\/Ssut\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2514,7 +2657,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "626385284788297729",
   "text" : "RT @Alrick_pagnon: Technologists are betting that the data online learning generates will reshape education. http:\/\/t.co\/ZM1Rrky0TT #data #\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2753,7 +2896,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "17248121",
       "id" : 17248121
     }, {
-      "name" : "UC San Diego",
+      "name" : "UC San Diego #TritonPride",
       "screen_name" : "UCSanDiego",
       "indices" : [ 118, 129 ],
       "id_str" : "338660808",
@@ -2778,7 +2921,7 @@ Grailbird.data.tweets_2015_07 =
     "source" : "\u003Ca href=\"https:\/\/sciencex.com\/\" rel=\"nofollow\"\u003EScience X Status Updates\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "UC San Diego",
+        "name" : "UC San Diego #TritonPride",
         "screen_name" : "UCSanDiego",
         "indices" : [ 101, 112 ],
         "id_str" : "338660808",
@@ -2999,7 +3142,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "626380721960153088",
   "text" : "RT @PSFK: This simple device could make airplane tray tables obsolete http:\/\/t.co\/rBAwzJrJ7H http:\/\/t.co\/Tc9MzPmrsU",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -3424,7 +3567,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -3535,7 +3678,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 626357219819438081,
     "created_at" : "2015-07-29 11:42:53 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -3930,7 +4073,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "MinuDTizabi",
       "protected" : false,
       "id_str" : "3058667338",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614686647360339968\/-y5JxADh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004733687844491265\/9nJCjfIe_normal.jpg",
       "id" : 3058667338,
       "verified" : false
     }
@@ -4218,7 +4361,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "ScienceChannel",
       "protected" : false,
       "id_str" : "16895274",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975774883069218816\/_dmWAAfA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049323103359123458\/Ndo9FXMB_normal.jpg",
       "id" : 16895274,
       "verified" : true
     }
@@ -4464,7 +4607,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "ScienceChannel",
       "protected" : false,
       "id_str" : "16895274",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975774883069218816\/_dmWAAfA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049323103359123458\/Ndo9FXMB_normal.jpg",
       "id" : 16895274,
       "verified" : true
     }
@@ -4892,7 +5035,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049344327305056256\/9hlbC5zJ_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -5579,7 +5722,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "626036702390448128",
   "text" : "RT @DiscoveryEd: Looking for new ELL resources for elementary students? Check out this week's Lively Lesson. http:\/\/t.co\/qXEyQ41Gqr",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/coschedule.com\" rel=\"nofollow\"\u003ECoSchedule\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/coschedule.com\" rel=\"nofollow\"\u003ECoSchedule\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5657,7 +5800,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "ScienceChannel",
       "protected" : false,
       "id_str" : "16895274",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975774883069218816\/_dmWAAfA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049323103359123458\/Ndo9FXMB_normal.jpg",
       "id" : 16895274,
       "verified" : true
     }
@@ -6392,7 +6535,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049344327305056256\/9hlbC5zJ_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -7455,7 +7598,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "625648461489270784",
   "text" : "RT @PSFK: This spaceship-styled car generates more power than it consumes http:\/\/t.co\/hxYHOxjh0l http:\/\/t.co\/qTXd2bxIUv",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -7673,7 +7816,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "seeedstudio",
       "protected" : false,
       "id_str" : "28542415",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623791920096129024\/sXBOR0hy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987274798655877120\/oPSqKKZt_normal.jpg",
       "id" : 28542415,
       "verified" : false
     }
@@ -8154,13 +8297,13 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
       "id" : 15808647
     }, {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 51, 62 ],
       "id_str" : "15808647",
@@ -8185,7 +8328,7 @@ Grailbird.data.tweets_2015_07 =
     "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MIT Tech Review",
+        "name" : "MIT Technology Review",
         "screen_name" : "techreview",
         "indices" : [ 35, 46 ],
         "id_str" : "15808647",
@@ -8209,7 +8352,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 625337549188247552,
     "created_at" : "2015-07-26 16:11:04 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -8247,7 +8390,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "625419078119911426",
   "text" : "RT @singularityhub: \"Scientists may be able to grow organoids that resemble a complete human brain. What happens then?\" http:\/\/t.co\/e7vz6Ol\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Shelly Fan",
@@ -9313,7 +9456,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "IEEESpectrum",
       "protected" : false,
       "id_str" : "15825547",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489425137884618752\/J0_eul7G_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987383214699266049\/K60dJUbS_normal.jpg",
       "id" : 15825547,
       "verified" : false
     }
@@ -9723,7 +9866,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -9760,7 +9903,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 624669014720000000,
     "created_at" : "2015-07-24 19:54:33 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -10170,7 +10313,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "624664397454155776",
   "text" : "RT @CitizenScience_: Citizen science documents species in southern California http:\/\/t.co\/BxHchvIw3N",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -10248,7 +10391,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "IEEESpectrum",
       "protected" : false,
       "id_str" : "15825547",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489425137884618752\/J0_eul7G_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987383214699266049\/K60dJUbS_normal.jpg",
       "id" : 15825547,
       "verified" : false
     }
@@ -11070,67 +11213,6 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MOOC@TU9",
-      "screen_name" : "MOOCTU9",
-      "indices" : [ 3, 11 ],
-      "id_str" : "2613177258",
-      "id" : 2613177258
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 77, 99 ],
-      "url" : "http:\/\/t.co\/ZuTLEMxsJe",
-      "expanded_url" : "http:\/\/bit.ly\/1RWrZhE",
-      "display_url" : "bit.ly\/1RWrZhE"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "624498122383847424",
-  "text" : "RT @MOOCTU9: You are interested in humanoid robots and their applications?:  http:\/\/t.co\/ZuTLEMxsJe",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitterfeed.com\" rel=\"nofollow\"\u003Etwitterfeed\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 64, 86 ],
-        "url" : "http:\/\/t.co\/ZuTLEMxsJe",
-        "expanded_url" : "http:\/\/bit.ly\/1RWrZhE",
-        "display_url" : "bit.ly\/1RWrZhE"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "624441407088898048",
-    "text" : "You are interested in humanoid robots and their applications?:  http:\/\/t.co\/ZuTLEMxsJe",
-    "id" : 624441407088898048,
-    "created_at" : "2015-07-24 04:50:07 +0000",
-    "user" : {
-      "name" : "MOOC@TU9",
-      "screen_name" : "MOOCTU9",
-      "protected" : false,
-      "id_str" : "2613177258",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/510097729557520384\/-vrED92D_normal.jpeg",
-      "id" : 2613177258,
-      "verified" : false
-    }
-  },
-  "id" : 624498122383847424,
-  "created_at" : "2015-07-24 08:35:29 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
       "name" : "Engadget",
       "screen_name" : "engadget",
       "indices" : [ 3, 12 ],
@@ -11609,7 +11691,7 @@ Grailbird.data.tweets_2015_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Linux.com",
-      "screen_name" : "LinuxDotCom",
+      "screen_name" : "linuxdotcom",
       "indices" : [ 3, 15 ],
       "id_str" : "19198198",
       "id" : 19198198
@@ -11644,7 +11726,7 @@ Grailbird.data.tweets_2015_07 =
     "created_at" : "2015-07-23 21:29:29 +0000",
     "user" : {
       "name" : "Linux.com",
-      "screen_name" : "LinuxDotCom",
+      "screen_name" : "linuxdotcom",
       "protected" : false,
       "id_str" : "19198198",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/739889214729261056\/RN5Heh9r_normal.jpg",
@@ -12131,7 +12213,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "ubeam",
       "protected" : false,
       "id_str" : "281886039",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/651198705022832640\/udDxa3pG_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009909261978066945\/EK1QqTwr_normal.jpg",
       "id" : 281886039,
       "verified" : false
     }
@@ -12229,7 +12311,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -12266,7 +12348,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 624211262470098945,
     "created_at" : "2015-07-23 13:35:36 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -12792,7 +12874,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "624210633555320832",
   "text" : "RT @NatGeo: Would you live in a tiny home? http:\/\/t.co\/DU5IOUorBZ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.spredfast.com\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.spredfast.com\/\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -12928,7 +13010,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "EE Times",
+      "name" : "EETimes",
       "screen_name" : "eetimes",
       "indices" : [ 3, 11 ],
       "id_str" : "111645972",
@@ -12965,7 +13047,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 624195511021621248,
     "created_at" : "2015-07-23 12:33:01 +0000",
     "user" : {
-      "name" : "EE Times",
+      "name" : "EETimes",
       "screen_name" : "eetimes",
       "protected" : false,
       "id_str" : "111645972",
@@ -13112,7 +13194,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "624204138906275840",
   "text" : "RT @KinjaDeals: Botanicula, interactive science, and the rest of today\u2019s app deals. http:\/\/t.co\/c137LmRvPe http:\/\/t.co\/Rv4O3An6Tk",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -13185,7 +13267,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -13222,7 +13304,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 624200807173337088,
     "created_at" : "2015-07-23 12:54:04 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -13335,7 +13417,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "624096900074094592",
   "text" : "RT @t3n: Ihr habt noch ein altes #Smartphone? Hier sind 8 Ideen, was ihr damit anfangen k\u00F6nnt http:\/\/t.co\/w1Ylw2CaDj http:\/\/t.co\/ZGS2QEMLQF",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -13483,7 +13565,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "NASAJPL",
       "protected" : false,
       "id_str" : "19802879",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2305452633\/lg0hov3l8g4msxbdwv48_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1033103993709322240\/m7jGqR6X_normal.jpg",
       "id" : 19802879,
       "verified" : true
     }
@@ -14280,7 +14362,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "PopSci",
       "protected" : false,
       "id_str" : "19722699",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915646486381084672\/y9rvRKcy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029084163780079616\/KL96wS4C_normal.jpg",
       "id" : 19722699,
       "verified" : true
     }
@@ -14367,7 +14449,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "623869981357424640",
   "text" : "RT @t3n: Forscher drucken elektronische Bauteile \u2013 und liefern den perfekten Anwendungsfall gleich mi http:\/\/t.co\/CvQwYbOTjX http:\/\/t.co\/yn\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -15170,7 +15252,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "623603365990281216",
   "text" : "RT @PSFK: What would Buddy help you with around the house? http:\/\/t.co\/vn9amSevk2 http:\/\/t.co\/OAIVodQCQc",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -15249,7 +15331,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "3225730627",
       "id" : 3225730627
     }, {
-      "name" : "riley!",
+      "name" : "riley",
       "screen_name" : "rileyjshaw",
       "indices" : [ 85, 96 ],
       "id_str" : "240087064",
@@ -15271,7 +15353,7 @@ Grailbird.data.tweets_2015_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "riley!",
+        "name" : "riley",
         "screen_name" : "rileyjshaw",
         "indices" : [ 66, 77 ],
         "id_str" : "240087064",
@@ -15296,7 +15378,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "KAEngineering",
       "protected" : false,
       "id_str" : "3225730627",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/602627979240345600\/_cs2BIDt_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025758850471718914\/nlGz0gyS_normal.jpg",
       "id" : 3225730627,
       "verified" : false
     }
@@ -15566,7 +15648,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "623600265476894720",
   "text" : "RT @IEEEorg: Covering India\u2019s canals with #solar panels could solve evaporation and #electricity problems: http:\/\/t.co\/VBlawwbj5d via @PopM\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Popular Mechanics",
@@ -15755,12 +15837,6 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Salman bin Abdulaziz",
-      "screen_name" : "KingSalmanEn",
-      "indices" : [ 109, 122 ],
-      "id_str" : "2433626750",
-      "id" : 2433626750
-    }, {
       "name" : "#Backlash",
       "screen_name" : "backlashgroup",
       "indices" : [ 124, 138 ],
@@ -15801,19 +15877,19 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "1072915220",
       "id" : 1072915220
     }, {
-      "name" : "Ensaf haidar",
+      "name" : "Ensaf haidar \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "miss9afi",
       "indices" : [ 52, 61 ],
       "id_str" : "309187913",
       "id" : 309187913
     }, {
-      "name" : "HumanRights in Saudi",
+      "name" : "Human Rights in Saudi",
       "screen_name" : "HR_in_SA",
       "indices" : [ 62, 71 ],
       "id_str" : "2885506112",
       "id" : 2885506112
     }, {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 72, 84 ],
       "id_str" : "50746928",
@@ -15844,19 +15920,19 @@ Grailbird.data.tweets_2015_07 =
         "id_str" : "1072915220",
         "id" : 1072915220
       }, {
-        "name" : "Ensaf haidar",
+        "name" : "Ensaf haidar \u269C\uFE0F\uD83C\uDF41",
         "screen_name" : "miss9afi",
         "indices" : [ 33, 42 ],
         "id_str" : "309187913",
         "id" : 309187913
       }, {
-        "name" : "HumanRights in Saudi",
+        "name" : "Human Rights in Saudi",
         "screen_name" : "HR_in_SA",
         "indices" : [ 43, 52 ],
         "id_str" : "2885506112",
         "id" : 2885506112
       }, {
-        "name" : "Raif Badawi",
+        "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
         "screen_name" : "raif_badawi",
         "indices" : [ 53, 65 ],
         "id_str" : "50746928",
@@ -16092,7 +16168,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "PopSci",
       "protected" : false,
       "id_str" : "19722699",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915646486381084672\/y9rvRKcy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029084163780079616\/KL96wS4C_normal.jpg",
       "id" : 19722699,
       "verified" : true
     }
@@ -16112,7 +16188,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 94, 105 ],
       "id_str" : "15808647",
@@ -16405,7 +16481,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -16442,7 +16518,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 623477923882766336,
     "created_at" : "2015-07-21 13:01:35 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -17347,11 +17423,11 @@ Grailbird.data.tweets_2015_07 =
     "id" : 620697104793493504,
     "created_at" : "2015-07-13 20:51:36 +0000",
     "user" : {
-      "name" : "AmnestyInternational",
+      "name" : "Amnesty International",
       "screen_name" : "amnestyusa",
       "protected" : false,
       "id_str" : "16153562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/503277927912329216\/niWJ1nYD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006615853293432832\/1vtsDoqb_normal.jpg",
       "id" : 16153562,
       "verified" : true
     }
@@ -18787,7 +18863,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "Raspberry_Pi",
       "protected" : false,
       "id_str" : "302666251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948144512341245952\/5pw6pkFu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013723656197984256\/9-3AZ5UE_normal.jpg",
       "id" : 302666251,
       "verified" : true
     }
@@ -18951,7 +19027,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "IEEESpectrum",
       "protected" : false,
       "id_str" : "15825547",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489425137884618752\/J0_eul7G_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987383214699266049\/K60dJUbS_normal.jpg",
       "id" : 15825547,
       "verified" : false
     }
@@ -19187,7 +19263,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "ScienceChannel",
       "protected" : false,
       "id_str" : "16895274",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975774883069218816\/_dmWAAfA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049323103359123458\/Ndo9FXMB_normal.jpg",
       "id" : 16895274,
       "verified" : true
     }
@@ -19455,7 +19531,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "EE Times",
+      "name" : "EETimes",
       "screen_name" : "eetimes",
       "indices" : [ 3, 11 ],
       "id_str" : "111645972",
@@ -19492,7 +19568,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 623138652915433473,
     "created_at" : "2015-07-20 14:33:26 +0000",
     "user" : {
-      "name" : "EE Times",
+      "name" : "EETimes",
       "screen_name" : "eetimes",
       "protected" : false,
       "id_str" : "111645972",
@@ -19557,7 +19633,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "Raspberry_Pi",
       "protected" : false,
       "id_str" : "302666251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948144512341245952\/5pw6pkFu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013723656197984256\/9-3AZ5UE_normal.jpg",
       "id" : 302666251,
       "verified" : true
     }
@@ -19693,7 +19769,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "622504470421897216",
   "text" : "RT @CitizenScience_: Science Courses in Five Minutes Every Day http:\/\/t.co\/A1m7ssLt8d",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -19949,7 +20025,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "kellyproof",
       "protected" : false,
       "id_str" : "72757313",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971937396102258688\/bX1r6bgZ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1018889399344549889\/13JpdQyq_normal.jpg",
       "id" : 72757313,
       "verified" : false
     }
@@ -20568,7 +20644,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "622199645968666624",
   "text" : "RT @IEEEorg: #3D white #graphene could direct heat to specific places for thermal management in small #electronics: http:\/\/t.co\/0iDFQIFxjq \u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Gizmodo",
@@ -20709,7 +20785,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "622197344600227840",
   "text" : "RT @t3n: Frag Nestor: Cleverer Bot beantwortet die Fragen eures Teams direkt in #Slack \u2013 oder bestellt euch ein @Uber-Car http:\/\/t.co\/MOHGC\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Uber",
@@ -20883,7 +20959,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "622193170244354048",
   "text" : "RT @linuxfoundation: Give your Raspberry Pi night vision with the PiNoir camera http:\/\/t.co\/xdD2mdx2GH http:\/\/t.co\/OC3qdLckfQ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -20984,7 +21060,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "622191808999739392",
   "text" : "RT @IEEEorg: New #robotic exoskeleton helps paraplegics walk, climb stairs, &amp; sit comfortably: http:\/\/t.co\/OofVa895JZ via @IEEESpectrum",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "IEEE Spectrum",
@@ -21167,7 +21243,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "622191016662147072",
   "text" : "RT @IEEEorg: #LED lights are being used to grow plants in urban gardens housed in empty office buildings: http:\/\/t.co\/jJzSV2aQYu via @PSFK",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "PSFK",
@@ -21677,7 +21753,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "ScienceChannel",
       "protected" : false,
       "id_str" : "16895274",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975774883069218816\/_dmWAAfA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049323103359123458\/Ndo9FXMB_normal.jpg",
       "id" : 16895274,
       "verified" : true
     }
@@ -22423,7 +22499,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "14095052",
       "id" : 14095052
     }, {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 30, 42 ],
       "id_str" : "50746928",
@@ -22451,7 +22527,7 @@ Grailbird.data.tweets_2015_07 =
     "source" : "\u003Ca href=\"https:\/\/www.sprinklr.com\" rel=\"nofollow\"\u003ESprinklr\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Raif Badawi",
+        "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
         "screen_name" : "raif_badawi",
         "indices" : [ 15, 27 ],
         "id_str" : "50746928",
@@ -22768,7 +22844,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "Ri_Science",
       "protected" : false,
       "id_str" : "58431280",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/884313582866976768\/rwfTflQ5_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1018916004678832129\/FXRfePMv_normal.jpg",
       "id" : 58431280,
       "verified" : true
     }
@@ -24052,7 +24128,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "IEEESpectrum",
       "protected" : false,
       "id_str" : "15825547",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489425137884618752\/J0_eul7G_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987383214699266049\/K60dJUbS_normal.jpg",
       "id" : 15825547,
       "verified" : false
     }
@@ -24228,7 +24304,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "621439592797995009",
   "text" : "RT @IEEEorg: This floating wind turbine will advance liquid-air #energy storage: http:\/\/t.co\/yPV8ou4eGo via @IEEESpectrum",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "IEEE Spectrum",
@@ -25292,7 +25368,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "621305511955296256",
   "text" : "RT @PSFK: How @FeedingForward plans to help solve a a huge problem with an obvious answer http:\/\/t.co\/73GyBLA5Wa http:\/\/t.co\/CkxLiJXB16",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Nicole Taylor",
@@ -25412,7 +25488,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "seeedstudio",
       "protected" : false,
       "id_str" : "28542415",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/623791920096129024\/sXBOR0hy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987274798655877120\/oPSqKKZt_normal.jpg",
       "id" : 28542415,
       "verified" : false
     }
@@ -26017,7 +26093,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "621236669694480384",
   "text" : "RT @t3n: Open-Source-Konkurrenz f\u00FCr Apples iBeacon: Google stellt sein Projekt #Eddystone vor http:\/\/t.co\/CWilbQWlYq http:\/\/t.co\/cF4MjKL70A",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -26527,7 +26603,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "621226389107253248",
   "text" : "RT @lipsticklashes9: TWEET OUT FOR THOSE WHO CAN'T.\n\nSilent protest to #FreeRaif\n\n#BACKLASH #Saudi Censorship http:\/\/t.co\/toTzFfjxV8",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -28206,7 +28282,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "15500649",
       "id" : 15500649
     }, {
-      "name" : "AlanStern",
+      "name" : "Alan Stern",
       "screen_name" : "AlanStern",
       "indices" : [ 80, 90 ],
       "id_str" : "15612654",
@@ -28238,7 +28314,7 @@ Grailbird.data.tweets_2015_07 =
         "id_str" : "15500649",
         "id" : 15500649
       }, {
-        "name" : "AlanStern",
+        "name" : "Alan Stern",
         "screen_name" : "AlanStern",
         "indices" : [ 60, 70 ],
         "id_str" : "15612654",
@@ -29610,7 +29686,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 74, 85 ],
       "id_str" : "15808647",
@@ -29832,7 +29908,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "620580094277513216",
   "text" : "RT @GlblCtzn: .@unhcr VIDEO: What can 7 simple Google searches teach us about the Syria crisis? http:\/\/t.co\/79QnyN72vR http:\/\/t.co\/lW5sMZ49\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "UNHCR",
@@ -29891,7 +29967,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "GlblCtzn",
       "protected" : false,
       "id_str" : "596893898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973247306156953601\/_pqvBwMx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016140732820697088\/QsQV8MOi_normal.jpg",
       "id" : 596893898,
       "verified" : true
     }
@@ -30130,7 +30206,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "FutureLearn",
       "protected" : false,
       "id_str" : "999095640",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/886937659502981120\/Ok36IEC6_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016248908798930944\/8pXFfU-D_normal.jpg",
       "id" : 999095640,
       "verified" : true
     }
@@ -30370,7 +30446,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Mrs. Atkins",
+      "name" : "Mrs. Atkins \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDD2C\uD83D\uDD25",
       "screen_name" : "atkinswestchem",
       "indices" : [ 3, 18 ],
       "id_str" : "472935582",
@@ -30419,7 +30495,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 620329665291513857,
     "created_at" : "2015-07-12 20:31:32 +0000",
     "user" : {
-      "name" : "Mrs. Atkins",
+      "name" : "Mrs. Atkins \uD83D\uDC69\uD83C\uDFFB\u200D\uD83D\uDD2C\uD83D\uDD25",
       "screen_name" : "atkinswestchem",
       "protected" : false,
       "id_str" : "472935582",
@@ -30489,7 +30565,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "BillGates",
       "protected" : false,
       "id_str" : "50393960",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/929933611754708992\/ioSgz49P_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/988775660163252226\/XpgonN0X_normal.jpg",
       "id" : 50393960,
       "verified" : true
     }
@@ -30657,7 +30733,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "620477440633237506",
   "text" : "RT @PSFK: Cognitive computing is cool, but how can tech like @IBMWatson solve real world problems? http:\/\/t.co\/w3WDVgnEKt http:\/\/t.co\/51IZr\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "IBM Watson",
@@ -31071,7 +31147,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "PopSci",
       "protected" : false,
       "id_str" : "19722699",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915646486381084672\/y9rvRKcy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029084163780079616\/KL96wS4C_normal.jpg",
       "id" : 19722699,
       "verified" : true
     }
@@ -31256,7 +31332,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "tableau",
       "protected" : false,
       "id_str" : "14792516",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/689128502583377920\/SmTFsH4T_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019707946349969408\/ZadESXl4_normal.jpg",
       "id" : 14792516,
       "verified" : true
     }
@@ -31543,7 +31619,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "620287437571518464",
   "text" : "RT @PSFK: What is @IBMWatson capable of? A slice of what they're working on: http:\/\/t.co\/PcVffFLUty http:\/\/t.co\/qQZHbZAtsn",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "IBM Watson",
@@ -32971,7 +33047,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -33008,7 +33084,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 619761556058836996,
     "created_at" : "2015-07-11 06:54:04 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -33570,7 +33646,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "EE Times",
+      "name" : "EETimes",
       "screen_name" : "eetimes",
       "indices" : [ 3, 11 ],
       "id_str" : "111645972",
@@ -33607,7 +33683,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 619604917481799680,
     "created_at" : "2015-07-10 20:31:38 +0000",
     "user" : {
-      "name" : "EE Times",
+      "name" : "EETimes",
       "screen_name" : "eetimes",
       "protected" : false,
       "id_str" : "111645972",
@@ -33681,7 +33757,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "619647311304650752",
   "text" : "RT @DNews: Electric Planes Make History By Flying Over English Channel: http:\/\/t.co\/z7Rp7wKz3H http:\/\/t.co\/G9pk2Jtdv8",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -33734,7 +33810,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "Seeker",
       "protected" : false,
       "id_str" : "16438248",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971887321229402112\/LL0zi_zb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034135272378621952\/vgPKtuUq_normal.jpg",
       "id" : 16438248,
       "verified" : true
     }
@@ -33906,7 +33982,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "IEEESpectrum",
       "protected" : false,
       "id_str" : "15825547",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489425137884618752\/J0_eul7G_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987383214699266049\/K60dJUbS_normal.jpg",
       "id" : 15825547,
       "verified" : false
     }
@@ -34059,7 +34135,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WTVOX - Fashion Innovation Magazine",
+      "name" : "WTVOX",
       "screen_name" : "wtvox",
       "indices" : [ 3, 9 ],
       "id_str" : "2532942559",
@@ -34170,7 +34246,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 619157451967848448,
     "created_at" : "2015-07-09 14:53:34 +0000",
     "user" : {
-      "name" : "WTVOX - Fashion Innovation Magazine",
+      "name" : "WTVOX",
       "screen_name" : "wtvox",
       "protected" : false,
       "id_str" : "2532942559",
@@ -34446,7 +34522,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "NASAJPL",
       "protected" : false,
       "id_str" : "19802879",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2305452633\/lg0hov3l8g4msxbdwv48_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1033103993709322240\/m7jGqR6X_normal.jpg",
       "id" : 19802879,
       "verified" : true
     }
@@ -34551,7 +34627,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "IEEESpectrum",
       "protected" : false,
       "id_str" : "15825547",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489425137884618752\/J0_eul7G_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987383214699266049\/K60dJUbS_normal.jpg",
       "id" : 15825547,
       "verified" : false
     }
@@ -35048,7 +35124,7 @@ Grailbird.data.tweets_2015_07 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Linux.com",
-      "screen_name" : "LinuxDotCom",
+      "screen_name" : "linuxdotcom",
       "indices" : [ 3, 15 ],
       "id_str" : "19198198",
       "id" : 19198198
@@ -35083,7 +35159,7 @@ Grailbird.data.tweets_2015_07 =
     "created_at" : "2015-07-09 23:18:57 +0000",
     "user" : {
       "name" : "Linux.com",
-      "screen_name" : "LinuxDotCom",
+      "screen_name" : "linuxdotcom",
       "protected" : false,
       "id_str" : "19198198",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/739889214729261056\/RN5Heh9r_normal.jpg",
@@ -35281,10 +35357,10 @@ Grailbird.data.tweets_2015_07 =
       "id" : 26609111
     }, {
       "name" : "Google Research",
-      "screen_name" : "googleresearch",
+      "screen_name" : "GoogleResearch",
       "indices" : [ 15, 30 ],
-      "id_str" : "33838201",
-      "id" : 33838201
+      "id_str" : "860565621452316672",
+      "id" : 860565621452316672
     }, {
       "name" : "Google",
       "screen_name" : "Google",
@@ -35445,7 +35521,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Stanford Energy",
+      "name" : "\uD835\uDC12\uD835\uDC2D\uD835\uDC1A\uD835\uDC27\uD835\uDC1F\uD835\uDC28\uD835\uDC2B\uD835\uDC1D \uD835\uDC04\uD835\uDC27\uD835\uDC1E\uD835\uDC2B\uD835\uDC20\uD835\uDC32",
       "screen_name" : "StanfordEnergy",
       "indices" : [ 3, 18 ],
       "id_str" : "806271169",
@@ -35479,7 +35555,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "619222313523900420",
   "text" : "RT @StanfordEnergy: \"#AutonomousCars Will Need Ethics, Morals &amp; NASCAR Mode\" @WardsAuto w\/@Stanford's C.Gerdes: http:\/\/t.co\/SChhlS7Q88 http\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "WardsAuto",
@@ -35543,7 +35619,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 619220539111030786,
     "created_at" : "2015-07-09 19:04:15 +0000",
     "user" : {
-      "name" : "Stanford Energy",
+      "name" : "\uD835\uDC12\uD835\uDC2D\uD835\uDC1A\uD835\uDC27\uD835\uDC1F\uD835\uDC28\uD835\uDC2B\uD835\uDC1D \uD835\uDC04\uD835\uDC27\uD835\uDC1E\uD835\uDC2B\uD835\uDC20\uD835\uDC32",
       "screen_name" : "StanfordEnergy",
       "protected" : false,
       "id_str" : "806271169",
@@ -36466,7 +36542,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "ThinkFun",
       "protected" : false,
       "id_str" : "30993177",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/684448318752198656\/D49XjATo_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1032730639546634241\/jDlbxG6V_normal.jpg",
       "id" : 30993177,
       "verified" : true
     }
@@ -36589,7 +36665,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "Seeker",
       "protected" : false,
       "id_str" : "16438248",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971887321229402112\/LL0zi_zb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034135272378621952\/vgPKtuUq_normal.jpg",
       "id" : 16438248,
       "verified" : true
     }
@@ -36609,7 +36685,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -36646,7 +36722,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 618678042890612736,
     "created_at" : "2015-07-08 07:08:34 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -36670,7 +36746,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "No\u00E9 Ruiz",
+      "name" : "Noe\uD83D\uDC7BFace",
       "screen_name" : "ecken",
       "indices" : [ 3, 9 ],
       "id_str" : "14580558",
@@ -36793,7 +36869,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 618047508477005824,
     "created_at" : "2015-07-06 13:23:03 +0000",
     "user" : {
-      "name" : "No\u00E9 Ruiz",
+      "name" : "Noe\uD83D\uDC7BFace",
       "screen_name" : "ecken",
       "protected" : false,
       "id_str" : "14580558",
@@ -36920,7 +36996,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "thinkprogress",
       "protected" : false,
       "id_str" : "55355654",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/762609394265632768\/H_UR_W7r_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/982066242122145792\/2IXlRbSb_normal.jpg",
       "id" : 55355654,
       "verified" : true
     }
@@ -37549,7 +37625,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -37586,7 +37662,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 618668607782793216,
     "created_at" : "2015-07-08 06:31:05 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -37749,7 +37825,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -37786,7 +37862,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 618675019946680320,
     "created_at" : "2015-07-08 06:56:33 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -38745,7 +38821,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "618401500117774336",
   "text" : "RT @t3n: Tetris, Pok\u00E9mon und Mario auf dem Smartphone: Dieses Case l\u00E4sst dich Game-Boy-Module zocken http:\/\/t.co\/YegL37E03c http:\/\/t.co\/GJA\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -39555,7 +39631,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -39592,7 +39668,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 618379056476745728,
     "created_at" : "2015-07-07 11:20:30 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -39811,7 +39887,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "EE Times",
+      "name" : "EETimes",
       "screen_name" : "eetimes",
       "indices" : [ 3, 11 ],
       "id_str" : "111645972",
@@ -39848,7 +39924,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 618382232722505729,
     "created_at" : "2015-07-07 11:33:07 +0000",
     "user" : {
-      "name" : "EE Times",
+      "name" : "EETimes",
       "screen_name" : "eetimes",
       "protected" : false,
       "id_str" : "111645972",
@@ -39969,7 +40045,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "816653",
       "id" : 816653
     }, {
-      "name" : "Mike Butcher",
+      "name" : "Mike Butcher \uD83D\uDED1",
       "screen_name" : "mikebutcher",
       "indices" : [ 111, 123 ],
       "id_str" : "13666",
@@ -39991,7 +40067,7 @@ Grailbird.data.tweets_2015_07 =
     "source" : "\u003Ca href=\"http:\/\/10up.com\" rel=\"nofollow\"\u003E10up Publish Tweet\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Mike Butcher",
+        "name" : "Mike Butcher \uD83D\uDED1",
         "screen_name" : "mikebutcher",
         "indices" : [ 95, 107 ],
         "id_str" : "13666",
@@ -40036,7 +40112,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -40147,7 +40223,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 618385303913517057,
     "created_at" : "2015-07-07 11:45:20 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -40275,7 +40351,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -40324,7 +40400,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 618148505828347904,
     "created_at" : "2015-07-06 20:04:23 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -41741,7 +41817,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "Raspberry_Pi",
       "protected" : false,
       "id_str" : "302666251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948144512341245952\/5pw6pkFu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013723656197984256\/9-3AZ5UE_normal.jpg",
       "id" : 302666251,
       "verified" : true
     }
@@ -41847,7 +41923,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "618043998637305856",
   "text" : "RT @PSFK: Self-aware architecture looks like the stuff of sci-fi films. Watch it in action: http:\/\/t.co\/7nhJLGyxko http:\/\/t.co\/BmMF4FFngm",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -42018,7 +42094,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "618043692935475200",
   "text" : "RT @GlblCtzn: Why all babies should come with a box: we could learn a thing or two from Finland: http:\/\/t.co\/cIAWGFNG90 http:\/\/t.co\/kD1oW57\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -42071,7 +42147,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "GlblCtzn",
       "protected" : false,
       "id_str" : "596893898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973247306156953601\/_pqvBwMx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016140732820697088\/QsQV8MOi_normal.jpg",
       "id" : 596893898,
       "verified" : true
     }
@@ -42433,7 +42509,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "618041577399820288",
   "text" : "RT @openscience: Is withholding data simply bad science, or is it scientific misconduct? http:\/\/t.co\/gCCN0VWoxD #opendata #openscience http\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -42862,7 +42938,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "sckottie",
       "protected" : false,
       "id_str" : "103004948",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/954049803956060160\/u9nw5nfs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019355464167899136\/tTQLs4SV_normal.jpg",
       "id" : 103004948,
       "verified" : false
     }
@@ -43193,7 +43269,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "617807478949081088",
   "text" : "RT @singularityhub: Ray Kurzweil Responds to 'When Robots Are Everywhere, What Will Humans Be Good For?' http:\/\/t.co\/8N4e0NDfRV",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -43557,7 +43633,7 @@ Grailbird.data.tweets_2015_07 =
       "id_str" : "14159148",
       "id" : 14159148
     }, {
-      "name" : "Elyx by YAK \u270F\uFE0F\u2764\uFE0F",
+      "name" : "ELYX by Yacine AIT KACI",
       "screen_name" : "ElyxYak",
       "indices" : [ 112, 120 ],
       "id_str" : "482179923",
@@ -43580,7 +43656,7 @@ Grailbird.data.tweets_2015_07 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Elyx by YAK \u270F\uFE0F\u2764\uFE0F",
+        "name" : "ELYX by Yacine AIT KACI",
         "screen_name" : "ElyxYak",
         "indices" : [ 104, 112 ],
         "id_str" : "482179923",
@@ -44607,7 +44683,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "617667148438241280",
   "text" : "RT @teachergoals: Would you rather? #teachergoals http:\/\/t.co\/KbXpPvSS7v",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -45082,7 +45158,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "617665650983612416",
   "text" : "RT @deanfoust: MOOCs are Here. Education Will Never be the Same. http:\/\/t.co\/btmcpN7Kcd http:\/\/t.co\/lfjOnlXgU6",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -45169,7 +45245,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "617456518426927104",
   "text" : "RT @GlblCtzn: Handys verbreiten sich in Entwicklungsl\u00E4ndern rasend schnell &amp; ver\u00E4ndern die Gesundheitsversorgung! Wie? Lies hier: http:\/\/t.\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -45191,7 +45267,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "GlblCtzn",
       "protected" : false,
       "id_str" : "596893898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973247306156953601\/_pqvBwMx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016140732820697088\/QsQV8MOi_normal.jpg",
       "id" : 596893898,
       "verified" : true
     }
@@ -45645,7 +45721,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "617403872206790656",
   "text" : "RT @singularityhub: This Injectable Brain Implant Can Record &amp; Stimulate Individual Neurons http:\/\/t.co\/TB5HSs9gwG http:\/\/t.co\/40g8GpFWz0",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -46015,7 +46091,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "WTVOX - Fashion Innovation Magazine",
+      "name" : "WTVOX",
       "screen_name" : "wtvox",
       "indices" : [ 3, 9 ],
       "id_str" : "2532942559",
@@ -46095,7 +46171,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 616362035454971904,
     "created_at" : "2015-07-01 21:45:35 +0000",
     "user" : {
-      "name" : "WTVOX - Fashion Innovation Magazine",
+      "name" : "WTVOX",
       "screen_name" : "wtvox",
       "protected" : false,
       "id_str" : "2532942559",
@@ -46233,7 +46309,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "SingularityU",
+      "name" : "Singularity University",
       "screen_name" : "singularityu",
       "indices" : [ 3, 16 ],
       "id_str" : "16870421",
@@ -46252,7 +46328,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "617116620805308416",
   "text" : "RT @singularityu: Often we can intuit the jobs that'll be lost to robots, but check out this robot bricklayer: http:\/\/t.co\/kDf7FYrnwL http:\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -46301,7 +46377,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 617104062199283712,
     "created_at" : "2015-07-03 22:54:08 +0000",
     "user" : {
-      "name" : "SingularityU",
+      "name" : "Singularity University",
       "screen_name" : "singularityu",
       "protected" : false,
       "id_str" : "16870421",
@@ -46350,7 +46426,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "617114412558774272",
   "text" : "RT @GlblCtzn: The work of @UNITAID shows that money to end poverty can come from some very creative places http:\/\/t.co\/sO5ElKsiNK",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Unitaid",
@@ -46378,7 +46454,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "GlblCtzn",
       "protected" : false,
       "id_str" : "596893898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973247306156953601\/_pqvBwMx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016140732820697088\/QsQV8MOi_normal.jpg",
       "id" : 596893898,
       "verified" : true
     }
@@ -46811,7 +46887,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "617108325277270016",
   "text" : "RT @PSFK: .@Audi has entered a space race: all it has to do is drive a third of a mile on the moon http:\/\/t.co\/ZFQuNb2WY2 http:\/\/t.co\/7nWsc\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Audi",
@@ -47326,7 +47402,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "617064691911794688",
   "text" : "RT @udacity: Some of the Udacity staff sit down and share stories of their code failures. http:\/\/t.co\/ZDzgFRGZOV #failforward http:\/\/t.co\/t\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -47402,7 +47478,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -47457,7 +47533,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 617027607846989824,
     "created_at" : "2015-07-03 17:50:20 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -47565,7 +47641,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "617061515376656384",
   "text" : "RT @openscience: How much science is there? How open is it? #OpenScience http:\/\/t.co\/Zf3mzyxVxS",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -47940,7 +48016,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "Piratenpartei",
       "protected" : false,
       "id_str" : "14341194",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891277385093591041\/QtECw4Yr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994945295082541056\/0RVbr-M6_normal.jpg",
       "id" : 14341194,
       "verified" : true
     }
@@ -48168,7 +48244,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -48205,7 +48281,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 617046034749849600,
     "created_at" : "2015-07-03 19:03:33 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -48248,7 +48324,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "617054213777027072",
   "text" : "RT @GlblCtzn: Positive thinking: What would letters from our kids say after the end of extreme poverty? http:\/\/t.co\/fMOoKPAwM2 http:\/\/t.co\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -48301,7 +48377,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "GlblCtzn",
       "protected" : false,
       "id_str" : "596893898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973247306156953601\/_pqvBwMx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016140732820697088\/QsQV8MOi_normal.jpg",
       "id" : 596893898,
       "verified" : true
     }
@@ -48413,7 +48489,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "617052685779509248",
   "text" : "RT @fiatphysica: Some physicists believe we're living in a giant hologram \u2014 and it's not that far-fetched - http:\/\/t.co\/rayTSRQSD1 http:\/\/t\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -49192,7 +49268,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "MinuDTizabi",
       "protected" : false,
       "id_str" : "3058667338",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614686647360339968\/-y5JxADh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004733687844491265\/9nJCjfIe_normal.jpg",
       "id" : 3058667338,
       "verified" : false
     }
@@ -49665,7 +49741,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "NewsfromScience",
       "protected" : false,
       "id_str" : "17089636",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/885960895087726593\/mmm3BUwO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001918076164759552\/KBl8u8ia_normal.jpg",
       "id" : 17089636,
       "verified" : true
     }
@@ -49685,12 +49761,6 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Higher Education",
-      "screen_name" : "GdnHigherEd",
-      "indices" : [ 3, 15 ],
-      "id_str" : "252124716",
-      "id" : 252124716
-    }, {
       "name" : "Development Pros",
       "screen_name" : "GuardianGDP",
       "indices" : [ 109, 121 ],
@@ -49740,13 +49810,13 @@ Grailbird.data.tweets_2015_07 =
     "id" : 616553411341873152,
     "created_at" : "2015-07-02 10:26:02 +0000",
     "user" : {
-      "name" : "Higher Education",
-      "screen_name" : "GdnHigherEd",
+      "name" : "Guardian Universities",
+      "screen_name" : "GdnUniversities",
       "protected" : false,
       "id_str" : "252124716",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/960894435499311105\/jVCS7e0d_normal.jpg",
       "id" : 252124716,
-      "verified" : true
+      "verified" : false
     }
   },
   "id" : 616575691266617344,
@@ -50350,7 +50420,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "MinuDTizabi",
       "protected" : false,
       "id_str" : "3058667338",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614686647360339968\/-y5JxADh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004733687844491265\/9nJCjfIe_normal.jpg",
       "id" : 3058667338,
       "verified" : false
     }
@@ -50789,12 +50859,6 @@ Grailbird.data.tweets_2015_07 =
       "indices" : [ 73, 81 ],
       "id_str" : "869557351",
       "id" : 869557351
-    }, {
-      "name" : "MOOC@TU9",
-      "screen_name" : "MOOCTU9",
-      "indices" : [ 82, 90 ],
-      "id_str" : "2613177258",
-      "id" : 2613177258
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -50913,7 +50977,7 @@ Grailbird.data.tweets_2015_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "National Science Fdn",
+      "name" : "National Science Foundation",
       "screen_name" : "NSF",
       "indices" : [ 3, 7 ],
       "id_str" : "16245822",
@@ -51012,7 +51076,7 @@ Grailbird.data.tweets_2015_07 =
     "id" : 616381444101963777,
     "created_at" : "2015-07-01 23:02:42 +0000",
     "user" : {
-      "name" : "National Science Fdn",
+      "name" : "National Science Foundation",
       "screen_name" : "NSF",
       "protected" : false,
       "id_str" : "16245822",
@@ -51144,7 +51208,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "PopSci",
       "protected" : false,
       "id_str" : "19722699",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915646486381084672\/y9rvRKcy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029084163780079616\/KL96wS4C_normal.jpg",
       "id" : 19722699,
       "verified" : true
     }
@@ -51309,7 +51373,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "616382077722861568",
   "text" : "RT @make: Building a robot arm using #CAD software (Part 3): Designing the mount section http:\/\/t.co\/huePgIgPjY http:\/\/t.co\/Knc74rgfhE",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -51620,7 +51684,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "616381442709422080",
   "text" : "RT @GlblCtzn: This is your brain on poverty: 5 Facts http:\/\/t.co\/VErunvRrIr http:\/\/t.co\/UiCjCLpywR",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -51673,7 +51737,7 @@ Grailbird.data.tweets_2015_07 =
       "screen_name" : "GlblCtzn",
       "protected" : false,
       "id_str" : "596893898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973247306156953601\/_pqvBwMx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016140732820697088\/QsQV8MOi_normal.jpg",
       "id" : 596893898,
       "verified" : true
     }
@@ -52055,11 +52119,11 @@ Grailbird.data.tweets_2015_07 =
     "id" : 616370429163360256,
     "created_at" : "2015-07-01 22:18:56 +0000",
     "user" : {
-      "name" : "AmnestyInternational",
+      "name" : "Amnesty International",
       "screen_name" : "amnestyusa",
       "protected" : false,
       "id_str" : "16153562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/503277927912329216\/niWJ1nYD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006615853293432832\/1vtsDoqb_normal.jpg",
       "id" : 16153562,
       "verified" : true
     }
@@ -52793,7 +52857,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "616244210547695616",
   "text" : "RT @DiscoveryEd: Love 3D printing? Then you'll want to check the latest iMake iLearn DEN Blog post! http:\/\/t.co\/hL8bFHtYQ4",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/coschedule.com\" rel=\"nofollow\"\u003ECoSchedule\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/coschedule.com\" rel=\"nofollow\"\u003ECoSchedule\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -52902,7 +52966,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "616242566556700672",
   "text" : "RT @curiositydotcom: Watch these flying robotic animals soar in slow motion, via @EarthUnplugged and @didactic: https:\/\/t.co\/4hBmImgB4e htt\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Earth Unplugged",
@@ -53233,7 +53297,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "616240570814607360",
   "text" : "RT @chronicle: How a rank-and-file academic birthed the Twitter phenomenon @AcademicsSay: http:\/\/t.co\/6fa2mcyHB4",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Shit Academics Say",
@@ -53457,7 +53521,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "616233578716901376",
   "text" : "RT @fiatphysica: Today's the day! Join us at 1pm Eastern\/10am Pacific for #PhysicsChat! http:\/\/t.co\/uWg83YenZ5",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -54092,7 +54156,7 @@ Grailbird.data.tweets_2015_07 =
   "id_str" : "616230424377991168",
   "text" : "RT @arduino: Send sensor data from your #Arduino to an App for processing with #Ble Shield 2.1 http:\/\/t.co\/iUaDr9oAqk http:\/\/t.co\/rM2kewNA1r",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -54848,693 +54912,6 @@ Grailbird.data.tweets_2015_07 =
   "created_at" : "2015-07-01 12:49:25 +0000",
   "in_reply_to_screen_name" : "missjaayne",
   "in_reply_to_user_id_str" : "607109595",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Education Week",
-      "screen_name" : "educationweek",
-      "indices" : [ 3, 17 ],
-      "id_str" : "15147042",
-      "id" : 15147042
-    }, {
-      "name" : "Early Years",
-      "screen_name" : "EarlyYearsEW",
-      "indices" : [ 20, 33 ],
-      "id_str" : "1072383656",
-      "id" : 1072383656
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 112, 134 ],
-      "url" : "http:\/\/t.co\/Gv3j7GYXuI",
-      "expanded_url" : "http:\/\/bit.ly\/1JqGy5z",
-      "display_url" : "bit.ly\/1JqGy5z"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "616024832690528257",
-  "text" : "RT @educationweek: .@EarlyYearsEW: Preschoolers, Elders Share Retirement Home and Equal Billing in Planned Film http:\/\/t.co\/Gv3j7GYXuI #ear\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "Early Years",
-        "screen_name" : "EarlyYearsEW",
-        "indices" : [ 1, 14 ],
-        "id_str" : "1072383656",
-        "id" : 1072383656
-      } ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "earlychildhood",
-        "indices" : [ 116, 131 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 93, 115 ],
-        "url" : "http:\/\/t.co\/Gv3j7GYXuI",
-        "expanded_url" : "http:\/\/bit.ly\/1JqGy5z",
-        "display_url" : "bit.ly\/1JqGy5z"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "616019718227427328",
-    "text" : ".@EarlyYearsEW: Preschoolers, Elders Share Retirement Home and Equal Billing in Planned Film http:\/\/t.co\/Gv3j7GYXuI #earlychildhood",
-    "id" : 616019718227427328,
-    "created_at" : "2015-06-30 23:05:20 +0000",
-    "user" : {
-      "name" : "Education Week",
-      "screen_name" : "educationweek",
-      "protected" : false,
-      "id_str" : "15147042",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/460768184279117825\/KVtl_fK__normal.png",
-      "id" : 15147042,
-      "verified" : true
-    }
-  },
-  "id" : 616024832690528257,
-  "created_at" : "2015-06-30 23:25:39 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "EE Times",
-      "screen_name" : "eetimes",
-      "indices" : [ 3, 11 ],
-      "id_str" : "111645972",
-      "id" : 111645972
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 50, 72 ],
-      "url" : "http:\/\/t.co\/iOlpDLqlyA",
-      "expanded_url" : "http:\/\/ubm.io\/1KrmhzS",
-      "display_url" : "ubm.io\/1KrmhzS"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "616024663047700480",
-  "text" : "RT @eetimes: RISC vs CISC: What's the Difference? http:\/\/t.co\/iOlpDLqlyA",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 37, 59 ],
-        "url" : "http:\/\/t.co\/iOlpDLqlyA",
-        "expanded_url" : "http:\/\/ubm.io\/1KrmhzS",
-        "display_url" : "ubm.io\/1KrmhzS"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "616019828701327360",
-    "text" : "RISC vs CISC: What's the Difference? http:\/\/t.co\/iOlpDLqlyA",
-    "id" : 616019828701327360,
-    "created_at" : "2015-06-30 23:05:46 +0000",
-    "user" : {
-      "name" : "EE Times",
-      "screen_name" : "eetimes",
-      "protected" : false,
-      "id_str" : "111645972",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/3755166233\/cc115418c3ab46f7cc698572da86dcc1_normal.png",
-      "id" : 111645972,
-      "verified" : false
-    }
-  },
-  "id" : 616024663047700480,
-  "created_at" : "2015-06-30 23:24:59 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Make:",
-      "screen_name" : "make",
-      "indices" : [ 3, 8 ],
-      "id_str" : "1118451",
-      "id" : 1118451
-    } ],
-    "media" : [ ],
-    "hashtags" : [ {
-      "text" : "LEGO",
-      "indices" : [ 43, 48 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 102, 124 ],
-      "url" : "http:\/\/t.co\/cs217mc4rM",
-      "expanded_url" : "http:\/\/bit.ly\/1KoHOrc",
-      "display_url" : "bit.ly\/1KoHOrc"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "616024634136358912",
-  "text" : "RT @make: Transform your favorite art into #LEGO mosaic using \u201CBricasso,\u201D an all-Lego mosaic printer! http:\/\/t.co\/cs217mc4rM http:\/\/t.co\/96\u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/make\/status\/616019908237860864\/photo\/1",
-        "indices" : [ 115, 137 ],
-        "url" : "http:\/\/t.co\/96dqUgkhns",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CIyK17lWcAA35BS.jpg",
-        "id_str" : "616019908174966784",
-        "id" : 616019908174966784,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CIyK17lWcAA35BS.jpg",
-        "sizes" : [ {
-          "h" : 344,
-          "resize" : "fit",
-          "w" : 620
-        }, {
-          "h" : 344,
-          "resize" : "fit",
-          "w" : 620
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 344,
-          "resize" : "fit",
-          "w" : 620
-        }, {
-          "h" : 344,
-          "resize" : "fit",
-          "w" : 620
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/96dqUgkhns"
-      } ],
-      "hashtags" : [ {
-        "text" : "LEGO",
-        "indices" : [ 33, 38 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 92, 114 ],
-        "url" : "http:\/\/t.co\/cs217mc4rM",
-        "expanded_url" : "http:\/\/bit.ly\/1KoHOrc",
-        "display_url" : "bit.ly\/1KoHOrc"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "616019908237860864",
-    "text" : "Transform your favorite art into #LEGO mosaic using \u201CBricasso,\u201D an all-Lego mosaic printer! http:\/\/t.co\/cs217mc4rM http:\/\/t.co\/96dqUgkhns",
-    "id" : 616019908237860864,
-    "created_at" : "2015-06-30 23:06:05 +0000",
-    "user" : {
-      "name" : "Make:",
-      "screen_name" : "make",
-      "protected" : false,
-      "id_str" : "1118451",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/783080298665775108\/LESsgngz_normal.jpg",
-      "id" : 1118451,
-      "verified" : true
-    }
-  },
-  "id" : 616024634136358912,
-  "created_at" : "2015-06-30 23:24:52 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kickstarter",
-      "screen_name" : "kickstarter",
-      "indices" : [ 3, 15 ],
-      "id_str" : "16186995",
-      "id" : 16186995
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/kickstarter\/status\/616020913323008000\/photo\/1",
-      "indices" : [ 112, 134 ],
-      "url" : "http:\/\/t.co\/ui3UdN2JYk",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CIx3IryW8AAbA-q.png",
-      "id_str" : "615998240119517184",
-      "id" : 615998240119517184,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CIx3IryW8AAbA-q.png",
-      "sizes" : [ {
-        "h" : 601,
-        "resize" : "fit",
-        "w" : 679
-      }, {
-        "h" : 601,
-        "resize" : "fit",
-        "w" : 679
-      }, {
-        "h" : 601,
-        "resize" : "fit",
-        "w" : 679
-      }, {
-        "h" : 601,
-        "resize" : "fit",
-        "w" : 679
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/ui3UdN2JYk"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 88, 111 ],
-      "url" : "https:\/\/t.co\/ShuKRWyxej",
-      "expanded_url" : "https:\/\/www.kickstarter.com\/projects\/valenceone\/condense-a-game-about-collecting-mass",
-      "display_url" : "kickstarter.com\/projects\/valen\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "616024050339586048",
-  "text" : "RT @kickstarter: Start as a single atom, then collect mass to grow into larger objects: https:\/\/t.co\/ShuKRWyxej http:\/\/t.co\/ui3UdN2JYk",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/kickstarter\/status\/616020913323008000\/photo\/1",
-        "indices" : [ 95, 117 ],
-        "url" : "http:\/\/t.co\/ui3UdN2JYk",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CIx3IryW8AAbA-q.png",
-        "id_str" : "615998240119517184",
-        "id" : 615998240119517184,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CIx3IryW8AAbA-q.png",
-        "sizes" : [ {
-          "h" : 601,
-          "resize" : "fit",
-          "w" : 679
-        }, {
-          "h" : 601,
-          "resize" : "fit",
-          "w" : 679
-        }, {
-          "h" : 601,
-          "resize" : "fit",
-          "w" : 679
-        }, {
-          "h" : 601,
-          "resize" : "fit",
-          "w" : 679
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/ui3UdN2JYk"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 71, 94 ],
-        "url" : "https:\/\/t.co\/ShuKRWyxej",
-        "expanded_url" : "https:\/\/www.kickstarter.com\/projects\/valenceone\/condense-a-game-about-collecting-mass",
-        "display_url" : "kickstarter.com\/projects\/valen\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "616020913323008000",
-    "text" : "Start as a single atom, then collect mass to grow into larger objects: https:\/\/t.co\/ShuKRWyxej http:\/\/t.co\/ui3UdN2JYk",
-    "id" : 616020913323008000,
-    "created_at" : "2015-06-30 23:10:05 +0000",
-    "user" : {
-      "name" : "Kickstarter",
-      "screen_name" : "kickstarter",
-      "protected" : false,
-      "id_str" : "16186995",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/959185907554422786\/jrQUZZYB_normal.jpg",
-      "id" : 16186995,
-      "verified" : true
-    }
-  },
-  "id" : 616024050339586048,
-  "created_at" : "2015-06-30 23:22:33 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "GPE",
-      "screen_name" : "GPforEducation",
-      "indices" : [ 3, 18 ],
-      "id_str" : "171314974",
-      "id" : 171314974
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 98, 120 ],
-      "url" : "http:\/\/t.co\/TKRYilEukw",
-      "expanded_url" : "http:\/\/bit.ly\/conflictedu",
-      "display_url" : "bit.ly\/conflictedu"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "616021577872842752",
-  "text" : "RT @GPforEducation: Education urgently needs to be made a priority in conflict-affected countries http:\/\/t.co\/TKRYilEukw",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 78, 100 ],
-        "url" : "http:\/\/t.co\/TKRYilEukw",
-        "expanded_url" : "http:\/\/bit.ly\/conflictedu",
-        "display_url" : "bit.ly\/conflictedu"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "616008085891493888",
-    "text" : "Education urgently needs to be made a priority in conflict-affected countries http:\/\/t.co\/TKRYilEukw",
-    "id" : 616008085891493888,
-    "created_at" : "2015-06-30 22:19:07 +0000",
-    "user" : {
-      "name" : "GPE",
-      "screen_name" : "GPforEducation",
-      "protected" : false,
-      "id_str" : "171314974",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2479080709\/g9iii4vpz2ra71c0efuo_normal.jpeg",
-      "id" : 171314974,
-      "verified" : true
-    }
-  },
-  "id" : 616021577872842752,
-  "created_at" : "2015-06-30 23:12:43 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "MaayBee",
-      "screen_name" : "missjaayne",
-      "indices" : [ 0, 11 ],
-      "id_str" : "607109595",
-      "id" : 607109595
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 13, 36 ],
-      "url" : "https:\/\/t.co\/FbZlZGRo6r",
-      "expanded_url" : "https:\/\/twitter.com\/VideosOfScience\/status\/615905427662835712",
-      "display_url" : "twitter.com\/VideosOfScienc\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "616021303905099776",
-  "in_reply_to_user_id" : 607109595,
-  "text" : "@missjaayne  https:\/\/t.co\/FbZlZGRo6r",
-  "id" : 616021303905099776,
-  "created_at" : "2015-06-30 23:11:38 +0000",
-  "in_reply_to_screen_name" : "missjaayne",
-  "in_reply_to_user_id_str" : "607109595",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Phys.org",
-      "screen_name" : "physorg_com",
-      "indices" : [ 3, 15 ],
-      "id_str" : "17248121",
-      "id" : 17248121
-    }, {
-      "name" : "NASA Goddard",
-      "screen_name" : "NASAGoddard",
-      "indices" : [ 82, 94 ],
-      "id_str" : "20060293",
-      "id" : 20060293
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 59, 81 ],
-      "url" : "http:\/\/t.co\/gqjbdHGh9A",
-      "expanded_url" : "http:\/\/phy.so\/354907670",
-      "display_url" : "phy.so\/354907670"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "616020813066715136",
-  "text" : "RT @physorg_com: NASA missions monitor a waking black hole http:\/\/t.co\/gqjbdHGh9A @NASAGoddard",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"https:\/\/sciencex.com\/\" rel=\"nofollow\"\u003EScience X Status Updates\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ {
-        "name" : "NASA Goddard",
-        "screen_name" : "NASAGoddard",
-        "indices" : [ 65, 77 ],
-        "id_str" : "20060293",
-        "id" : 20060293
-      } ],
-      "media" : [ ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 42, 64 ],
-        "url" : "http:\/\/t.co\/gqjbdHGh9A",
-        "expanded_url" : "http:\/\/phy.so\/354907670",
-        "display_url" : "phy.so\/354907670"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "616010316917440512",
-    "text" : "NASA missions monitor a waking black hole http:\/\/t.co\/gqjbdHGh9A @NASAGoddard",
-    "id" : 616010316917440512,
-    "created_at" : "2015-06-30 22:27:59 +0000",
-    "user" : {
-      "name" : "Phys.org",
-      "screen_name" : "physorg_com",
-      "protected" : false,
-      "id_str" : "17248121",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/555400719478444032\/ky9g4wh6_normal.png",
-      "id" : 17248121,
-      "verified" : true
-    }
-  },
-  "id" : 616020813066715136,
-  "created_at" : "2015-06-30 23:09:41 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Maribel Acosta",
-      "screen_name" : "maribelacosta",
-      "indices" : [ 0, 14 ],
-      "id_str" : "38799512",
-      "id" : 38799512
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 16, 39 ],
-      "url" : "https:\/\/t.co\/l6lOzc6b7u",
-      "expanded_url" : "https:\/\/twitter.com\/udacity\/status\/616011838707396608",
-      "display_url" : "twitter.com\/udacity\/status\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "616020682246365184",
-  "in_reply_to_user_id" : 38799512,
-  "text" : "@maribelacosta  https:\/\/t.co\/l6lOzc6b7u",
-  "id" : 616020682246365184,
-  "created_at" : "2015-06-30 23:09:10 +0000",
-  "in_reply_to_screen_name" : "maribelacosta",
-  "in_reply_to_user_id_str" : "38799512",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "Indiegogo",
-      "screen_name" : "Indiegogo",
-      "indices" : [ 3, 13 ],
-      "id_str" : "34732474",
-      "id" : 34732474
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/Indiegogo\/status\/616014465939603456\/photo\/1",
-      "indices" : [ 94, 116 ],
-      "url" : "http:\/\/t.co\/SFQrvbth3z",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CIyF5EoUcAAh1e4.png",
-      "id_str" : "616014464584806400",
-      "id" : 616014464584806400,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CIyF5EoUcAAh1e4.png",
-      "sizes" : [ {
-        "h" : 342,
-        "resize" : "fit",
-        "w" : 611
-      }, {
-        "h" : 342,
-        "resize" : "fit",
-        "w" : 611
-      }, {
-        "h" : 342,
-        "resize" : "fit",
-        "w" : 611
-      }, {
-        "h" : 342,
-        "resize" : "fit",
-        "w" : 611
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/SFQrvbth3z"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 71, 93 ],
-      "url" : "http:\/\/t.co\/8obFSY0BTd",
-      "expanded_url" : "http:\/\/igg.me\/at\/Kingii\/x\/6992136",
-      "display_url" : "igg.me\/at\/Kingii\/x\/69\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "616020409146863620",
-  "text" : "RT @Indiegogo: This wearable water safety device could save your life: http:\/\/t.co\/8obFSY0BTd http:\/\/t.co\/SFQrvbth3z",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/Indiegogo\/status\/616014465939603456\/photo\/1",
-        "indices" : [ 79, 101 ],
-        "url" : "http:\/\/t.co\/SFQrvbth3z",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CIyF5EoUcAAh1e4.png",
-        "id_str" : "616014464584806400",
-        "id" : 616014464584806400,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CIyF5EoUcAAh1e4.png",
-        "sizes" : [ {
-          "h" : 342,
-          "resize" : "fit",
-          "w" : 611
-        }, {
-          "h" : 342,
-          "resize" : "fit",
-          "w" : 611
-        }, {
-          "h" : 342,
-          "resize" : "fit",
-          "w" : 611
-        }, {
-          "h" : 342,
-          "resize" : "fit",
-          "w" : 611
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/SFQrvbth3z"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ {
-        "indices" : [ 56, 78 ],
-        "url" : "http:\/\/t.co\/8obFSY0BTd",
-        "expanded_url" : "http:\/\/igg.me\/at\/Kingii\/x\/6992136",
-        "display_url" : "igg.me\/at\/Kingii\/x\/69\u2026"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "616014465939603456",
-    "text" : "This wearable water safety device could save your life: http:\/\/t.co\/8obFSY0BTd http:\/\/t.co\/SFQrvbth3z",
-    "id" : 616014465939603456,
-    "created_at" : "2015-06-30 22:44:28 +0000",
-    "user" : {
-      "name" : "Indiegogo",
-      "screen_name" : "Indiegogo",
-      "protected" : false,
-      "id_str" : "34732474",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/752602521609261056\/UfbPivD6_normal.jpg",
-      "id" : 34732474,
-      "verified" : true
-    }
-  },
-  "id" : 616020409146863620,
-  "created_at" : "2015-06-30 23:08:05 +0000",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",

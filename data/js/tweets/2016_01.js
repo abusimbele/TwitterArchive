@@ -151,7 +151,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "693904881875337216",
   "text" : "RT @check123com: When will humanity colonize the moon?\nhttps:\/\/t.co\/9CiXDK0jmi\n#astronomy #space https:\/\/t.co\/UPaONXcVmI",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -907,10 +907,10 @@ Grailbird.data.tweets_2016_01 =
       "id" : 1654188770
     }, {
       "name" : "Google Research",
-      "screen_name" : "googleresearch",
+      "screen_name" : "GoogleResearch",
       "indices" : [ 37, 52 ],
-      "id_str" : "33838201",
-      "id" : 33838201
+      "id_str" : "860565621452316672",
+      "id" : 860565621452316672
     }, {
       "name" : "Amazon.com",
       "screen_name" : "amazon",
@@ -2583,7 +2583,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "347792540",
       "id" : 347792540
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 17, 33 ],
       "id_str" : "24725119",
@@ -3123,7 +3123,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "347792540",
       "id" : 347792540
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 17, 33 ],
       "id_str" : "24725119",
@@ -4734,7 +4734,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "693153567931244544",
   "text" : "RT @fiatphysica: \"How teaching myself physics saved my family\" - https:\/\/t.co\/cMybe4xRCM #physics https:\/\/t.co\/Z4YFpPHzPZ",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -4924,7 +4924,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "693045802290278400",
   "text" : "RT @t3n: Tesla Model 3: Elektro-Crossover kommt f\u00FCr 32.000 Euro https:\/\/t.co\/cqWPYZRWMy https:\/\/t.co\/0L6h2jY9Hj",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -5264,7 +5264,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "14706299",
       "id" : 14706299
     }, {
-      "name" : "Nerdetta DeMentat",
+      "name" : "Carla Schroder",
       "screen_name" : "CarlaSchroder",
       "indices" : [ 109, 123 ],
       "id_str" : "268381487",
@@ -5283,10 +5283,10 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "693038809282433025",
   "text" : "RT @linuxfoundation: How to install Docker, test it, and build an image on Linux https:\/\/t.co\/PTyybhRL1J via @CarlaSchroder https:\/\/t.co\/Zr\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Nerdetta DeMentat",
+        "name" : "Carla Schroder",
         "screen_name" : "CarlaSchroder",
         "indices" : [ 88, 102 ],
         "id_str" : "268381487",
@@ -5362,7 +5362,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 3, 15 ],
       "id_str" : "50746928",
@@ -5395,11 +5395,11 @@ Grailbird.data.tweets_2016_01 =
     "id" : 692781066101194752,
     "created_at" : "2016-01-28 18:47:32 +0000",
     "user" : {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949629724195803137\/A8t7jMVK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023045151030235136\/DL2jUbS2_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -5419,7 +5419,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 3, 15 ],
       "id_str" : "50746928",
@@ -5446,11 +5446,11 @@ Grailbird.data.tweets_2016_01 =
     "id" : 692782757005565952,
     "created_at" : "2016-01-28 18:54:15 +0000",
     "user" : {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949629724195803137\/A8t7jMVK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023045151030235136\/DL2jUbS2_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -5984,7 +5984,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abstract Art Guru - Iran Lawrence",
+      "name" : "Art of Transformation Guru",
       "screen_name" : "IranLawrence",
       "indices" : [ 3, 16 ],
       "id_str" : "19199743",
@@ -6083,7 +6083,7 @@ Grailbird.data.tweets_2016_01 =
     "id" : 692469447399972865,
     "created_at" : "2016-01-27 22:09:16 +0000",
     "user" : {
-      "name" : "Abstract Art Guru - Iran Lawrence",
+      "name" : "Art of Transformation Guru",
       "screen_name" : "IranLawrence",
       "protected" : false,
       "id_str" : "19199743",
@@ -6210,7 +6210,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049344327305056256\/9hlbC5zJ_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -6946,7 +6946,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "44101578",
       "id" : 44101578
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 75, 91 ],
       "id_str" : "24725119",
@@ -7186,7 +7186,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "692101121205235712",
   "text" : "RT @techradar: The future of SpaceX's Hyperloop is closer than ever https:\/\/t.co\/p85PtwuPRp https:\/\/t.co\/vo74e9vxiO",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -7322,7 +7322,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jan B\u00F6hmermann \uD83E\uDD28",
+      "name" : "Jan B\u00F6hmermann \uD83E\uDD28\uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "janboehm",
       "indices" : [ 8, 17 ],
       "id_str" : "19072286",
@@ -7364,7 +7364,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jan B\u00F6hmermann \uD83E\uDD28",
+      "name" : "Jan B\u00F6hmermann \uD83E\uDD28\uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "janboehm",
       "indices" : [ 8, 17 ],
       "id_str" : "19072286",
@@ -7736,7 +7736,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 3, 15 ],
       "id_str" : "50746928",
@@ -7774,11 +7774,11 @@ Grailbird.data.tweets_2016_01 =
     "in_reply_to_screen_name" : "raif_badawi",
     "in_reply_to_user_id_str" : "50746928",
     "user" : {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949629724195803137\/A8t7jMVK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023045151030235136\/DL2jUbS2_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -7798,7 +7798,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 3, 15 ],
       "id_str" : "50746928",
@@ -7831,11 +7831,11 @@ Grailbird.data.tweets_2016_01 =
     "id" : 691958074563649536,
     "created_at" : "2016-01-26 12:17:15 +0000",
     "user" : {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949629724195803137\/A8t7jMVK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023045151030235136\/DL2jUbS2_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -8138,7 +8138,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "Seeker",
       "protected" : false,
       "id_str" : "16438248",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971887321229402112\/LL0zi_zb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034135272378621952\/vgPKtuUq_normal.jpg",
       "id" : 16438248,
       "verified" : true
     }
@@ -10303,7 +10303,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "296426654",
       "id" : 296426654
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 13, 29 ],
       "id_str" : "24725119",
@@ -10433,7 +10433,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "691550794970173440",
   "text" : "RT @t3n: Globale Innovation: Deutschland im weltweiten Vergleich nur auf Rang 12 \u2013 hinter \u00D6sterreich https:\/\/t.co\/lYLglK1q01",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -10481,7 +10481,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "347792540",
       "id" : 347792540
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 7, 23 ],
       "id_str" : "24725119",
@@ -10830,7 +10830,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "691314448024346624",
   "text" : "RT @3DHubs: 3D Print your own Epic Storm Trooper Action Figure https:\/\/t.co\/ciyoF6h0Ug @instructables #3dprinting #starwars https:\/\/t.co\/et\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "instructables",
@@ -12922,7 +12922,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "Wikipedia",
       "protected" : false,
       "id_str" : "86390214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/936312067920838656\/qp5Ni5Kv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1018552942670966784\/0Zflj6Y__normal.jpg",
       "id" : 86390214,
       "verified" : true
     }
@@ -13041,7 +13041,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "roscosmos",
       "protected" : false,
       "id_str" : "2306083502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979277701587636224\/AeMPI7G4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014462014553579521\/gdGcSj2j_normal.jpg",
       "id" : 2306083502,
       "verified" : true
     }
@@ -14337,7 +14337,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "tazgezwitscher",
       "protected" : false,
       "id_str" : "15243812",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/940572851056336896\/sj-UjE-f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1045320137287577600\/dY4vKRc9_normal.jpg",
       "id" : 15243812,
       "verified" : true
     }
@@ -15127,7 +15127,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "1072915220",
       "id" : 1072915220
     }, {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 51, 63 ],
       "id_str" : "50746928",
@@ -16689,7 +16689,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ankita Kulkarni",
+      "name" : "Ankita Kulkarni \u2728",
       "screen_name" : "kulkarniankita9",
       "indices" : [ 48, 64 ],
       "id_str" : "741285805",
@@ -17717,7 +17717,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "20188680",
       "id" : 20188680
     }, {
-      "name" : "Jan B\u00F6hmermann \uD83E\uDD28",
+      "name" : "Jan B\u00F6hmermann \uD83E\uDD28\uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "janboehm",
       "indices" : [ 38, 47 ],
       "id_str" : "19072286",
@@ -18085,7 +18085,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "20188680",
       "id" : 20188680
     }, {
-      "name" : "Jan B\u00F6hmermann \uD83E\uDD28",
+      "name" : "Jan B\u00F6hmermann \uD83E\uDD28\uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "janboehm",
       "indices" : [ 38, 47 ],
       "id_str" : "19072286",
@@ -18491,7 +18491,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "UrbanLibCouncil",
+      "name" : "Urban Libraries Council",
       "screen_name" : "UrbanLibCouncil",
       "indices" : [ 0, 16 ],
       "id_str" : "61854815",
@@ -19192,7 +19192,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "TomasDeCamino",
       "protected" : false,
       "id_str" : "2179081256",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/378800000704989843\/ea93c5c74cf838be57e6770d67b1dedb_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/990708016696700928\/2MDbfQ7O_normal.jpg",
       "id" : 2179081256,
       "verified" : false
     }
@@ -19299,7 +19299,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "689245898849804288",
   "text" : "RT @NatGeo: Nearly all girls in Saudi Arabia now attend school\u2014but the nation still lags behind in employment:  https:\/\/t.co\/z1Mk8YS6Hl",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.spredfast.com\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.spredfast.com\/\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -20471,7 +20471,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "689171094000005120",
   "text" : "RT @Discovery: Astronomers have detected what could be the second most massive black hole in our galaxy &gt;&gt; https:\/\/t.co\/qFUn8LKoWi https:\/\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.spredfast.com\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.spredfast.com\/\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -20524,7 +20524,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "Discovery",
       "protected" : false,
       "id_str" : "17842366",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975812414091358208\/gyK0_rSh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1044694267053060096\/kfJU8WWX_normal.jpg",
       "id" : 17842366,
       "verified" : true
     }
@@ -20583,7 +20583,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "musHo",
+      "name" : "musho",
       "screen_name" : "musHo",
       "indices" : [ 3, 9 ],
       "id_str" : "15012042",
@@ -20632,7 +20632,7 @@ Grailbird.data.tweets_2016_01 =
     "id" : 688986410401988608,
     "created_at" : "2016-01-18 07:28:55 +0000",
     "user" : {
-      "name" : "musHo",
+      "name" : "musho",
       "screen_name" : "musHo",
       "protected" : false,
       "id_str" : "15012042",
@@ -20821,11 +20821,11 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "3058667338",
       "id" : 3058667338
     }, {
-      "name" : "CNNMoney",
+      "name" : "moneyzab",
       "screen_name" : "CNNMoney",
       "indices" : [ 13, 22 ],
-      "id_str" : "16184358",
-      "id" : 16184358
+      "id_str" : "1044606986946531328",
+      "id" : 1044606986946531328
     }, {
       "name" : "Landesregierung BW",
       "screen_name" : "RegierungBW",
@@ -20839,7 +20839,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "39475170",
       "id" : 39475170
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 43, 59 ],
       "id_str" : "24725119",
@@ -21034,7 +21034,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "MinuDTizabi",
       "protected" : false,
       "id_str" : "3058667338",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614686647360339968\/-y5JxADh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004733687844491265\/9nJCjfIe_normal.jpg",
       "id" : 3058667338,
       "verified" : false
     }
@@ -22345,7 +22345,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "MinuDTizabi",
       "protected" : false,
       "id_str" : "3058667338",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614686647360339968\/-y5JxADh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004733687844491265\/9nJCjfIe_normal.jpg",
       "id" : 3058667338,
       "verified" : false
     }
@@ -23185,7 +23185,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "Wikipedia",
       "protected" : false,
       "id_str" : "86390214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/936312067920838656\/qp5Ni5Kv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1018552942670966784\/0Zflj6Y__normal.jpg",
       "id" : 86390214,
       "verified" : true
     }
@@ -24061,7 +24061,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "betterplace_org",
       "protected" : false,
       "id_str" : "12398392",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833611258645606400\/2519vmPF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013777643261526017\/Z4FOpo_E_normal.jpg",
       "id" : 12398392,
       "verified" : true
     }
@@ -24409,7 +24409,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "DSMeu",
       "protected" : false,
       "id_str" : "205315827",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971695937461485568\/EJo657dx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/984034313820712960\/mkAsiAU3_normal.jpg",
       "id" : 205315827,
       "verified" : true
     }
@@ -25440,7 +25440,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "687011373558198272",
   "text" : "RT @MalalaFund: REPORT: Conflict has forced 24 million children are out of school.  https:\/\/t.co\/lw5kVDFPzj via @UNICEF https:\/\/t.co\/29uGZT\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "UNICEF",
@@ -25499,7 +25499,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "MalalaFund",
       "protected" : false,
       "id_str" : "1581289837",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/649942098687365125\/urESBy0O_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016708012474544128\/hoH0PSRi_normal.jpg",
       "id" : 1581289837,
       "verified" : true
     }
@@ -26527,7 +26527,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "MinuDTizabi",
       "protected" : false,
       "id_str" : "3058667338",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614686647360339968\/-y5JxADh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004733687844491265\/9nJCjfIe_normal.jpg",
       "id" : 3058667338,
       "verified" : false
     }
@@ -27121,7 +27121,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "26458162",
       "id" : 26458162
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 24, 40 ],
       "id_str" : "24725119",
@@ -29575,7 +29575,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "Wikipedia",
       "protected" : false,
       "id_str" : "86390214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/936312067920838656\/qp5Ni5Kv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1018552942670966784\/0Zflj6Y__normal.jpg",
       "id" : 86390214,
       "verified" : true
     }
@@ -29653,7 +29653,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "685909338523832320",
   "text" : "RT @t3n: \u201EBeam Me Up, Boss\u201C \u2013 Ein Blick in die Zukunft der Virtual Reality [Kolumne von @timleberecht] https:\/\/t.co\/HSzqUIbHli",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Tim Leberecht",
@@ -30110,7 +30110,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "fkavehy",
       "protected" : false,
       "id_str" : "4568504177",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/679341900529274880\/LgayJR71_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987707825009786881\/Jr7f57-K_normal.jpg",
       "id" : 4568504177,
       "verified" : false
     }
@@ -30202,7 +30202,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "274325818",
       "id" : 274325818
     }, {
-      "name" : "Trace",
+      "name" : "Trace Dominguez",
       "screen_name" : "tracedominguez",
       "indices" : [ 76, 91 ],
       "id_str" : "67910628",
@@ -30233,7 +30233,7 @@ Grailbird.data.tweets_2016_01 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Trace",
+        "name" : "Trace Dominguez",
         "screen_name" : "tracedominguez",
         "indices" : [ 55, 70 ],
         "id_str" : "67910628",
@@ -30395,7 +30395,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "347792540",
       "id" : 347792540
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 24, 40 ],
       "id_str" : "24725119",
@@ -31561,7 +31561,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "685482843183644673",
   "text" : "RT @KinjaDeals: This USB battery pack can also jump start your car. https:\/\/t.co\/R3Q12xxcEa https:\/\/t.co\/HNzby8Btwn",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -32897,7 +32897,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ensaf haidar",
+      "name" : "Ensaf haidar \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "miss9afi",
       "indices" : [ 3, 12 ],
       "id_str" : "309187913",
@@ -32956,11 +32956,11 @@ Grailbird.data.tweets_2016_01 =
     "in_reply_to_screen_name" : "AmnestyUK",
     "in_reply_to_user_id_str" : "14095052",
     "user" : {
-      "name" : "Ensaf haidar",
+      "name" : "Ensaf haidar \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "miss9afi",
       "protected" : false,
       "id_str" : "309187913",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979461169399427072\/pJwNiKmc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034523657060663296\/NdU8DyGV_normal.jpg",
       "id" : 309187913,
       "verified" : true
     }
@@ -33921,7 +33921,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -33958,7 +33958,7 @@ Grailbird.data.tweets_2016_01 =
     "id" : 685190934498168832,
     "created_at" : "2016-01-07 20:07:03 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -38289,7 +38289,7 @@ Grailbird.data.tweets_2016_01 =
       "id_str" : "26458162",
       "id" : 26458162
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 67, 83 ],
       "id_str" : "24725119",
@@ -38686,7 +38686,7 @@ Grailbird.data.tweets_2016_01 =
       "screen_name" : "Wikipedia",
       "protected" : false,
       "id_str" : "86390214",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/936312067920838656\/qp5Ni5Kv_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1018552942670966784\/0Zflj6Y__normal.jpg",
       "id" : 86390214,
       "verified" : true
     }
@@ -38706,7 +38706,7 @@ Grailbird.data.tweets_2016_01 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 3, 15 ],
       "id_str" : "50746928",
@@ -38739,11 +38739,11 @@ Grailbird.data.tweets_2016_01 =
     "id" : 683631880403574784,
     "created_at" : "2016-01-03 12:51:56 +0000",
     "user" : {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949629724195803137\/A8t7jMVK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023045151030235136\/DL2jUbS2_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -39102,119 +39102,6 @@ Grailbird.data.tweets_2016_01 =
   "created_at" : "2016-01-02 15:30:02 +0000",
   "in_reply_to_screen_name" : "meredithperry",
   "in_reply_to_user_id_str" : "26609111",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "CNN",
-      "screen_name" : "ComedyTextings",
-      "indices" : [ 3, 18 ],
-      "id_str" : "1151430397",
-      "id" : 1151430397
-    } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/ComedyTextings\/status\/679074186623623169\/photo\/1",
-      "indices" : [ 22, 45 ],
-      "url" : "https:\/\/t.co\/HjdhXBRUOF",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CWyOX9EW4AEadlC.jpg",
-      "id_str" : "679074186007076865",
-      "id" : 679074186007076865,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CWyOX9EW4AEadlC.jpg",
-      "sizes" : [ {
-        "h" : 359,
-        "resize" : "fit",
-        "w" : 400
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 359,
-        "resize" : "fit",
-        "w" : 400
-      }, {
-        "h" : 359,
-        "resize" : "fit",
-        "w" : 400
-      }, {
-        "h" : 359,
-        "resize" : "fit",
-        "w" : 400
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/HjdhXBRUOF"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "geo" : { },
-  "id_str" : "683308192944799745",
-  "text" : "RT @ComedyTextings: \uD83D\uDE1C https:\/\/t.co\/HjdhXBRUOF",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ {
-        "expanded_url" : "https:\/\/twitter.com\/ComedyTextings\/status\/679074186623623169\/photo\/1",
-        "indices" : [ 2, 25 ],
-        "url" : "https:\/\/t.co\/HjdhXBRUOF",
-        "media_url" : "http:\/\/pbs.twimg.com\/media\/CWyOX9EW4AEadlC.jpg",
-        "id_str" : "679074186007076865",
-        "id" : 679074186007076865,
-        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CWyOX9EW4AEadlC.jpg",
-        "sizes" : [ {
-          "h" : 359,
-          "resize" : "fit",
-          "w" : 400
-        }, {
-          "h" : 150,
-          "resize" : "crop",
-          "w" : 150
-        }, {
-          "h" : 359,
-          "resize" : "fit",
-          "w" : 400
-        }, {
-          "h" : 359,
-          "resize" : "fit",
-          "w" : 400
-        }, {
-          "h" : 359,
-          "resize" : "fit",
-          "w" : 400
-        } ],
-        "media_alt" : "",
-        "display_url" : "pic.twitter.com\/HjdhXBRUOF"
-      } ],
-      "hashtags" : [ ],
-      "urls" : [ ]
-    },
-    "geo" : { },
-    "id_str" : "679074186623623169",
-    "text" : "\uD83D\uDE1C https:\/\/t.co\/HjdhXBRUOF",
-    "id" : 679074186623623169,
-    "created_at" : "2015-12-21 23:01:17 +0000",
-    "user" : {
-      "name" : "Students Problems",
-      "screen_name" : "TheMindBlowings",
-      "protected" : false,
-      "id_str" : "525312787",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/818667107642507266\/OD2C8jiE_normal.jpg",
-      "id" : 525312787,
-      "verified" : false
-    }
-  },
-  "id" : 683308192944799745,
-  "created_at" : "2016-01-02 15:25:43 +0000",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",
@@ -42806,7 +42693,7 @@ Grailbird.data.tweets_2016_01 =
   "id_str" : "682956695983763456",
   "text" : "RT @check123com: All you have to know about the artistic movement \u2013 De Stijl:\nhttps:\/\/t.co\/VvtZjP02Qj\n#art #arts https:\/\/t.co\/vHoDbHDRrW",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {

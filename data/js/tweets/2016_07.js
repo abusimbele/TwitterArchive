@@ -1,5 +1,483 @@
 Grailbird.data.tweets_2016_07 = 
  [ {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "United Nations",
+      "screen_name" : "UN",
+      "indices" : [ 3, 6 ],
+      "id_str" : "14159148",
+      "id" : 14159148
+    }, {
+      "name" : "ITU",
+      "screen_name" : "ITU",
+      "indices" : [ 72, 76 ],
+      "id_str" : "40425262",
+      "id" : 40425262
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/UN\/status\/759902218929573889\/photo\/1",
+      "indices" : [ 111, 134 ],
+      "url" : "https:\/\/t.co\/tYFisxmA6u",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CodMfRxXYAAFBFL.jpg",
+      "id_str" : "758659162465329152",
+      "id" : 758659162465329152,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CodMfRxXYAAFBFL.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 512,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 512,
+        "resize" : "fit",
+        "w" : 1024
+      }, {
+        "h" : 340,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 512,
+        "resize" : "fit",
+        "w" : 1024
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/tYFisxmA6u"
+    } ],
+    "hashtags" : [ {
+      "text" : "ICT4SDG",
+      "indices" : [ 102, 110 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 77, 100 ],
+      "url" : "https:\/\/t.co\/fxmDz6BfHB",
+      "expanded_url" : "http:\/\/ow.ly\/317t302BUec",
+      "display_url" : "ow.ly\/317t302BUec"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "759906731862491136",
+  "text" : "RT @UN: 95% of the world lives in an area covered by a mobile network - @ITU https:\/\/t.co\/fxmDz6BfHB \n#ICT4SDG https:\/\/t.co\/tYFisxmA6u",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ {
+        "name" : "ITU",
+        "screen_name" : "ITU",
+        "indices" : [ 64, 68 ],
+        "id_str" : "40425262",
+        "id" : 40425262
+      } ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/UN\/status\/759902218929573889\/photo\/1",
+        "indices" : [ 103, 126 ],
+        "url" : "https:\/\/t.co\/tYFisxmA6u",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CodMfRxXYAAFBFL.jpg",
+        "id_str" : "758659162465329152",
+        "id" : 758659162465329152,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CodMfRxXYAAFBFL.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 512,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 512,
+          "resize" : "fit",
+          "w" : 1024
+        }, {
+          "h" : 340,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 512,
+          "resize" : "fit",
+          "w" : 1024
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/tYFisxmA6u"
+      } ],
+      "hashtags" : [ {
+        "text" : "ICT4SDG",
+        "indices" : [ 94, 102 ]
+      } ],
+      "urls" : [ {
+        "indices" : [ 69, 92 ],
+        "url" : "https:\/\/t.co\/fxmDz6BfHB",
+        "expanded_url" : "http:\/\/ow.ly\/317t302BUec",
+        "display_url" : "ow.ly\/317t302BUec"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "759902218929573889",
+    "text" : "95% of the world lives in an area covered by a mobile network - @ITU https:\/\/t.co\/fxmDz6BfHB \n#ICT4SDG https:\/\/t.co\/tYFisxmA6u",
+    "id" : 759902218929573889,
+    "created_at" : "2016-08-01 00:03:01 +0000",
+    "user" : {
+      "name" : "United Nations",
+      "screen_name" : "UN",
+      "protected" : false,
+      "id_str" : "14159148",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/950749155575541760\/MZoiVs3G_normal.jpg",
+      "id" : 14159148,
+      "verified" : true
+    }
+  },
+  "id" : 759906731862491136,
+  "created_at" : "2016-08-01 00:20:57 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Lifehacker",
+      "screen_name" : "lifehacker",
+      "indices" : [ 3, 14 ],
+      "id_str" : "7144422",
+      "id" : 7144422
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/lifehacker\/status\/759901488206544897\/photo\/1",
+      "indices" : [ 96, 119 ],
+      "url" : "https:\/\/t.co\/IqQxpI3Yai",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Cou2X9ZWcAAnXDj.jpg",
+      "id_str" : "759901484876197888",
+      "id" : 759901484876197888,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cou2X9ZWcAAnXDj.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 450,
+        "resize" : "fit",
+        "w" : 800
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/IqQxpI3Yai"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 72, 95 ],
+      "url" : "https:\/\/t.co\/UxfVAaucLc",
+      "expanded_url" : "http:\/\/lifehac.kr\/WDbXijV",
+      "display_url" : "lifehac.kr\/WDbXijV"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "759902404318035968",
+  "text" : "RT @lifehacker: Five fun science experiments you can do with your kids: https:\/\/t.co\/UxfVAaucLc https:\/\/t.co\/IqQxpI3Yai",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.socialflow.com\" rel=\"nofollow\"\u003ESocialFlow\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/lifehacker\/status\/759901488206544897\/photo\/1",
+        "indices" : [ 80, 103 ],
+        "url" : "https:\/\/t.co\/IqQxpI3Yai",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/Cou2X9ZWcAAnXDj.jpg",
+        "id_str" : "759901484876197888",
+        "id" : 759901484876197888,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Cou2X9ZWcAAnXDj.jpg",
+        "sizes" : [ {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 800
+        }, {
+          "h" : 383,
+          "resize" : "fit",
+          "w" : 680
+        }, {
+          "h" : 450,
+          "resize" : "fit",
+          "w" : 800
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/IqQxpI3Yai"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 56, 79 ],
+        "url" : "https:\/\/t.co\/UxfVAaucLc",
+        "expanded_url" : "http:\/\/lifehac.kr\/WDbXijV",
+        "display_url" : "lifehac.kr\/WDbXijV"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "759901488206544897",
+    "text" : "Five fun science experiments you can do with your kids: https:\/\/t.co\/UxfVAaucLc https:\/\/t.co\/IqQxpI3Yai",
+    "id" : 759901488206544897,
+    "created_at" : "2016-08-01 00:00:07 +0000",
+    "user" : {
+      "name" : "Lifehacker",
+      "screen_name" : "lifehacker",
+      "protected" : false,
+      "id_str" : "7144422",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/590971614545612800\/eV8h6rz7_normal.png",
+      "id" : 7144422,
+      "verified" : true
+    }
+  },
+  "id" : 759902404318035968,
+  "created_at" : "2016-08-01 00:03:46 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "goodreads",
+      "screen_name" : "goodreads",
+      "indices" : [ 127, 137 ],
+      "id_str" : "15898172",
+      "id" : 15898172
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 99, 122 ],
+      "url" : "https:\/\/t.co\/qOgeOy5ZZg",
+      "expanded_url" : "https:\/\/www.goodreads.com\/quotes\/30782",
+      "display_url" : "goodreads.com\/quotes\/30782"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "759899233034051584",
+  "text" : "Likes the quote \"Those who educate children well are more to be honored than they who produce them https:\/\/t.co\/qOgeOy5ZZg via @goodreads",
+  "id" : 759899233034051584,
+  "created_at" : "2016-07-31 23:51:10 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/759892949756997632\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/7WzJXT5xGI",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/Couum53XEAAyBmF.jpg",
+      "id_str" : "759892945533341696",
+      "id" : 759892945533341696,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/Couum53XEAAyBmF.jpg",
+      "sizes" : [ {
+        "h" : 490,
+        "resize" : "fit",
+        "w" : 359
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 490,
+        "resize" : "fit",
+        "w" : 359
+      }, {
+        "h" : 490,
+        "resize" : "fit",
+        "w" : 359
+      }, {
+        "h" : 490,
+        "resize" : "fit",
+        "w" : 359
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/7WzJXT5xGI"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "750804621833175040",
+  "geo" : { },
+  "id_str" : "759892949756997632",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/7WzJXT5xGI",
+  "id" : 759892949756997632,
+  "in_reply_to_status_id" : 750804621833175040,
+  "created_at" : "2016-07-31 23:26:12 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Science Channel",
+      "screen_name" : "ScienceChannel",
+      "indices" : [ 3, 18 ],
+      "id_str" : "16895274",
+      "id" : 16895274
+    } ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/ScienceChannel\/status\/759886475110522880\/photo\/1",
+      "indices" : [ 110, 133 ],
+      "url" : "https:\/\/t.co\/Vo2W18pKvx",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/CououGbW8AAtpBn.jpg",
+      "id_str" : "759886472094871552",
+      "id" : 759886472094871552,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CououGbW8AAtpBn.jpg",
+      "sizes" : [ {
+        "h" : 308,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 308,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 308,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 308,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/Vo2W18pKvx"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 86, 109 ],
+      "url" : "https:\/\/t.co\/j9NOOWuBcN",
+      "expanded_url" : "http:\/\/bit.ly\/1L0kqyh",
+      "display_url" : "bit.ly\/1L0kqyh"
+    } ]
+  },
+  "geo" : { },
+  "id_str" : "759889034479108096",
+  "text" : "RT @ScienceChannel: The inside of a tape measure is way cooler than you would expect! https:\/\/t.co\/j9NOOWuBcN https:\/\/t.co\/Vo2W18pKvx",
+  "retweeted_status" : {
+    "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
+    "entities" : {
+      "user_mentions" : [ ],
+      "media" : [ {
+        "expanded_url" : "https:\/\/twitter.com\/ScienceChannel\/status\/759886475110522880\/photo\/1",
+        "indices" : [ 90, 113 ],
+        "url" : "https:\/\/t.co\/Vo2W18pKvx",
+        "media_url" : "http:\/\/pbs.twimg.com\/media\/CououGbW8AAtpBn.jpg",
+        "id_str" : "759886472094871552",
+        "id" : 759886472094871552,
+        "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CououGbW8AAtpBn.jpg",
+        "sizes" : [ {
+          "h" : 308,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 150,
+          "resize" : "crop",
+          "w" : 150
+        }, {
+          "h" : 308,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 308,
+          "resize" : "fit",
+          "w" : 600
+        }, {
+          "h" : 308,
+          "resize" : "fit",
+          "w" : 600
+        } ],
+        "media_alt" : "",
+        "display_url" : "pic.twitter.com\/Vo2W18pKvx"
+      } ],
+      "hashtags" : [ ],
+      "urls" : [ {
+        "indices" : [ 66, 89 ],
+        "url" : "https:\/\/t.co\/j9NOOWuBcN",
+        "expanded_url" : "http:\/\/bit.ly\/1L0kqyh",
+        "display_url" : "bit.ly\/1L0kqyh"
+      } ]
+    },
+    "geo" : { },
+    "id_str" : "759886475110522880",
+    "text" : "The inside of a tape measure is way cooler than you would expect! https:\/\/t.co\/j9NOOWuBcN https:\/\/t.co\/Vo2W18pKvx",
+    "id" : 759886475110522880,
+    "created_at" : "2016-07-31 23:00:28 +0000",
+    "user" : {
+      "name" : "Science Channel",
+      "screen_name" : "ScienceChannel",
+      "protected" : false,
+      "id_str" : "16895274",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049323103359123458\/Ndo9FXMB_normal.jpg",
+      "id" : 16895274,
+      "verified" : true
+    }
+  },
+  "id" : 759889034479108096,
+  "created_at" : "2016-07-31 23:10:38 +0000",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
@@ -1056,11 +1534,11 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FUSION",
-      "screen_name" : "fusion",
+      "name" : "Philadelphia Fusion",
+      "screen_name" : "Fusion",
       "indices" : [ 3, 10 ],
-      "id_str" : "885167767267291137",
-      "id" : 885167767267291137
+      "id_str" : "907193396049182720",
+      "id" : 907193396049182720
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -3135,7 +3613,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "758768168533917696",
   "text" : "RT @sciencemagazine: We're discovering thousands of new \"exoplanets\" -- and they're changing our ideas about how planetary systems form: ht\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -3157,7 +3635,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "sciencemagazine",
       "protected" : false,
       "id_str" : "32372834",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/885961364644261888\/k2uehOaU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001918231752429568\/wUNPvDdW_normal.jpg",
       "id" : 32372834,
       "verified" : true
     }
@@ -3250,7 +3728,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "20000536",
       "id" : 20000536
     }, {
-      "name" : "Leysin Amer School",
+      "name" : "Leysin American School",
       "screen_name" : "LeysinAmericanS",
       "indices" : [ 114, 130 ],
       "id_str" : "704911116",
@@ -3276,7 +3754,7 @@ Grailbird.data.tweets_2016_07 =
         "id_str" : "20000536",
         "id" : 20000536
       }, {
-        "name" : "Leysin Amer School",
+        "name" : "Leysin American School",
         "screen_name" : "LeysinAmericanS",
         "indices" : [ 96, 112 ],
         "id_str" : "704911116",
@@ -4075,7 +4553,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "katyperry",
       "protected" : false,
       "id_str" : "21447363",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/902653914465550336\/QE3287ZJ_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001159499133149184\/mNHEcMbf_normal.jpg",
       "id" : 21447363,
       "verified" : true
     }
@@ -4566,11 +5044,11 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "302666251",
       "id" : 302666251
     }, {
-      "name" : "The MagPi",
+      "name" : "Mag P1",
       "screen_name" : "TheMagP1",
       "indices" : [ 51, 60 ],
-      "id_str" : "550247610",
-      "id" : 550247610
+      "id_str" : "992751596458201089",
+      "id" : 992751596458201089
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -4591,11 +5069,11 @@ Grailbird.data.tweets_2016_07 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "The MagPi",
+        "name" : "Mag P1",
         "screen_name" : "TheMagP1",
         "indices" : [ 33, 42 ],
-        "id_str" : "550247610",
-        "id" : 550247610
+        "id_str" : "992751596458201089",
+        "id" : 992751596458201089
       } ],
       "media" : [ {
         "expanded_url" : "https:\/\/twitter.com\/Raspberry_Pi\/status\/758627139537235968\/photo\/1",
@@ -4650,7 +5128,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "Raspberry_Pi",
       "protected" : false,
       "id_str" : "302666251",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/948144512341245952\/5pw6pkFu_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013723656197984256\/9-3AZ5UE_normal.jpg",
       "id" : 302666251,
       "verified" : true
     }
@@ -4758,7 +5236,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "758624212563156992",
   "text" : "RT @SETIInstitute: SETI Institute Launches Bold New Branding - check out our new logo! https:\/\/t.co\/HmfMSgzvSK https:\/\/t.co\/m8cnWDcoQ2",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -5203,7 +5681,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "296426654",
       "id" : 296426654
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 69, 85 ],
       "id_str" : "24725119",
@@ -5433,7 +5911,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "758415485541216256",
   "text" : "RT @mycroft_ai: Artificial Intelligence In STEM Education: Can AI Eliminate The Gender Gap In STEM-Related Fields? https:\/\/t.co\/boik4xY56f\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5458,7 +5936,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "mycroft_ai",
       "protected" : false,
       "id_str" : "3231054427",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/879381985705250816\/gDe1ckA0_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014226313803001856\/IF29NgGJ_normal.jpg",
       "id" : 3231054427,
       "verified" : false
     }
@@ -5714,7 +6192,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Christian Ulmen",
+      "name" : "jerks",
       "screen_name" : "ulmentv",
       "indices" : [ 0, 8 ],
       "id_str" : "15661049",
@@ -8042,7 +8520,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "757981520724385792",
   "text" : "RT @IEEEorg: A new bulk #superconductor #magnetic field record has been achieved: https:\/\/t.co\/D6waNIlrID via @physorg_com",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Phys.org",
@@ -9049,7 +9527,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "henryfong",
       "protected" : false,
       "id_str" : "58562612",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/965395899261202432\/HHtrxsgU_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1047233191637962753\/nDj1bpil_normal.jpg",
       "id" : 58562612,
       "verified" : true
     }
@@ -9162,7 +9640,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "BigBoi",
       "protected" : false,
       "id_str" : "29330030",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971581366944006146\/In2wsevp_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981734098539565056\/iVtsHnpK_normal.jpg",
       "id" : 29330030,
       "verified" : true
     }
@@ -9932,7 +10410,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "PopSci",
       "protected" : false,
       "id_str" : "19722699",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915646486381084672\/y9rvRKcy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029084163780079616\/KL96wS4C_normal.jpg",
       "id" : 19722699,
       "verified" : true
     }
@@ -10556,7 +11034,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "757245697364205568",
   "text" : "RT @t3n: M\u00E4chtiger #Markdown-Editor f\u00FCr Nutzer von Wordpress, Medium &amp; Co.: Das kann Mweb 2.0 https:\/\/t.co\/f85TXnKlTq",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -10623,7 +11101,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "757245300444655616",
   "text" : "RT @Olympics: Create your own peace dove and share your message of #OlympicPeace with the world. https:\/\/t.co\/jVYtu14Akz https:\/\/t.co\/R5Ad9\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.spredfast.com\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.spredfast.com\/\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -11108,13 +11586,7 @@ Grailbird.data.tweets_2016_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kati",
-      "screen_name" : "freuleinkatze",
-      "indices" : [ 0, 14 ],
-      "id_str" : "2987185162",
-      "id" : 2987185162
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757237114547400704\/photo\/1",
       "indices" : [ 43, 66 ],
@@ -11203,13 +11675,7 @@ Grailbird.data.tweets_2016_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Kati",
-      "screen_name" : "freuleinkatze",
-      "indices" : [ 0, 14 ],
-      "id_str" : "2987185162",
-      "id" : 2987185162
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/757235028057292800\/photo\/1",
       "indices" : [ 109, 132 ],
@@ -11248,16 +11714,11 @@ Grailbird.data.tweets_2016_07 =
     } ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "757212742906413056",
   "geo" : { },
   "id_str" : "757235028057292800",
-  "in_reply_to_user_id" : 2987185162,
   "text" : "@freuleinkatze oO #applefangirl?\n W\u00FCrde lieber ein google-nexus, ara-modulares smartphone oder ... nehmen ;) https:\/\/t.co\/QXpjaO5sYY",
   "id" : 757235028057292800,
-  "in_reply_to_status_id" : 757212742906413056,
   "created_at" : "2016-07-24 15:24:34 +0000",
-  "in_reply_to_screen_name" : "freuleinkatze",
-  "in_reply_to_user_id_str" : "2987185162",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",
@@ -11380,7 +11841,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "PopSci",
       "protected" : false,
       "id_str" : "19722699",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915646486381084672\/y9rvRKcy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029084163780079616\/KL96wS4C_normal.jpg",
       "id" : 19722699,
       "verified" : true
     }
@@ -11899,7 +12360,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Reza Farazmand",
+      "name" : "poorly drawn lines",
       "screen_name" : "PDLComics",
       "indices" : [ 3, 13 ],
       "id_str" : "193570988",
@@ -12724,11 +13185,11 @@ Grailbird.data.tweets_2016_07 =
     "id" : 756429276740714498,
     "created_at" : "2016-07-22 10:02:48 +0000",
     "user" : {
-      "name" : "Primary Computing Resources",
+      "name" : "Primary Computing. Made Easy.",
       "screen_name" : "iLearn2Primary",
       "protected" : false,
       "id_str" : "200544613",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/863091199875452929\/sgyQ_RuA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1010155189037359108\/KmCQgZ7t_normal.jpg",
       "id" : 200544613,
       "verified" : false
     }
@@ -13508,7 +13969,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Upload",
+      "name" : "UploadVR",
       "screen_name" : "UploadVR",
       "indices" : [ 103, 112 ],
       "id_str" : "2858533652",
@@ -16362,12 +16823,6 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LizReggie",
-      "screen_name" : "ASLaunchers",
-      "indices" : [ 3, 15 ],
-      "id_str" : "882159322951819265",
-      "id" : 882159322951819265
-    }, {
       "name" : "Neil deGrasse Tyson",
       "screen_name" : "neiltyson",
       "indices" : [ 38, 48 ],
@@ -16456,12 +16911,6 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "LizReggie",
-      "screen_name" : "ASLaunchers",
-      "indices" : [ 0, 12 ],
-      "id_str" : "882159322951819265",
-      "id" : 882159322951819265
-    }, {
       "name" : "Neil deGrasse Tyson",
       "screen_name" : "neiltyson",
       "indices" : [ 13, 23 ],
@@ -16971,7 +17420,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abstract Art Guru - Iran Lawrence",
+      "name" : "Art of Transformation Guru",
       "screen_name" : "IranLawrence",
       "indices" : [ 0, 13 ],
       "id_str" : "19199743",
@@ -17584,7 +18033,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049344327305056256\/9hlbC5zJ_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -17776,7 +18225,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "755078343968563204",
   "text" : "RT @Graham_Kendall: Perspectives!! https:\/\/t.co\/nRL5rfPLFH https:\/\/t.co\/UCbJyTD37E",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -18065,7 +18514,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "754739559351582721",
   "text" : "RT @DiscoveryEd: Plant a seed for the next generation of scientists #LoveTechbook \nLearn more here: https:\/\/t.co\/qbg1jHoCxZ https:\/\/t.co\/Wy\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/coschedule.com\" rel=\"nofollow\"\u003ECoSchedule\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/coschedule.com\" rel=\"nofollow\"\u003ECoSchedule\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -18372,7 +18821,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abstract Art Guru - Iran Lawrence",
+      "name" : "Art of Transformation Guru",
       "screen_name" : "IranLawrence",
       "indices" : [ 0, 13 ],
       "id_str" : "19199743",
@@ -18893,7 +19342,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "Festo_US",
       "protected" : false,
       "id_str" : "529566023",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/760504193065054208\/psjIWlpR_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/999292121537433600\/xpE4QAP4_normal.jpg",
       "id" : 529566023,
       "verified" : false
     }
@@ -18964,7 +19413,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "347792540",
       "id" : 347792540
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 45, 61 ],
       "id_str" : "24725119",
@@ -18982,7 +19431,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "44101578",
       "id" : 44101578
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 77, 93 ],
       "id_str" : "24725119",
@@ -19337,7 +19786,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "rootkovska",
       "protected" : false,
       "id_str" : "2695392493",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/498767272744202243\/szRTjdOX_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1002520385156509697\/PhUHrM3y_normal.jpg",
       "id" : 2695392493,
       "verified" : true
     }
@@ -19955,7 +20404,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "cadizmaximus",
       "protected" : false,
       "id_str" : "3303441053",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/959514806582743041\/m-4LLjmi_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029715073764352000\/tjcPMuKe_normal.jpg",
       "id" : 3303441053,
       "verified" : false
     }
@@ -20050,7 +20499,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "826843735",
       "id" : 826843735
     }, {
-      "name" : "Landesbildungsserver",
+      "name" : "Landesbildungsserver Baden-W\u00FCrttemberg",
       "screen_name" : "LBS_BW",
       "indices" : [ 54, 61 ],
       "id_str" : "239792754",
@@ -21852,7 +22301,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "753275319629602816",
   "text" : "RT @UCBerkeley: BLOG: #BernieSanders\u2019 7 big legacies https:\/\/t.co\/gttoLzDs8a via @RBReich https:\/\/t.co\/cE8vHfdfIr",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Robert Reich",
@@ -22239,7 +22688,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "296426654",
       "id" : 296426654
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 13, 29 ],
       "id_str" : "24725119",
@@ -22713,7 +23162,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "44101578",
       "id" : 44101578
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 46, 62 ],
       "id_str" : "24725119",
@@ -23772,7 +24221,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "752992459257413632",
   "text" : "RT @ScandyCo: #3Dprinting chocolate sounds like an awesome idea. We'd probably pack on a few LBs, though https:\/\/t.co\/xRWjODUoVE \uD83E\uDD14 https:\/\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -23901,7 +24350,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "752991408806567936",
   "text" : "RT @techjunkiejh: Lifelike product Jiajia that could redefine robots https:\/\/t.co\/z4GVRjeuV3 #robotics https:\/\/t.co\/jRc62r7syB",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -24052,13 +24501,13 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "559768008",
       "id" : 559768008
     }, {
-      "name" : "Ensaf haidar",
+      "name" : "Ensaf haidar \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "miss9afi",
       "indices" : [ 45, 54 ],
       "id_str" : "309187913",
       "id" : 309187913
     }, {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 69, 81 ],
       "id_str" : "50746928",
@@ -24078,13 +24527,13 @@ Grailbird.data.tweets_2016_07 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\"\u003ETwitter for iPhone\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ensaf haidar",
+        "name" : "Ensaf haidar \u269C\uFE0F\uD83C\uDF41",
         "screen_name" : "miss9afi",
         "indices" : [ 25, 34 ],
         "id_str" : "309187913",
         "id" : 309187913
       }, {
-        "name" : "Raif Badawi",
+        "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
         "screen_name" : "raif_badawi",
         "indices" : [ 49, 61 ],
         "id_str" : "50746928",
@@ -26213,7 +26662,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Public Laboratory",
+      "name" : "Public Lab",
       "screen_name" : "PublicLab",
       "indices" : [ 3, 13 ],
       "id_str" : "296873851",
@@ -26263,7 +26712,7 @@ Grailbird.data.tweets_2016_07 =
     "id" : 752849240326483968,
     "created_at" : "2016-07-12 12:57:00 +0000",
     "user" : {
-      "name" : "Public Laboratory",
+      "name" : "Public Lab",
       "screen_name" : "PublicLab",
       "protected" : false,
       "id_str" : "296873851",
@@ -26510,17 +26959,11 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Miss Knitterich",
+      "name" : "M\u00E4nnerquote \uD83D\uDC7B",
       "screen_name" : "Knittergesicht",
       "indices" : [ 0, 15 ],
       "id_str" : "3302020779",
       "id" : 3302020779
-    }, {
-      "name" : "Einh\u00F6rner sind flauschig und die AfD sind Nazis.\uD83E\uDD84",
-      "screen_name" : "FluffyMonoceros",
-      "indices" : [ 16, 32 ],
-      "id_str" : "876788232096280576",
-      "id" : 876788232096280576
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -27107,7 +27550,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "84530990",
       "id" : 84530990
     }, {
-      "name" : "Landesbildungsserver",
+      "name" : "Landesbildungsserver Baden-W\u00FCrttemberg",
       "screen_name" : "LBS_BW",
       "indices" : [ 10, 17 ],
       "id_str" : "239792754",
@@ -27228,7 +27671,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "347792540",
       "id" : 347792540
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 93, 109 ],
       "id_str" : "24725119",
@@ -28746,19 +29189,7 @@ Grailbird.data.tweets_2016_07 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "LizReggie",
-      "screen_name" : "ASLaunchers",
-      "indices" : [ 3, 15 ],
-      "id_str" : "882159322951819265",
-      "id" : 882159322951819265
-    }, {
-      "name" : "LizReggie",
-      "screen_name" : "ASLaunchers",
-      "indices" : [ 24, 36 ],
-      "id_str" : "882159322951819265",
-      "id" : 882159322951819265
-    } ],
+    "user_mentions" : [ ],
     "media" : [ ],
     "hashtags" : [ ],
     "urls" : [ ]
@@ -28769,13 +29200,7 @@ Grailbird.data.tweets_2016_07 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"https:\/\/ads.twitter.com\" rel=\"nofollow\"\u003ETwitter Ads\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "LizReggie",
-        "screen_name" : "ASLaunchers",
-        "indices" : [ 7, 19 ],
-        "id_str" : "882159322951819265",
-        "id" : 882159322951819265
-      } ],
+      "user_mentions" : [ ],
       "media" : [ {
         "expanded_url" : "https:\/\/twitter.com\/ASLaunchers\/status\/750363988068855812\/photo\/1",
         "indices" : [ 116, 139 ],
@@ -28866,7 +29291,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "750722143067963392",
   "text" : "RT @elearnindustry: 7 Tips To Curate Amazing eLearning Content https:\/\/t.co\/mm0a8YRWxX #elearning #edtech",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.google.com\/\" rel=\"nofollow\"\u003EGoogle\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -29613,7 +30038,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "750610162600247296",
   "text" : "RT @EACteam: Methods to keep the kids engaged in the classroom... #education #engaged #learning https:\/\/t.co\/1XssMrM2JP https:\/\/t.co\/N1eZaJ\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -29877,7 +30302,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "21107582",
       "id" : 21107582
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 64, 80 ],
       "id_str" : "24725119",
@@ -30843,11 +31268,11 @@ Grailbird.data.tweets_2016_07 =
     "id" : 750317703827783680,
     "created_at" : "2016-07-05 13:17:35 +0000",
     "user" : {
-      "name" : "AmnestyInternational",
+      "name" : "Amnesty International",
       "screen_name" : "amnestyusa",
       "protected" : false,
       "id_str" : "16153562",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/503277927912329216\/niWJ1nYD_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006615853293432832\/1vtsDoqb_normal.jpg",
       "id" : 16153562,
       "verified" : true
     }
@@ -31166,7 +31591,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Landesbildungsserver",
+      "name" : "Landesbildungsserver Baden-W\u00FCrttemberg",
       "screen_name" : "LBS_BW",
       "indices" : [ 0, 7 ],
       "id_str" : "239792754",
@@ -31416,7 +31841,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "3240295685",
       "id" : 3240295685
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 115, 131 ],
       "id_str" : "24725119",
@@ -32255,7 +32680,7 @@ Grailbird.data.tweets_2016_07 =
   "id_str" : "749343737969508352",
   "text" : "RT @NatGeo: Light pollution is tricking plants into thinking spring has sprung\u2014and they\u2019re budding early https:\/\/t.co\/eo7gK0AFPi",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.spredfast.com\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.spredfast.com\/\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -32303,7 +32728,7 @@ Grailbird.data.tweets_2016_07 =
       "id_str" : "107416162",
       "id" : 107416162
     }, {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 12, 24 ],
       "id_str" : "50746928",
@@ -32432,7 +32857,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "NASAJPL",
       "protected" : false,
       "id_str" : "19802879",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/2305452633\/lg0hov3l8g4msxbdwv48_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1033103993709322240\/m7jGqR6X_normal.jpg",
       "id" : 19802879,
       "verified" : true
     }
@@ -33609,7 +34034,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "pascalhitzler",
       "protected" : false,
       "id_str" : "2606773789",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/871790290046210048\/bKuiHsXS_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1040588555356037125\/7-mdh8qA_normal.jpg",
       "id" : 2606773789,
       "verified" : false
     }
@@ -35891,7 +36316,7 @@ Grailbird.data.tweets_2016_07 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ali Utlu \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "Ali Utlu",
       "screen_name" : "AliCologne",
       "indices" : [ 3, 14 ],
       "id_str" : "52354508",
@@ -35949,11 +36374,11 @@ Grailbird.data.tweets_2016_07 =
     "id" : 748839935218741248,
     "created_at" : "2016-07-01 11:25:27 +0000",
     "user" : {
-      "name" : "Ali Utlu \uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
+      "name" : "Ali Utlu",
       "screen_name" : "AliCologne",
       "protected" : false,
       "id_str" : "52354508",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/981061557185589248\/JByqSI_2_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1025433409991139329\/gIgo_Yjk_normal.jpg",
       "id" : 52354508,
       "verified" : true
     }
@@ -36285,7 +36710,7 @@ Grailbird.data.tweets_2016_07 =
       "screen_name" : "business",
       "protected" : false,
       "id_str" : "34713362",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/714946924105883648\/4fgNVF4H_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/991818020233404416\/alrBF_dr_normal.jpg",
       "id" : 34713362,
       "verified" : true
     }
@@ -36647,687 +37072,6 @@ Grailbird.data.tweets_2016_07 =
   "created_at" : "2016-07-01 12:00:00 +0000",
   "in_reply_to_screen_name" : "SWagenknecht",
   "in_reply_to_user_id_str" : "47375691",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748750647080595456\/photo\/1",
-      "indices" : [ 30, 53 ],
-      "url" : "https:\/\/t.co\/KdQnibV6MX",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQYtv3UIAAtrPa.jpg",
-      "id_str" : "748750612271996928",
-      "id" : 748750612271996928,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQYtv3UIAAtrPa.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/KdQnibV6MX"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748750647080595456\/photo\/1",
-      "indices" : [ 30, 53 ],
-      "url" : "https:\/\/t.co\/KdQnibV6MX",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQYu0mUIAAupFu.jpg",
-      "id_str" : "748750630722740224",
-      "id" : 748750630722740224,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQYu0mUIAAupFu.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/KdQnibV6MX"
-    } ],
-    "hashtags" : [ {
-      "text" : "art",
-      "indices" : [ 0, 4 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 6, 29 ],
-      "url" : "https:\/\/t.co\/H8xvY4cyN5",
-      "expanded_url" : "http:\/\/www.hakimi-schueler.de\/helden_taten.html",
-      "display_url" : "hakimi-schueler.de\/helden_taten.h\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "748750647080595456",
-  "text" : "#art\n\nhttps:\/\/t.co\/H8xvY4cyN5 https:\/\/t.co\/KdQnibV6MX",
-  "id" : 748750647080595456,
-  "created_at" : "2016-07-01 05:30:40 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748744176586547200\/photo\/1",
-      "indices" : [ 0, 23 ],
-      "url" : "https:\/\/t.co\/703dx71t2N",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQSyseUsAYZUjW.jpg",
-      "id_str" : "748744100191449094",
-      "id" : 748744100191449094,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQSyseUsAYZUjW.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/703dx71t2N"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748744176586547200\/photo\/1",
-      "indices" : [ 0, 23 ],
-      "url" : "https:\/\/t.co\/703dx71t2N",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQS0Y3UcAApjMM.jpg",
-      "id_str" : "748744129287319552",
-      "id" : 748744129287319552,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQS0Y3UcAApjMM.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/703dx71t2N"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748744176586547200\/photo\/1",
-      "indices" : [ 0, 23 ],
-      "url" : "https:\/\/t.co\/703dx71t2N",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQS16PUEAEKltV.jpg",
-      "id_str" : "748744155426197505",
-      "id" : 748744155426197505,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQS16PUEAEKltV.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/703dx71t2N"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ ]
-  },
-  "in_reply_to_status_id_str" : "748744012312424448",
-  "geo" : { },
-  "id_str" : "748744176586547200",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "https:\/\/t.co\/703dx71t2N",
-  "id" : 748744176586547200,
-  "in_reply_to_status_id" : 748744012312424448,
-  "created_at" : "2016-07-01 05:04:57 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748744012312424448\/photo\/1",
-      "indices" : [ 39, 62 ],
-      "url" : "https:\/\/t.co\/rftZ38aWoB",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQSpEaUcAASAo3.jpg",
-      "id_str" : "748743934818414592",
-      "id" : 748743934818414592,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQSpEaUcAASAo3.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/rftZ38aWoB"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748744012312424448\/photo\/1",
-      "indices" : [ 39, 62 ],
-      "url" : "https:\/\/t.co\/rftZ38aWoB",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQSqKuVYAUqUgO.jpg",
-      "id_str" : "748743953692844037",
-      "id" : 748743953692844037,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQSqKuVYAUqUgO.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/rftZ38aWoB"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748744012312424448\/photo\/1",
-      "indices" : [ 39, 62 ],
-      "url" : "https:\/\/t.co\/rftZ38aWoB",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQSrNqUcAUzx2E.jpg",
-      "id_str" : "748743971661180933",
-      "id" : 748743971661180933,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQSrNqUcAUzx2E.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/rftZ38aWoB"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748744012312424448\/photo\/1",
-      "indices" : [ 39, 62 ],
-      "url" : "https:\/\/t.co\/rftZ38aWoB",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQSsbxUMAAXUoK.jpg",
-      "id_str" : "748743992628490240",
-      "id" : 748743992628490240,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQSsbxUMAAXUoK.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/rftZ38aWoB"
-    } ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 15, 38 ],
-      "url" : "https:\/\/t.co\/m6v3sM2ovC",
-      "expanded_url" : "https:\/\/en.m.wikipedia.org\/wiki\/Orange_County,_California",
-      "display_url" : "en.m.wikipedia.org\/wiki\/Orange_Co\u2026"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "748741958185529344",
-  "geo" : { },
-  "id_str" : "748744012312424448",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "Orange County\n\nhttps:\/\/t.co\/m6v3sM2ovC https:\/\/t.co\/rftZ38aWoB",
-  "id" : 748744012312424448,
-  "in_reply_to_status_id" : 748741958185529344,
-  "created_at" : "2016-07-01 05:04:18 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741958185529344\/photo\/1",
-      "indices" : [ 44, 67 ],
-      "url" : "https:\/\/t.co\/E19iEwPYqN",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQQwvqUkAEbQIS.jpg",
-      "id_str" : "748741867664084993",
-      "id" : 748741867664084993,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQQwvqUkAEbQIS.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/E19iEwPYqN"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741958185529344\/photo\/1",
-      "indices" : [ 44, 67 ],
-      "url" : "https:\/\/t.co\/E19iEwPYqN",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQQx45UIAU9YzZ.jpg",
-      "id_str" : "748741887322759173",
-      "id" : 748741887322759173,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQQx45UIAU9YzZ.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/E19iEwPYqN"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741958185529344\/photo\/1",
-      "indices" : [ 44, 67 ],
-      "url" : "https:\/\/t.co\/E19iEwPYqN",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQQzZXUkAERsXG.jpg",
-      "id_str" : "748741913218420737",
-      "id" : 748741913218420737,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQQzZXUkAERsXG.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/E19iEwPYqN"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741958185529344\/photo\/1",
-      "indices" : [ 44, 67 ],
-      "url" : "https:\/\/t.co\/E19iEwPYqN",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQQ0upUMAAxe5U.jpg",
-      "id_str" : "748741936110907392",
-      "id" : 748741936110907392,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQQ0upUMAAxe5U.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/E19iEwPYqN"
-    } ],
-    "hashtags" : [ {
-      "text" : "Wikipedia",
-      "indices" : [ 8, 18 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 20, 43 ],
-      "url" : "https:\/\/t.co\/fjkwNRKT6F",
-      "expanded_url" : "https:\/\/en.m.wikipedia.org\/wiki\/Veritas",
-      "display_url" : "en.m.wikipedia.org\/wiki\/Veritas"
-    } ]
-  },
-  "in_reply_to_status_id_str" : "748741225788825600",
-  "geo" : { },
-  "id_str" : "748741958185529344",
-  "in_reply_to_user_id" : 1088808283,
-  "text" : "Veritas #Wikipedia\n\nhttps:\/\/t.co\/fjkwNRKT6F https:\/\/t.co\/E19iEwPYqN",
-  "id" : 748741958185529344,
-  "in_reply_to_status_id" : 748741225788825600,
-  "created_at" : "2016-07-01 04:56:08 +0000",
-  "in_reply_to_screen_name" : "MechTech4",
-  "in_reply_to_user_id_str" : "1088808283",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741225788825600\/photo\/1",
-      "indices" : [ 58, 81 ],
-      "url" : "https:\/\/t.co\/fr7y7bp4iu",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQQF_uUMAAVP_p.jpg",
-      "id_str" : "748741133241430016",
-      "id" : 748741133241430016,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQQF_uUMAAVP_p.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/fr7y7bp4iu"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741225788825600\/photo\/1",
-      "indices" : [ 58, 81 ],
-      "url" : "https:\/\/t.co\/fr7y7bp4iu",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQQHJHUMAACaAz.jpg",
-      "id_str" : "748741152942075904",
-      "id" : 748741152942075904,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQQHJHUMAACaAz.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/fr7y7bp4iu"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741225788825600\/photo\/1",
-      "indices" : [ 58, 81 ],
-      "url" : "https:\/\/t.co\/fr7y7bp4iu",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQQIjlVMAAABYU.jpg",
-      "id_str" : "748741177227161600",
-      "id" : 748741177227161600,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQQIjlVMAAABYU.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/fr7y7bp4iu"
-    }, {
-      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/748741225788825600\/photo\/1",
-      "indices" : [ 58, 81 ],
-      "url" : "https:\/\/t.co\/fr7y7bp4iu",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/CmQQJ8qVUAAKYkb.jpg",
-      "id_str" : "748741201138896896",
-      "id" : 748741201138896896,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/CmQQJ8qVUAAKYkb.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1200,
-        "resize" : "fit",
-        "w" : 675
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 1920,
-        "resize" : "fit",
-        "w" : 1080
-      }, {
-        "h" : 680,
-        "resize" : "fit",
-        "w" : 383
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/fr7y7bp4iu"
-    } ],
-    "hashtags" : [ {
-      "text" : "CSU",
-      "indices" : [ 28, 32 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 34, 57 ],
-      "url" : "https:\/\/t.co\/XJHCQ6CwLp",
-      "expanded_url" : "https:\/\/en.m.wikipedia.org\/wiki\/California_State_University",
-      "display_url" : "en.m.wikipedia.org\/wiki\/Californi\u2026"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "748741225788825600",
-  "text" : "California State University #CSU\n\nhttps:\/\/t.co\/XJHCQ6CwLp https:\/\/t.co\/fr7y7bp4iu",
-  "id" : 748741225788825600,
-  "created_at" : "2016-07-01 04:53:13 +0000",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",

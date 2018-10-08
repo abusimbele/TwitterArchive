@@ -1515,7 +1515,7 @@ Grailbird.data.tweets_2017_08 =
   "id_str" : "903226509820866560",
   "text" : "RT @ScienceChannel: NASA's next Mars mission will do a deep dive into the Martian underground. https:\/\/t.co\/mGRHw83AUq https:\/\/t.co\/Epr9mj0\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.spredfast.com\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/www.spredfast.com\/\" rel=\"nofollow\"\u003ESpredfast app\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1568,7 +1568,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "ScienceChannel",
       "protected" : false,
       "id_str" : "16895274",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/975774883069218816\/_dmWAAfA_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049323103359123458\/Ndo9FXMB_normal.jpg",
       "id" : 16895274,
       "verified" : true
     }
@@ -3391,52 +3391,10 @@ Grailbird.data.tweets_2017_08 =
       "indices" : [ 3, 14 ],
       "id_str" : "1473686120",
       "id" : 1473686120
-    }, {
-      "name" : "SiFive",
-      "screen_name" : "SiFiveInc",
-      "indices" : [ 59, 69 ],
-      "id_str" : "722914767636004865",
-      "id" : 722914767636004865
     } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/Hacksterio\/status\/902348848949063680\/photo\/1",
-      "indices" : [ 105, 128 ],
-      "url" : "https:\/\/t.co\/82kOmw7WmA",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/DIXJdDlXoAAosaO.jpg",
-      "id_str" : "902348801373085696",
-      "id" : 902348801373085696,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DIXJdDlXoAAosaO.jpg",
-      "sizes" : [ {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 510,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 675,
-        "resize" : "fit",
-        "w" : 900
-      }, {
-        "h" : 675,
-        "resize" : "fit",
-        "w" : 900
-      }, {
-        "h" : 675,
-        "resize" : "fit",
-        "w" : 900
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/82kOmw7WmA"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 81, 104 ],
-      "url" : "https:\/\/t.co\/bXIwfjc1wB",
-      "expanded_url" : "http:\/\/bit.ly\/2wdCO8J",
-      "display_url" : "bit.ly\/2wdCO8J"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "902998828223270923",
@@ -3444,13 +3402,7 @@ Grailbird.data.tweets_2017_08 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "SiFive",
-        "screen_name" : "SiFiveInc",
-        "indices" : [ 43, 53 ],
-        "id_str" : "722914767636004865",
-        "id" : 722914767636004865
-      } ],
+      "user_mentions" : [ ],
       "media" : [ {
         "expanded_url" : "https:\/\/twitter.com\/Hacksterio\/status\/902348848949063680\/photo\/1",
         "indices" : [ 89, 112 ],
@@ -3713,7 +3665,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "GlblCtzn",
       "protected" : false,
       "id_str" : "596893898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973247306156953601\/_pqvBwMx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016140732820697088\/QsQV8MOi_normal.jpg",
       "id" : 596893898,
       "verified" : true
     }
@@ -3764,7 +3716,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "EmmanuelMacron",
       "protected" : false,
       "id_str" : "1976143068",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/834424630630817795\/TfyS4uXb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035051739853082624\/pzQS5OTs_normal.jpg",
       "id" : 1976143068,
       "verified" : true
     }
@@ -8302,23 +8254,17 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "oncampus",
-      "screen_name" : "oncampusfhl",
-      "indices" : [ 3, 15 ],
-      "id_str" : "259758291",
-      "id" : 259758291
-    }, {
       "name" : "Kiron Education",
       "screen_name" : "KironEducation",
       "indices" : [ 73, 88 ],
       "id_str" : "3240295685",
       "id" : 3240295685
     }, {
-      "name" : "FH L\u00FCbeck",
+      "name" : "fhluebeck",
       "screen_name" : "fhluebeck",
       "indices" : [ 105, 115 ],
-      "id_str" : "138680493",
-      "id" : 138680493
+      "id_str" : "1036561021568212993",
+      "id" : 1036561021568212993
     }, {
       "name" : "RWTHx",
       "screen_name" : "RWTHx",
@@ -8343,11 +8289,11 @@ Grailbird.data.tweets_2017_08 =
         "id_str" : "3240295685",
         "id" : 3240295685
       }, {
-        "name" : "FH L\u00FCbeck",
+        "name" : "fhluebeck",
         "screen_name" : "fhluebeck",
         "indices" : [ 88, 98 ],
-        "id_str" : "138680493",
-        "id" : 138680493
+        "id_str" : "1036561021568212993",
+        "id" : 1036561021568212993
       }, {
         "name" : "RWTHx",
         "screen_name" : "RWTHx",
@@ -8371,7 +8317,7 @@ Grailbird.data.tweets_2017_08 =
     "created_at" : "2017-08-28 08:55:21 +0000",
     "user" : {
       "name" : "oncampus",
-      "screen_name" : "oncampusfhl",
+      "screen_name" : "oncampusthl",
       "protected" : false,
       "id_str" : "259758291",
       "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/942694798867214336\/Xlr6hdnQ_normal.jpg",
@@ -8544,7 +8490,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 3, 19 ],
       "id_str" : "24725119",
@@ -8614,11 +8560,11 @@ Grailbird.data.tweets_2017_08 =
     "id" : 902196863910195202,
     "created_at" : "2017-08-28 15:51:09 +0000",
     "user" : {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "protected" : false,
       "id_str" : "24725119",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/804663691958484992\/CMlw2g5i_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1012697107088564227\/NXyD0B75_normal.jpg",
       "id" : 24725119,
       "verified" : true
     }
@@ -10213,7 +10159,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "roscosmos",
       "protected" : false,
       "id_str" : "2306083502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979277701587636224\/AeMPI7G4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014462014553579521\/gdGcSj2j_normal.jpg",
       "id" : 2306083502,
       "verified" : true
     }
@@ -11351,13 +11297,7 @@ Grailbird.data.tweets_2017_08 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "Drachenfels Design",
-      "screen_name" : "Drachenfels_DE",
-      "indices" : [ 0, 15 ],
-      "id_str" : "219277247",
-      "id" : 219277247
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/900729976567234561\/photo\/1",
       "indices" : [ 42, 65 ],
@@ -11430,16 +11370,11 @@ Grailbird.data.tweets_2017_08 =
     } ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "900728055030665216",
   "geo" : { },
   "id_str" : "900729976567234561",
-  "in_reply_to_user_id" : 219277247,
   "text" : "@Drachenfels_DE #Question: Wrong #patch ? https:\/\/t.co\/6UnkZ3C4oG",
   "id" : 900729976567234561,
-  "in_reply_to_status_id" : 900728055030665216,
   "created_at" : "2017-08-24 14:42:15 +0000",
-  "in_reply_to_screen_name" : "Drachenfels_DE",
-  "in_reply_to_user_id_str" : "219277247",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",
@@ -13015,7 +12950,7 @@ Grailbird.data.tweets_2017_08 =
   "id_str" : "900386974116327427",
   "text" : "RT @mallcribbs: Check out this mini maestro on the keys! Our @streetpianos baby grand will be at The Mall all summer so come on down and pl\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "sallystreetpianos",
@@ -15818,7 +15753,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Microduino",
+      "name" : "Microduino Inc.",
       "screen_name" : "Microduino",
       "indices" : [ 3, 14 ],
       "id_str" : "1478837376",
@@ -15850,7 +15785,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 899720356398845953,
     "created_at" : "2017-08-21 19:50:23 +0000",
     "user" : {
-      "name" : "Microduino",
+      "name" : "Microduino Inc.",
       "screen_name" : "Microduino",
       "protected" : false,
       "id_str" : "1478837376",
@@ -16165,7 +16100,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "roscosmos",
       "protected" : false,
       "id_str" : "2306083502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979277701587636224\/AeMPI7G4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014462014553579521\/gdGcSj2j_normal.jpg",
       "id" : 2306083502,
       "verified" : true
     }
@@ -20963,7 +20898,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "BoydHuppert",
       "protected" : false,
       "id_str" : "441288386",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1822677502\/Boyd_KARE_Still_Formal_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034902665908703235\/ns30iOxm_normal.jpg",
       "id" : 441288386,
       "verified" : true
     }
@@ -23812,11 +23747,17 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "leon",
+      "name" : "leon - the invisible",
       "screen_name" : "kille_fit",
       "indices" : [ 0, 10 ],
       "id_str" : "791261443945558016",
       "id" : 791261443945558016
+    }, {
+      "name" : "Dirk \uD83C\uDF08\u270C\uFE0F",
+      "screen_name" : "dirksch66",
+      "indices" : [ 11, 21 ],
+      "id_str" : "1020225830218354688",
+      "id" : 1020225830218354688
     } ],
     "media" : [ ],
     "hashtags" : [ ],
@@ -23845,11 +23786,17 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "leon",
+      "name" : "leon - the invisible",
       "screen_name" : "kille_fit",
       "indices" : [ 0, 10 ],
       "id_str" : "791261443945558016",
       "id" : 791261443945558016
+    }, {
+      "name" : "Dirk \uD83C\uDF08\u270C\uFE0F",
+      "screen_name" : "dirksch66",
+      "indices" : [ 11, 21 ],
+      "id_str" : "1020225830218354688",
+      "id" : 1020225830218354688
     } ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/898842983860142080\/photo\/1",
@@ -23971,11 +23918,17 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "leon",
+      "name" : "leon - the invisible",
       "screen_name" : "kille_fit",
       "indices" : [ 0, 10 ],
       "id_str" : "791261443945558016",
       "id" : 791261443945558016
+    }, {
+      "name" : "Dirk \uD83C\uDF08\u270C\uFE0F",
+      "screen_name" : "dirksch66",
+      "indices" : [ 11, 21 ],
+      "id_str" : "1020225830218354688",
+      "id" : 1020225830218354688
     } ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/898840988902277120\/photo\/1",
@@ -24038,11 +23991,17 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "leon",
+      "name" : "leon - the invisible",
       "screen_name" : "kille_fit",
       "indices" : [ 0, 10 ],
       "id_str" : "791261443945558016",
       "id" : 791261443945558016
+    }, {
+      "name" : "Dirk \uD83C\uDF08\u270C\uFE0F",
+      "screen_name" : "dirksch66",
+      "indices" : [ 11, 21 ],
+      "id_str" : "1020225830218354688",
+      "id" : 1020225830218354688
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -24074,11 +24033,17 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "leon",
+      "name" : "leon - the invisible",
       "screen_name" : "kille_fit",
       "indices" : [ 0, 10 ],
       "id_str" : "791261443945558016",
       "id" : 791261443945558016
+    }, {
+      "name" : "Dirk \uD83C\uDF08\u270C\uFE0F",
+      "screen_name" : "dirksch66",
+      "indices" : [ 11, 21 ],
+      "id_str" : "1020225830218354688",
+      "id" : 1020225830218354688
     } ],
     "media" : [ ],
     "hashtags" : [ {
@@ -28741,7 +28706,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "GlblCtzn",
       "protected" : false,
       "id_str" : "596893898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973247306156953601\/_pqvBwMx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016140732820697088\/QsQV8MOi_normal.jpg",
       "id" : 596893898,
       "verified" : true
     }
@@ -28825,7 +28790,7 @@ Grailbird.data.tweets_2017_08 =
   "id_str" : "897852902085144576",
   "text" : "RT @RWW: [TECH NEWS] Elon Musk's OpenAI bot dominates DoTA 2 professionals https:\/\/t.co\/b4mb6VTg1z\n#Tech #News #AI #dota2",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/coschedule.com\" rel=\"nofollow\"\u003ECoSchedule\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/coschedule.com\" rel=\"nofollow\"\u003ECoSchedule\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -29217,7 +29182,7 @@ Grailbird.data.tweets_2017_08 =
       "id_str" : "3338956540",
       "id" : 3338956540
     }, {
-      "name" : "Landesbildungsserver",
+      "name" : "Landesbildungsserver Baden-W\u00FCrttemberg",
       "screen_name" : "LBS_BW",
       "indices" : [ 16, 23 ],
       "id_str" : "239792754",
@@ -29880,7 +29845,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "HopeViolin",
       "protected" : false,
       "id_str" : "210937221",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949367478932721665\/mgWd3ubO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/993056096670633985\/SdIopCYi_normal.jpg",
       "id" : 210937221,
       "verified" : true
     }
@@ -29941,7 +29906,7 @@ Grailbird.data.tweets_2017_08 =
       "id_str" : "1305485232",
       "id" : 1305485232
     }, {
-      "name" : "Landesbildungsserver",
+      "name" : "Landesbildungsserver Baden-W\u00FCrttemberg",
       "screen_name" : "LBS_BW",
       "indices" : [ 14, 21 ],
       "id_str" : "239792754",
@@ -31693,7 +31658,7 @@ Grailbird.data.tweets_2017_08 =
   "id_str" : "897165862339325952",
   "text" : "RT @instructables: Harness the power of the sun for the Solar Contest and win great BioLite camping gear! https:\/\/t.co\/0pLfZCdtAb https:\/\/t\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -33193,7 +33158,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 3, 15 ],
       "id_str" : "50746928",
@@ -33236,11 +33201,11 @@ Grailbird.data.tweets_2017_08 =
     "id" : 896723090759192576,
     "created_at" : "2017-08-13 13:20:19 +0000",
     "user" : {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949629724195803137\/A8t7jMVK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023045151030235136\/DL2jUbS2_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -33260,7 +33225,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 0, 12 ],
       "id_str" : "50746928",
@@ -33324,13 +33289,13 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "clarevirtually.ie",
+      "name" : "Derg Boat Trips",
       "screen_name" : "clarevirtually",
       "indices" : [ 0, 15 ],
       "id_str" : "360630496",
       "id" : 360630496
     }, {
-      "name" : "Ireland \/ David",
+      "name" : "Ireland \/ Donna",
       "screen_name" : "ireland",
       "indices" : [ 16, 24 ],
       "id_str" : "1143551",
@@ -33941,7 +33906,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "GlblCtzn",
       "protected" : false,
       "id_str" : "596893898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973247306156953601\/_pqvBwMx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016140732820697088\/QsQV8MOi_normal.jpg",
       "id" : 596893898,
       "verified" : true
     }
@@ -34187,7 +34152,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "GlblCtzn",
       "protected" : false,
       "id_str" : "596893898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973247306156953601\/_pqvBwMx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016140732820697088\/QsQV8MOi_normal.jpg",
       "id" : 596893898,
       "verified" : true
     }
@@ -36167,7 +36132,7 @@ Grailbird.data.tweets_2017_08 =
       "id_str" : "3338956540",
       "id" : 3338956540
     }, {
-      "name" : "Landesbildungsserver",
+      "name" : "Landesbildungsserver Baden-W\u00FCrttemberg",
       "screen_name" : "LBS_BW",
       "indices" : [ 16, 23 ],
       "id_str" : "239792754",
@@ -36528,7 +36493,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lindau Nobel Meeting",
+      "name" : "Lindau Nobel Laureate Meetings",
       "screen_name" : "lindaunobel",
       "indices" : [ 3, 15 ],
       "id_str" : "22081607",
@@ -36572,7 +36537,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 896039798087069701,
     "created_at" : "2017-08-11 16:05:10 +0000",
     "user" : {
-      "name" : "Lindau Nobel Meeting",
+      "name" : "Lindau Nobel Laureate Meetings",
       "screen_name" : "lindaunobel",
       "protected" : false,
       "id_str" : "22081607",
@@ -37207,7 +37172,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abstract Art Guru - Iran Lawrence",
+      "name" : "Art of Transformation Guru",
       "screen_name" : "IranLawrence",
       "indices" : [ 0, 13 ],
       "id_str" : "19199743",
@@ -37948,7 +37913,7 @@ Grailbird.data.tweets_2017_08 =
       "id_str" : "2497314529",
       "id" : 2497314529
     }, {
-      "name" : "Ensaf haidar",
+      "name" : "Ensaf haidar \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "miss9afi",
       "indices" : [ 58, 67 ],
       "id_str" : "309187913",
@@ -38004,7 +37969,7 @@ Grailbird.data.tweets_2017_08 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Ensaf haidar",
+        "name" : "Ensaf haidar \u269C\uFE0F\uD83C\uDF41",
         "screen_name" : "miss9afi",
         "indices" : [ 38, 47 ],
         "id_str" : "309187913",
@@ -38046,13 +38011,13 @@ Grailbird.data.tweets_2017_08 =
         "id_str" : "14159148",
         "id" : 14159148
       }, {
-        "name" : "USC Schwarzenegger",
+        "name" : "USC Schwarzenegger Institute",
         "screen_name" : "GovArnoldUSC",
         "indices" : [ 119, 132 ],
         "id_str" : "1444380402",
         "id" : 1444380402
       }, {
-        "name" : "\u0645\u062D\u0645\u062F \u0628\u0646 \u0631\u0627\u0626\u0641",
+        "name" : "\uFBBC\u0645\u062D\u0645\u062F\u060C\u0628\u0646\u060C\u0631\u0627\u0626\u0641",
         "screen_name" : "0k__5",
         "indices" : [ 133, 139 ],
         "id_str" : "823955232858210309",
@@ -42754,13 +42719,13 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Gr\u00FCne \u00D6sterreich",
+      "name" : "Die Gr\u00FCnen",
       "screen_name" : "Gruene_Austria",
       "indices" : [ 3, 18 ],
       "id_str" : "316488595",
       "id" : 316488595
     }, {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 119, 131 ],
       "id_str" : "50746928",
@@ -42777,7 +42742,7 @@ Grailbird.data.tweets_2017_08 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Raif Badawi",
+        "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
         "screen_name" : "raif_badawi",
         "indices" : [ 99, 111 ],
         "id_str" : "50746928",
@@ -42827,7 +42792,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 895583242627170306,
     "created_at" : "2017-08-10 09:50:58 +0000",
     "user" : {
-      "name" : "Gr\u00FCne \u00D6sterreich",
+      "name" : "Die Gr\u00FCnen",
       "screen_name" : "Gruene_Austria",
       "protected" : false,
       "id_str" : "316488595",
@@ -43354,7 +43319,7 @@ Grailbird.data.tweets_2017_08 =
       "screen_name" : "IEEESpectrum",
       "protected" : false,
       "id_str" : "15825547",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/489425137884618752\/J0_eul7G_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/987383214699266049\/K60dJUbS_normal.jpg",
       "id" : 15825547,
       "verified" : false
     }
@@ -43553,7 +43518,7 @@ Grailbird.data.tweets_2017_08 =
   "id_str" : "895302798773977090",
   "text" : "RT @CypressSemi: #GIRLBOSS Alert: @adafruit just launched the Women in Hardware series and you definitely need to check it out! https:\/\/t.c\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "adafruit industries",
@@ -44681,7 +44646,7 @@ Grailbird.data.tweets_2017_08 =
   "id_str" : "895160204907737088",
   "text" : "RT @compassion: The Philippines just made free tuition for college a reality (via @qz) https:\/\/t.co\/yIorCR6lxU",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/www.radian6.com\" rel=\"nofollow\"\u003ERadian6 -Social Media Management\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"http:\/\/www.salesforce.com\" rel=\"nofollow\"\u003ESalesforce - Social Studio\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Quartz",
@@ -49533,7 +49498,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abstract Art Guru - Iran Lawrence",
+      "name" : "Art of Transformation Guru",
       "screen_name" : "IranLawrence",
       "indices" : [ 0, 13 ],
       "id_str" : "19199743",
@@ -51333,7 +51298,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy S. Cook",
+      "name" : "Jeremy S. Cook \uD83E\uDD16\uD83D\uDCBE\uD83D\uDC4A",
       "screen_name" : "JeremySCook",
       "indices" : [ 53, 65 ],
       "id_str" : "554523542",
@@ -52509,7 +52474,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lindau Nobel Meeting",
+      "name" : "Lindau Nobel Laureate Meetings",
       "screen_name" : "lindaunobel",
       "indices" : [ 0, 12 ],
       "id_str" : "22081607",
@@ -52649,7 +52614,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lindau Nobel Meeting",
+      "name" : "Lindau Nobel Laureate Meetings",
       "screen_name" : "lindaunobel",
       "indices" : [ 0, 12 ],
       "id_str" : "22081607",
@@ -52694,7 +52659,7 @@ Grailbird.data.tweets_2017_08 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lindau Nobel Meeting",
+      "name" : "Lindau Nobel Laureate Meetings",
       "screen_name" : "lindaunobel",
       "indices" : [ 3, 15 ],
       "id_str" : "22081607",
@@ -52738,7 +52703,7 @@ Grailbird.data.tweets_2017_08 =
     "id" : 892370200494047232,
     "created_at" : "2017-08-01 13:03:29 +0000",
     "user" : {
-      "name" : "Lindau Nobel Meeting",
+      "name" : "Lindau Nobel Laureate Meetings",
       "screen_name" : "lindaunobel",
       "protected" : false,
       "id_str" : "22081607",

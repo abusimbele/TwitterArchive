@@ -1440,7 +1440,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "538824158529212416",
   "text" : "RT @udacity: http:\/\/t.co\/SZaOg1tO4F If you spend time with kids, do you agree with these tips about lifelong learning? #udacity http:\/\/t.co\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -1673,7 +1673,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "538823151082553344",
   "text" : "RT @linuxfoundation: 6 Raspberry Pi-Like Clones and Extensions http:\/\/t.co\/bpmb7HaTdI #opensource pic.twitter.com\/c401KrOrD\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -2075,7 +2075,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "538822245066760192",
   "text" : "RT @DNews: Dogs Hang on Our Every Spoken Word: http:\/\/t.co\/S4WSAiqAiJ http:\/\/t.co\/Vju7RL8r57",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2128,7 +2128,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "Seeker",
       "protected" : false,
       "id_str" : "16438248",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971887321229402112\/LL0zi_zb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1034135272378621952\/vgPKtuUq_normal.jpg",
       "id" : 16438248,
       "verified" : true
     }
@@ -2357,7 +2357,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "538454815492550656",
   "text" : "RT @SETIInstitute: NASA\u2019s Van Allen Probes Spot Impenetrable Radiation Barrier in Space: http:\/\/t.co\/7dhuXqzgBK http:\/\/t.co\/A997HulCSi",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2749,52 +2749,10 @@ Grailbird.data.tweets_2014_11 =
       "indices" : [ 3, 7 ],
       "id_str" : "15460048",
       "id" : 15460048
-    }, {
-      "name" : "GRIT",
-      "screen_name" : "gogritorg",
-      "indices" : [ 21, 31 ],
-      "id_str" : "478785353",
-      "id" : 478785353
     } ],
-    "media" : [ {
-      "expanded_url" : "https:\/\/twitter.com\/MIT\/status\/537007994807275522\/photo\/1",
-      "indices" : [ 91, 113 ],
-      "url" : "http:\/\/t.co\/KVFXLvth3J",
-      "media_url" : "http:\/\/pbs.twimg.com\/media\/B3PV7MOCEAA56JM.jpg",
-      "id_str" : "537007993456300032",
-      "id" : 537007993456300032,
-      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/B3PV7MOCEAA56JM.jpg",
-      "sizes" : [ {
-        "h" : 452,
-        "resize" : "fit",
-        "w" : 680
-      }, {
-        "h" : 150,
-        "resize" : "crop",
-        "w" : 150
-      }, {
-        "h" : 1360,
-        "resize" : "fit",
-        "w" : 2048
-      }, {
-        "h" : 797,
-        "resize" : "fit",
-        "w" : 1200
-      }, {
-        "h" : 1360,
-        "resize" : "fit",
-        "w" : 2048
-      } ],
-      "media_alt" : "",
-      "display_url" : "pic.twitter.com\/KVFXLvth3J"
-    } ],
+    "media" : [ ],
     "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 68, 90 ],
-      "url" : "http:\/\/t.co\/JzdjzXeZlg",
-      "expanded_url" : "http:\/\/mitne.ws\/1pgwtBM",
-      "display_url" : "mitne.ws\/1pgwtBM"
-    } ]
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "538451972903673857",
@@ -2802,13 +2760,7 @@ Grailbird.data.tweets_2014_11 =
   "retweeted_status" : {
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
-      "user_mentions" : [ {
-        "name" : "GRIT",
-        "screen_name" : "gogritorg",
-        "indices" : [ 12, 22 ],
-        "id_str" : "478785353",
-        "id" : 478785353
-      } ],
+      "user_mentions" : [ ],
       "media" : [ {
         "expanded_url" : "https:\/\/twitter.com\/MIT\/status\/537007994807275522\/photo\/1",
         "indices" : [ 82, 104 ],
@@ -2957,7 +2909,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "Piratenpartei",
       "protected" : false,
       "id_str" : "14341194",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/891277385093591041\/QtECw4Yr_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/994945295082541056\/0RVbr-M6_normal.jpg",
       "id" : 14341194,
       "verified" : true
     }
@@ -3110,7 +3062,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -3147,7 +3099,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 538147804515139584,
     "created_at" : "2014-11-28 01:50:09 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -3233,7 +3185,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "LindseyStirling",
       "protected" : false,
       "id_str" : "289969718",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/971076850184110080\/4HuYQX_q_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037008600340803584\/PaYItBMt_normal.jpg",
       "id" : 289969718,
       "verified" : true
     }
@@ -3370,7 +3322,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "538319546520989696",
   "text" : "RT @udacity: Why you should learn artificial intelligence - http:\/\/t.co\/j7Ay9pxors #udacity #ai http:\/\/t.co\/uD7vNAtKiq",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -4405,7 +4357,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "537937323468808192",
   "text" : "RT @digitalocean: For your friends who want to get started with Linux: http:\/\/t.co\/GbCVRchvnW @thisismitch http:\/\/t.co\/O3Y0QjShZt",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Mitchell Anicas",
@@ -4464,7 +4416,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "digitalocean",
       "protected" : false,
       "id_str" : "457033547",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/793449882178752512\/x747rbbz_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013823368460734464\/ATvWxM7a_normal.jpg",
       "id" : 457033547,
       "verified" : true
     }
@@ -4788,7 +4740,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "537933624499503105",
   "text" : "RT @arduino: Too Many Kids Quit Science Because They Don't Think They're Smart   http:\/\/t.co\/F2P6AC0MU7 #stem",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -5292,7 +5244,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -5329,7 +5281,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 537866679020040193,
     "created_at" : "2014-11-27 07:13:04 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -6229,7 +6181,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "537522175876825088",
   "text" : "RT @ThatsHistory: RT if you did this as a child :) http:\/\/t.co\/rGA31ZORay",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -6683,7 +6635,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -6720,7 +6672,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 537140643416375296,
     "created_at" : "2014-11-25 07:08:03 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -7166,7 +7118,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049344327305056256\/9hlbC5zJ_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -7340,7 +7292,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "536969762556100609",
   "text" : "RT @coursera: our University Product team connects the dots for instructors &amp; builds user friendly tools to bring data to teaching http:\/\/t\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -7646,7 +7598,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "NewsfromScience",
       "protected" : false,
       "id_str" : "17089636",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/885960895087726593\/mmm3BUwO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1001918076164759552\/KBl8u8ia_normal.jpg",
       "id" : 17089636,
       "verified" : true
     }
@@ -7666,7 +7618,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -7703,7 +7655,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 536947369506775041,
     "created_at" : "2014-11-24 18:20:03 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -9154,7 +9106,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "nixCraft: The Best Linux Blog In the Unixverse",
+      "name" : "The Best Linux Blog In the Unixverse",
       "screen_name" : "nixcraft",
       "indices" : [ 85, 94 ],
       "id_str" : "17484680",
@@ -9711,33 +9663,10 @@ Grailbird.data.tweets_2014_11 =
       "indices" : [ 3, 16 ],
       "id_str" : "91110697",
       "id" : 91110697
-    }, {
-      "name" : "MOOC@TU9",
-      "screen_name" : "MOOCTU9",
-      "indices" : [ 20, 28 ],
-      "id_str" : "2613177258",
-      "id" : 2613177258
-    }, {
-      "name" : "KIT Karlsruhe",
-      "screen_name" : "KITKarlsruhe",
-      "indices" : [ 61, 74 ],
-      "id_str" : "91110697",
-      "id" : 91110697
     } ],
     "media" : [ ],
-    "hashtags" : [ {
-      "text" : "Engineering",
-      "indices" : [ 87, 99 ]
-    }, {
-      "text" : "mooc",
-      "indices" : [ 102, 107 ]
-    } ],
-    "urls" : [ {
-      "indices" : [ 108, 130 ],
-      "url" : "http:\/\/t.co\/mXLgK86ZCA",
-      "expanded_url" : "http:\/\/bit.ly\/1F9D3Ow",
-      "display_url" : "bit.ly\/1F9D3Ow"
-    } ]
+    "hashtags" : [ ],
+    "urls" : [ ]
   },
   "geo" : { },
   "id_str" : "535784537188728832",
@@ -9746,12 +9675,6 @@ Grailbird.data.tweets_2014_11 =
     "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MOOC@TU9",
-        "screen_name" : "MOOCTU9",
-        "indices" : [ 2, 10 ],
-        "id_str" : "2613177258",
-        "id" : 2613177258
-      }, {
         "name" : "KIT Karlsruhe",
         "screen_name" : "KITKarlsruhe",
         "indices" : [ 43, 56 ],
@@ -10251,7 +10174,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -10300,7 +10223,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 535551935919972353,
     "created_at" : "2014-11-20 21:55:06 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -10390,7 +10313,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "khanacademy",
       "protected" : false,
       "id_str" : "16689804",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/576480569028009984\/YWq8EwXd_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1021871312195612673\/MlailSlw_normal.jpg",
       "id" : 16689804,
       "verified" : true
     }
@@ -10435,7 +10358,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "535586629486792705",
   "text" : "RT @udacity: http:\/\/t.co\/SNRyHOnyju Emotional Intelligence is equally as important as technical competence. #udacity #careers http:\/\/t.co\/j\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -10701,7 +10624,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "535033365158969344",
   "text" : "RT @edXOnline: \u201CThis Linux course has been one of the top two MOOCs we\u2019ve ever had.\" - @agarwaledu http:\/\/t.co\/jDiM7n0Mf3 http:\/\/t.co\/pdXmF\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "anant agarwal",
@@ -10802,7 +10725,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "534826490383597568",
   "text" : "RT @t3n: Ballon-Internet: Neue Tests f\u00FCr Googles Project Loon \u00FCber Australien #Internet http:\/\/t.co\/BTmbHSBx01",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -11226,7 +11149,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -11263,7 +11186,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 534814341430657024,
     "created_at" : "2014-11-18 21:04:10 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -11328,7 +11251,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "mashable",
       "protected" : false,
       "id_str" : "972651",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/941796662770651137\/cDtLVz1j_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013772445243895808\/jk7SUWdn_normal.jpg",
       "id" : 972651,
       "verified" : true
     }
@@ -11643,7 +11566,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "534339938989641728",
   "text" : "RT @instructables: Easy Build Burning Laser For Less Than $20 http:\/\/t.co\/wOwsz4vQhl http:\/\/t.co\/LAOV1h2q3n",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -12132,7 +12055,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "533652051579129856",
   "text" : "RT @aallan: Building a pocket-sized hackable robotic arm, https:\/\/t.co\/eRemOZ1Kav. #mearm #ecmmf #makerfaire #robot http:\/\/t.co\/nlqqOcIvqh",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -12378,7 +12301,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -12415,7 +12338,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 533523105625292800,
     "created_at" : "2014-11-15 07:33:15 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -13138,7 +13061,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -13249,7 +13172,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 532881359166259200,
     "created_at" : "2014-11-13 13:03:11 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -14009,7 +13932,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "532288154666303488",
   "text" : "RT @t3n: Ein Autocomplete f\u00FCr Programmierer: 11 Millionen Dollar f\u00FCr Forschungsprojekt #PLINY http:\/\/t.co\/DKtjso2EDj",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -14158,7 +14081,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -14190,7 +14113,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 532268835823714304,
     "created_at" : "2014-11-11 20:29:14 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -14239,7 +14162,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "532284377380970496",
   "text" : "RT @instructables: Mobile Sun-Seeking Robot: Plants can navigate to the sunniest spot!\n\nhttp:\/\/t.co\/sYlkSGoQnP\nSponsored by @RadioShack htt\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "RadioShack",
@@ -14377,7 +14300,7 @@ Grailbird.data.tweets_2014_11 =
       "id_str" : "325437911",
       "id" : 325437911
     }, {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 97, 108 ],
       "id_str" : "15808647",
@@ -14402,7 +14325,7 @@ Grailbird.data.tweets_2014_11 =
     "source" : "\u003Ca href=\"http:\/\/www.hootsuite.com\" rel=\"nofollow\"\u003EHootsuite\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MIT Tech Review",
+        "name" : "MIT Technology Review",
         "screen_name" : "techreview",
         "indices" : [ 79, 90 ],
         "id_str" : "15808647",
@@ -14553,7 +14476,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049344327305056256\/9hlbC5zJ_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -14869,7 +14792,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "531948533096935424",
   "text" : "RT @Indiegogo: Top 7 Successful Indiegogo Campaigns of All Time: http:\/\/t.co\/Zclnplois5 http:\/\/t.co\/qXxUf3iVrl",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -14992,7 +14915,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "531948152698732544",
   "text" : "RT @instructables: Pixel Art Chopping Boards http:\/\/t.co\/I1Exuy1LkV http:\/\/t.co\/eGFxNZNW0O",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -15151,7 +15074,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "531944235113918466",
   "text" : "RT @Indiegogo: Eva could revolutionize water conservation by saving 50% of water usage in every home: http:\/\/t.co\/j6na84BCOh",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -15728,7 +15651,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -15765,7 +15688,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 531212142452961280,
     "created_at" : "2014-11-08 22:30:18 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -15900,7 +15823,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "531078224454107136",
   "text" : "RT @t3n: Tour teilen, Geld sparen: Sh\u00E4re bringt Ubers Killer-Feature in deutsche Taxis http:\/\/t.co\/zIVy7FdEoB http:\/\/t.co\/OuMTpeAE1B",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -15973,7 +15896,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -16010,7 +15933,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 531000435675377664,
     "created_at" : "2014-11-08 08:29:04 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -17062,13 +16985,13 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
       "id" : 15808647
     }, {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 53, 64 ],
       "id_str" : "15808647",
@@ -17093,7 +17016,7 @@ Grailbird.data.tweets_2014_11 =
     "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MIT Tech Review",
+        "name" : "MIT Technology Review",
         "screen_name" : "techreview",
         "indices" : [ 37, 48 ],
         "id_str" : "15808647",
@@ -17117,7 +17040,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 530407204495433728,
     "created_at" : "2014-11-06 17:11:46 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -17168,13 +17091,13 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
       "id" : 15808647
     }, {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 46, 57 ],
       "id_str" : "15808647",
@@ -17199,7 +17122,7 @@ Grailbird.data.tweets_2014_11 =
     "source" : "\u003Ca href=\"https:\/\/dlvrit.com\/\" rel=\"nofollow\"\u003Edlvr.it\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "MIT Tech Review",
+        "name" : "MIT Technology Review",
         "screen_name" : "techreview",
         "indices" : [ 30, 41 ],
         "id_str" : "15808647",
@@ -17223,7 +17146,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 530408605669785600,
     "created_at" : "2014-11-06 17:17:20 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -17566,7 +17489,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -17598,7 +17521,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 530450562966622208,
     "created_at" : "2014-11-06 20:04:04 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -17685,7 +17608,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049344327305056256\/9hlbC5zJ_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -17809,7 +17732,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -17846,7 +17769,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 530490121548992512,
     "created_at" : "2014-11-06 22:41:15 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -17973,7 +17896,7 @@ Grailbird.data.tweets_2014_11 =
       "screen_name" : "DiscoverMag",
       "protected" : false,
       "id_str" : "23962323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/976906751667613696\/-m3wda6f_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049344327305056256\/9hlbC5zJ_normal.jpg",
       "id" : 23962323,
       "verified" : true
     }
@@ -18046,7 +17969,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "530649243573571584",
   "text" : "RT @linuxfoundation: 6 Raspberry Pi-Like Clones and Extensions http:\/\/t.co\/1NxWpOj2o9 #opensource http:\/\/t.co\/c401KrOrDl",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -18275,7 +18198,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -18307,7 +18230,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 530532724776644608,
     "created_at" : "2014-11-07 01:30:33 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -18483,7 +18406,7 @@ Grailbird.data.tweets_2014_11 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -18520,7 +18443,7 @@ Grailbird.data.tweets_2014_11 =
     "id" : 530617677048344576,
     "created_at" : "2014-11-07 07:08:07 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -18795,7 +18718,7 @@ Grailbird.data.tweets_2014_11 =
   "id_str" : "528892016772788224",
   "text" : "RT @t3n: Offene Atmosph\u00E4re: Bietet ein #Hackspace einen produktiven Arbeitsraum? http:\/\/t.co\/D1AtogB8wd http:\/\/t.co\/fDXK8FGQeG",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {

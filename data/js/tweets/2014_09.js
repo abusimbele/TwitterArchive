@@ -61,7 +61,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -110,7 +110,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 517011121472307201,
     "created_at" : "2014-09-30 18:00:31 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -382,7 +382,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -462,7 +462,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 516931645010903041,
     "created_at" : "2014-09-30 12:44:42 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -1635,7 +1635,7 @@ Grailbird.data.tweets_2014_09 =
   "id_str" : "514350706841903104",
   "text" : "RT @Indiegogo: Bring reading, writing, and arithmetic to millions of kids: http:\/\/t.co\/0VhlrqSMEd http:\/\/t.co\/AYjGxKvk9x",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -2277,7 +2277,7 @@ Grailbird.data.tweets_2014_09 =
       "screen_name" : "UQ_News",
       "protected" : false,
       "id_str" : "17383073",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/473260326289289216\/piEayiyQ_normal.jpeg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1046890016968822785\/UDxZegg8_normal.jpg",
       "id" : 17383073,
       "verified" : true
     }
@@ -2403,7 +2403,7 @@ Grailbird.data.tweets_2014_09 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "indices" : [ 3, 14 ],
       "id_str" : "15808647",
@@ -2440,7 +2440,7 @@ Grailbird.data.tweets_2014_09 =
     "id" : 514045724225331201,
     "created_at" : "2014-09-22 13:37:05 +0000",
     "user" : {
-      "name" : "MIT Tech Review",
+      "name" : "MIT Technology Review",
       "screen_name" : "techreview",
       "protected" : false,
       "id_str" : "15808647",
@@ -3293,70 +3293,6 @@ Grailbird.data.tweets_2014_09 =
   },
   "id" : 512121032543854592,
   "created_at" : "2014-09-17 06:09:03 +0000",
-  "user" : {
-    "name" : "MechTech",
-    "screen_name" : "MechTech4",
-    "protected" : false,
-    "id_str" : "1088808283",
-    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
-    "id" : 1088808283,
-    "verified" : false
-  }
-}, {
-  "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
-  "entities" : {
-    "user_mentions" : [ {
-      "name" : "MOOC@TU9",
-      "screen_name" : "MOOCTU9",
-      "indices" : [ 3, 11 ],
-      "id_str" : "2613177258",
-      "id" : 2613177258
-    } ],
-    "media" : [ ],
-    "hashtags" : [ ],
-    "urls" : [ {
-      "indices" : [ 103, 125 ],
-      "url" : "http:\/\/t.co\/f3biENUlz7",
-      "expanded_url" : "http:\/\/mooc.tu9.de\/",
-      "display_url" : "mooc.tu9.de"
-    } ]
-  },
-  "geo" : { },
-  "id_str" : "512116717561344000",
-  "text" : "RT @MOOCTU9: TU9 starting MOOC on \"German Engineering\" on October 20th - course open for registration: http:\/\/t.co\/f3biENUlz7 Join now and \u2026",
-  "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
-    "entities" : {
-      "user_mentions" : [ ],
-      "media" : [ ],
-      "hashtags" : [ {
-        "text" : "discoverTU9",
-        "indices" : [ 126, 138 ]
-      } ],
-      "urls" : [ {
-        "indices" : [ 90, 112 ],
-        "url" : "http:\/\/t.co\/f3biENUlz7",
-        "expanded_url" : "http:\/\/mooc.tu9.de\/",
-        "display_url" : "mooc.tu9.de"
-      } ]
-    },
-    "geo" : { },
-    "id_str" : "510478388210184193",
-    "text" : "TU9 starting MOOC on \"German Engineering\" on October 20th - course open for registration: http:\/\/t.co\/f3biENUlz7 Join now and #discoverTU9",
-    "id" : 510478388210184193,
-    "created_at" : "2014-09-12 17:21:46 +0000",
-    "user" : {
-      "name" : "MOOC@TU9",
-      "screen_name" : "MOOCTU9",
-      "protected" : false,
-      "id_str" : "2613177258",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/510097729557520384\/-vrED92D_normal.jpeg",
-      "id" : 2613177258,
-      "verified" : false
-    }
-  },
-  "id" : 512116717561344000,
-  "created_at" : "2014-09-17 05:51:54 +0000",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",

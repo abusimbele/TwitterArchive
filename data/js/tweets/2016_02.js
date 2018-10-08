@@ -162,13 +162,13 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Public Laboratory",
+      "name" : "Public Lab",
       "screen_name" : "PublicLab",
       "indices" : [ 3, 13 ],
       "id_str" : "296873851",
       "id" : 296873851
     }, {
-      "name" : "Summer of Code",
+      "name" : "Google Summer of Code",
       "screen_name" : "gsoc",
       "indices" : [ 23, 28 ],
       "id_str" : "22564445",
@@ -190,7 +190,7 @@ Grailbird.data.tweets_2016_02 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Summer of Code",
+        "name" : "Google Summer of Code",
         "screen_name" : "gsoc",
         "indices" : [ 8, 13 ],
         "id_str" : "22564445",
@@ -242,7 +242,7 @@ Grailbird.data.tweets_2016_02 =
     "id" : 704414708464357376,
     "created_at" : "2016-02-29 21:15:28 +0000",
     "user" : {
-      "name" : "Public Laboratory",
+      "name" : "Public Lab",
       "screen_name" : "PublicLab",
       "protected" : false,
       "id_str" : "296873851",
@@ -314,7 +314,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "MinuDTizabi",
       "protected" : false,
       "id_str" : "3058667338",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/614686647360339968\/-y5JxADh_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1004733687844491265\/9nJCjfIe_normal.jpg",
       "id" : 3058667338,
       "verified" : false
     }
@@ -3446,7 +3446,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "14372486",
       "id" : 14372486
     }, {
-      "name" : "Pok\u00E9mon",
+      "name" : "Ghost-type Pok\u00E9mon",
       "screen_name" : "Pokemon",
       "indices" : [ 70, 78 ],
       "id_str" : "96879107",
@@ -3469,7 +3469,7 @@ Grailbird.data.tweets_2016_02 =
     "source" : "\u003Ca href=\"https:\/\/about.twitter.com\/products\/tweetdeck\" rel=\"nofollow\"\u003ETweetDeck\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
-        "name" : "Pok\u00E9mon",
+        "name" : "Ghost-type Pok\u00E9mon",
         "screen_name" : "Pokemon",
         "indices" : [ 56, 64 ],
         "id_str" : "96879107",
@@ -3591,7 +3591,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "4743734475",
       "id" : 4743734475
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 27, 43 ],
       "id_str" : "24725119",
@@ -4280,7 +4280,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "347792540",
       "id" : 347792540
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 12, 28 ],
       "id_str" : "24725119",
@@ -4555,7 +4555,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "kelghazzali",
       "protected" : false,
       "id_str" : "43907060",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/969569721153720321\/MYijfMR__normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023524160159531008\/5VM2bQdS_normal.jpg",
       "id" : 43907060,
       "verified" : true
     }
@@ -4853,7 +4853,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "347792540",
       "id" : 347792540
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 44, 60 ],
       "id_str" : "24725119",
@@ -5211,7 +5211,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "(((Nivatius)))",
+      "name" : "Nivatius@octodon.social",
       "screen_name" : "Nivatius",
       "indices" : [ 3, 12 ],
       "id_str" : "18052595",
@@ -5261,7 +5261,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "701573208483434497",
   "text" : "RT @Nivatius: Der Supermarkt im  Mathematikon in Heidelberg  https:\/\/t.co\/3vnI3EUqQu https:\/\/t.co\/7WT2yFGjkD",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -5310,7 +5310,7 @@ Grailbird.data.tweets_2016_02 =
     "id" : 701080660782489600,
     "created_at" : "2016-02-20 16:27:09 +0000",
     "user" : {
-      "name" : "(((Nivatius)))",
+      "name" : "Nivatius@octodon.social",
       "screen_name" : "Nivatius",
       "protected" : false,
       "id_str" : "18052595",
@@ -5334,7 +5334,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lindau Nobel Meeting",
+      "name" : "Lindau Nobel Laureate Meetings",
       "screen_name" : "lindaunobel",
       "indices" : [ 3, 15 ],
       "id_str" : "22081607",
@@ -5450,7 +5450,7 @@ Grailbird.data.tweets_2016_02 =
     "id" : 700240751519735808,
     "created_at" : "2016-02-18 08:49:39 +0000",
     "user" : {
-      "name" : "Lindau Nobel Meeting",
+      "name" : "Lindau Nobel Laureate Meetings",
       "screen_name" : "lindaunobel",
       "protected" : false,
       "id_str" : "22081607",
@@ -6121,7 +6121,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "betterplace_org",
       "protected" : false,
       "id_str" : "12398392",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/833611258645606400\/2519vmPF_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013777643261526017\/Z4FOpo_E_normal.jpg",
       "id" : 12398392,
       "verified" : true
     }
@@ -6141,12 +6141,6 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paul Henneberg",
-      "screen_name" : "PaulHenneberg",
-      "indices" : [ 0, 14 ],
-      "id_str" : "1590407443",
-      "id" : 1590407443
-    }, {
       "name" : "Tech XB",
       "screen_name" : "TechXB",
       "indices" : [ 15, 22 ],
@@ -6163,16 +6157,11 @@ Grailbird.data.tweets_2016_02 =
     "hashtags" : [ ],
     "urls" : [ ]
   },
-  "in_reply_to_status_id_str" : "701028779095945219",
   "geo" : { },
   "id_str" : "701036655734628352",
-  "in_reply_to_user_id" : 1590407443,
   "text" : "@PaulHenneberg @TechXB @guardian \n\nWhat values will they learn, if we feed them with periscope-live-video-footage-stories?",
   "id" : 701036655734628352,
-  "in_reply_to_status_id" : 701028779095945219,
   "created_at" : "2016-02-20 13:32:18 +0000",
-  "in_reply_to_screen_name" : "PaulHenneberg",
-  "in_reply_to_user_id_str" : "1590407443",
   "user" : {
     "name" : "MechTech",
     "screen_name" : "MechTech4",
@@ -6282,7 +6271,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "DARPA",
       "protected" : false,
       "id_str" : "54645160",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1163256540\/New_Image_normal.JPG",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1011252505064493056\/8P-2AhX__normal.jpg",
       "id" : 54645160,
       "verified" : true
     }
@@ -6355,7 +6344,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "701033493011292160",
   "text" : "RT @check123com: Which animal has three hearts and a donut-shaped brain?\nhttps:\/\/t.co\/a3mtJJ0n8Z\n#Nature https:\/\/t.co\/RkPUz6466g",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -6561,7 +6550,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "701029430039281664",
   "text" : "RT @3DHubs: iBoardbot. The Awesome Internet controlled Whiteboard https:\/\/t.co\/BmTKyddaCH #kickstarter #3dprinting https:\/\/t.co\/9GQP5NTdi9",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -6911,7 +6900,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "44101578",
       "id" : 44101578
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 123, 139 ],
       "id_str" : "24725119",
@@ -9035,7 +9024,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "80976498",
       "id" : 80976498
     }, {
-      "name" : "Jan B\u00F6hmermann \uD83E\uDD28",
+      "name" : "Jan B\u00F6hmermann \uD83E\uDD28\uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "janboehm",
       "indices" : [ 89, 98 ],
       "id_str" : "19072286",
@@ -12351,7 +12340,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "21107582",
       "id" : 21107582
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 100, 116 ],
       "id_str" : "24725119",
@@ -13083,7 +13072,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "indices" : [ 3, 15 ],
       "id_str" : "50746928",
@@ -13116,11 +13105,11 @@ Grailbird.data.tweets_2016_02 =
     "id" : 694550050337361920,
     "created_at" : "2016-02-02 15:56:50 +0000",
     "user" : {
-      "name" : "Raif Badawi",
+      "name" : "Raif Badawi \u269C\uFE0F\uD83C\uDF41",
       "screen_name" : "raif_badawi",
       "protected" : false,
       "id_str" : "50746928",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/949629724195803137\/A8t7jMVK_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1023045151030235136\/DL2jUbS2_normal.jpg",
       "id" : 50746928,
       "verified" : true
     }
@@ -14349,7 +14338,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "44101578",
       "id" : 44101578
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 45, 61 ],
       "id_str" : "24725119",
@@ -14456,7 +14445,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "698569488216756227",
   "text" : "RT @RoblemVR: #NASA Will Help Everyone Walk On Mars In VR\n#VR #VirtualReality\nhttps:\/\/t.co\/fFbZ62o427 https:\/\/t.co\/6e6wwTDYwN",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -14777,7 +14766,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "calomas",
       "protected" : false,
       "id_str" : "19897450",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/953634047196049408\/QYX7DZVc_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1006112263466516480\/MDV5SfCm_normal.jpg",
       "id" : 19897450,
       "verified" : false
     }
@@ -14870,7 +14859,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Thomas Steiner \uD83E\uDD96\uD83C\uDF97",
+      "name" : "Thomas Steiner",
       "screen_name" : "tomayac",
       "indices" : [ 3, 11 ],
       "id_str" : "14697496",
@@ -14912,7 +14901,7 @@ Grailbird.data.tweets_2016_02 =
     "id" : 698490067581607936,
     "created_at" : "2016-02-13 12:53:04 +0000",
     "user" : {
-      "name" : "Thomas Steiner \uD83E\uDD96\uD83C\uDF97",
+      "name" : "Thomas Steiner",
       "screen_name" : "tomayac",
       "protected" : false,
       "id_str" : "14697496",
@@ -15370,7 +15359,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "44101578",
       "id" : 44101578
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 91, 107 ],
       "id_str" : "24725119",
@@ -15628,7 +15617,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "PopSci",
       "protected" : false,
       "id_str" : "19722699",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/915646486381084672\/y9rvRKcy_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1029084163780079616\/KL96wS4C_normal.jpg",
       "id" : 19722699,
       "verified" : true
     }
@@ -15702,7 +15691,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "697925209391759361",
   "text" : "RT @linuxfoundation: STMicroelectronics released a free embedded Linux IDE for STM32 microcontrollers: https:\/\/t.co\/nbRfzrGdLx #IoT https:\/\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -16299,7 +16288,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "697868591807524864",
   "text" : "RT @superafroman: Coding is boring, unless https:\/\/t.co\/lPvllfBbz7",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -16364,7 +16353,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "697867474818220032",
   "text" : "RT @superafroman: A user interface is like a joke. If you have to explain it, it's not that good - via @startupvitamins #startups https:\/\/t\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ {
         "name" : "Startup Vitamins",
@@ -16624,7 +16613,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "Josu_Goikoetxea",
       "protected" : false,
       "id_str" : "52333578",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/918358890605154304\/cSgIIlJD_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1013879492652216321\/JS06DYwB_normal.jpg",
       "id" : 52333578,
       "verified" : false
     }
@@ -17445,10 +17434,10 @@ Grailbird.data.tweets_2016_02 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Google Research",
-      "screen_name" : "googleresearch",
+      "screen_name" : "GoogleResearch",
       "indices" : [ 0, 15 ],
-      "id_str" : "33838201",
-      "id" : 33838201
+      "id_str" : "860565621452316672",
+      "id" : 860565621452316672
     }, {
       "name" : "Google Cardboard",
       "screen_name" : "googlecardboard",
@@ -18052,7 +18041,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "2DVince",
       "protected" : false,
       "id_str" : "3098695323",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/962084034108121090\/oQXB8N-B_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016703849376120832\/BvEUG2xR_normal.jpg",
       "id" : 3098695323,
       "verified" : false
     }
@@ -18613,7 +18602,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "39475170",
       "id" : 39475170
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 82, 98 ],
       "id_str" : "24725119",
@@ -19491,7 +19480,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "696838983612043264",
   "text" : "RT @AkvileHarlow: Completed #TwitterFlightSchool! Learn more about Twitter ads &amp; see interesting case studies https:\/\/t.co\/iJtjjr7gdX https\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -19547,7 +19536,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "AkvileDeFazio",
       "protected" : false,
       "id_str" : "69960885",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/827984932844679169\/3DPNG3ik_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/983344572930523136\/YIIVZ1PK_normal.jpg",
       "id" : 69960885,
       "verified" : false
     }
@@ -19955,7 +19944,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "696820365125750784",
   "text" : "RT @GlblCtzn: THIS IS AMAZING: $10B raised in single day for Syrian conflict, shattering all records\u2014https:\/\/t.co\/QQh5V1QB4O https:\/\/t.co\/X\u2026",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/sproutsocial.com\" rel=\"nofollow\"\u003ESprout Social\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -20008,7 +19997,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "GlblCtzn",
       "protected" : false,
       "id_str" : "596893898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973247306156953601\/_pqvBwMx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016140732820697088\/QsQV8MOi_normal.jpg",
       "id" : 596893898,
       "verified" : true
     }
@@ -20892,13 +20881,7 @@ Grailbird.data.tweets_2016_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ {
-      "name" : "New Universe Daily",
-      "screen_name" : "NewUniverseD",
-      "indices" : [ 3, 16 ],
-      "id_str" : "140676200",
-      "id" : 140676200
-    } ],
+    "user_mentions" : [ ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/NewUniverseD\/status\/696181717246337024\/photo\/1",
       "indices" : [ 107, 130 ],
@@ -20943,7 +20926,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "696330450202136578",
   "text" : "RT @NewUniverseD: German Fusion Reactor Creates Hydrogen Plasma For the First Time https:\/\/t.co\/HnWeAqu8vy https:\/\/t.co\/BysMAhLqbV",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -20992,11 +20975,11 @@ Grailbird.data.tweets_2016_02 =
     "id" : 696181717246337024,
     "created_at" : "2016-02-07 04:00:30 +0000",
     "user" : {
-      "name" : "New Universe Daily",
-      "screen_name" : "NewUniverseD",
+      "name" : "NatureNET",
+      "screen_name" : "NatureNETzzz",
       "protected" : false,
       "id_str" : "140676200",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/531262864732868608\/uqg2IYOf_normal.png",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1036033739397025792\/aIo_dsbC_normal.jpg",
       "id" : 140676200,
       "verified" : false
     }
@@ -21769,7 +21752,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "2695392493",
       "id" : 2695392493
     }, {
-      "name" : "Jurre",
+      "name" : "Jurre van Bergen",
       "screen_name" : "DrWhax",
       "indices" : [ 12, 19 ],
       "id_str" : "18604878",
@@ -22050,7 +22033,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "695995138154356737",
   "text" : "RT @t3n: Die neue Sortierung f\u00FCr die #Twitter #Timeline muss bei jedem Login neu deaktiviert werden. https:\/\/t.co\/ugFGZE7LqC",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
@@ -26078,7 +26061,7 @@ Grailbird.data.tweets_2016_02 =
   "id_str" : "695534154805604352",
   "text" : "RT @techradar: This Unreal VR editor makes Minecraft look like child's play https:\/\/t.co\/DV1VmhjkNm https:\/\/t.co\/XqeKz0W0d6",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/bufferapp.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/buffer.com\" rel=\"nofollow\"\u003EBuffer\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ {
@@ -26711,7 +26694,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "296426654",
       "id" : 296426654
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 13, 29 ],
       "id_str" : "24725119",
@@ -27041,7 +27024,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "5988062",
       "id" : 5988062
     }, {
-      "name" : "Pussy Riot",
+      "name" : "\uD835\uDD95\uD835\uDD9A\uD835\uDD98\uD835\uDD98\uD835\uDD9E \uD835\uDD97\uD835\uDD8E\uD835\uDD94\uD835\uDD99",
       "screen_name" : "pussyrrriot",
       "indices" : [ 119, 131 ],
       "id_str" : "2479224200",
@@ -27078,7 +27061,7 @@ Grailbird.data.tweets_2016_02 =
         "id_str" : "5988062",
         "id" : 5988062
       }, {
-        "name" : "Pussy Riot",
+        "name" : "\uD835\uDD95\uD835\uDD9A\uD835\uDD98\uD835\uDD98\uD835\uDD9E \uD835\uDD97\uD835\uDD8E\uD835\uDD94\uD835\uDD99",
         "screen_name" : "pussyrrriot",
         "indices" : [ 99, 111 ],
         "id_str" : "2479224200",
@@ -27235,7 +27218,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "BuzzFeedNews",
       "protected" : false,
       "id_str" : "1020058453",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/796353157576138752\/H2xr-NkC_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1019562992403472390\/GwGTPpI1_normal.jpg",
       "id" : 1020058453,
       "verified" : true
     }
@@ -28295,10 +28278,10 @@ Grailbird.data.tweets_2016_02 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Google Research",
-      "screen_name" : "googleresearch",
+      "screen_name" : "GoogleResearch",
       "indices" : [ 42, 57 ],
-      "id_str" : "33838201",
-      "id" : 33838201
+      "id_str" : "860565621452316672",
+      "id" : 860565621452316672
     } ],
     "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/695221056873877505\/photo\/1",
@@ -28825,7 +28808,7 @@ Grailbird.data.tweets_2016_02 =
       "id_str" : "21107582",
       "id" : 21107582
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 17, 33 ],
       "id_str" : "24725119",
@@ -30917,7 +30900,7 @@ Grailbird.data.tweets_2016_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jan B\u00F6hmermann \uD83E\uDD28",
+      "name" : "Jan B\u00F6hmermann \uD83E\uDD28\uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "janboehm",
       "indices" : [ 0, 9 ],
       "id_str" : "19072286",
@@ -31350,7 +31333,7 @@ Grailbird.data.tweets_2016_02 =
       "screen_name" : "HyeonseoLeeNK",
       "protected" : false,
       "id_str" : "479765175",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/817692649897476096\/JhXjDATj_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1009040447933747200\/BPNs6d5n_normal.jpg",
       "id" : 479765175,
       "verified" : false
     }
@@ -31780,10 +31763,10 @@ Grailbird.data.tweets_2016_02 =
       "id" : 300378623
     }, {
       "name" : "Google Research",
-      "screen_name" : "googleresearch",
+      "screen_name" : "GoogleResearch",
       "indices" : [ 91, 106 ],
-      "id_str" : "33838201",
-      "id" : 33838201
+      "id_str" : "860565621452316672",
+      "id" : 860565621452316672
     } ],
     "media" : [ ],
     "hashtags" : [ ],

@@ -4,6 +4,3261 @@ Grailbird.data.tweets_2018_02 =
   "entities" : {
     "user_mentions" : [ ],
     "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969057089535533056\/photo\/1",
+      "indices" : [ 10, 33 ],
+      "url" : "https:\/\/t.co\/1zmEXuLyVi",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLIBQpWkAAeBtR.jpg",
+      "id_str" : "969056793811914752",
+      "id" : 969056793811914752,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLIBQpWkAAeBtR.jpg",
+      "sizes" : [ {
+        "h" : 110,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 157,
+        "resize" : "fit",
+        "w" : 1705
+      }, {
+        "h" : 63,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 157,
+        "resize" : "fit",
+        "w" : 1705
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/1zmEXuLyVi"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969057089535533056\/photo\/1",
+      "indices" : [ 10, 33 ],
+      "url" : "https:\/\/t.co\/1zmEXuLyVi",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLIIscXkAEj8dU.jpg",
+      "id_str" : "969056921532731393",
+      "id" : 969056921532731393,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLIIscXkAEj8dU.jpg",
+      "sizes" : [ {
+        "h" : 942,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 942,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 942,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 534,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/1zmEXuLyVi"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969057089535533056\/photo\/1",
+      "indices" : [ 10, 33 ],
+      "url" : "https:\/\/t.co\/1zmEXuLyVi",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLIPz3X4AA4gmi.jpg",
+      "id_str" : "969057043784130560",
+      "id" : 969057043784130560,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLIPz3X4AA4gmi.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 469,
+        "resize" : "fit",
+        "w" : 570
+      }, {
+        "h" : 469,
+        "resize" : "fit",
+        "w" : 570
+      }, {
+        "h" : 469,
+        "resize" : "fit",
+        "w" : 570
+      }, {
+        "h" : 469,
+        "resize" : "fit",
+        "w" : 570
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/1zmEXuLyVi"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969055223992987650",
+  "geo" : { },
+  "id_str" : "969057089535533056",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "oO really https:\/\/t.co\/1zmEXuLyVi",
+  "id" : 969057089535533056,
+  "in_reply_to_status_id" : 969055223992987650,
+  "created_at" : "2018-03-01 03:49:49 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969055223992987650\/photo\/1",
+      "indices" : [ 25, 48 ],
+      "url" : "https:\/\/t.co\/QZhiqF9XQK",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLGii2X0AIUJ0d.jpg",
+      "id_str" : "969055166610788354",
+      "id" : 969055166610788354,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLGii2X0AIUJ0d.jpg",
+      "sizes" : [ {
+        "h" : 66,
+        "resize" : "crop",
+        "w" : 66
+      }, {
+        "h" : 66,
+        "resize" : "fit",
+        "w" : 1318
+      }, {
+        "h" : 66,
+        "resize" : "fit",
+        "w" : 1318
+      }, {
+        "h" : 34,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 60,
+        "resize" : "fit",
+        "w" : 1200
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/QZhiqF9XQK"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969054435879071744",
+  "geo" : { },
+  "id_str" : "969055223992987650",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "Meanwhile some crops ..? https:\/\/t.co\/QZhiqF9XQK",
+  "id" : 969055223992987650,
+  "in_reply_to_status_id" : 969054435879071744,
+  "created_at" : "2018-03-01 03:42:24 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969054435879071744\/photo\/1",
+      "indices" : [ 12, 35 ],
+      "url" : "https:\/\/t.co\/KyIC5jXMCv",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLFzqNWsAA_2bN.jpg",
+      "id_str" : "969054361132380160",
+      "id" : 969054361132380160,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLFzqNWsAA_2bN.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 573
+      }, {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 573
+      }, {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 573
+      }, {
+        "h" : 500,
+        "resize" : "fit",
+        "w" : 573
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/KyIC5jXMCv"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969054435879071744\/photo\/1",
+      "indices" : [ 12, 35 ],
+      "url" : "https:\/\/t.co\/KyIC5jXMCv",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLFzrKX0AAomj4.jpg",
+      "id_str" : "969054361388306432",
+      "id" : 969054361388306432,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLFzrKX0AAomj4.jpg",
+      "sizes" : [ {
+        "h" : 451,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 531,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 531,
+        "resize" : "fit",
+        "w" : 800
+      }, {
+        "h" : 531,
+        "resize" : "fit",
+        "w" : 800
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/KyIC5jXMCv"
+    } ],
+    "hashtags" : [ {
+      "text" : "pragmatism",
+      "indices" : [ 0, 11 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969054126981120001",
+  "geo" : { },
+  "id_str" : "969054435879071744",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#pragmatism https:\/\/t.co\/KyIC5jXMCv",
+  "id" : 969054435879071744,
+  "in_reply_to_status_id" : 969054126981120001,
+  "created_at" : "2018-03-01 03:39:16 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969053895782748163",
+  "geo" : { },
+  "id_str" : "969054126981120001",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: What do you do with an airport without aircrafts ...?",
+  "id" : 969054126981120001,
+  "in_reply_to_status_id" : 969053895782748163,
+  "created_at" : "2018-03-01 03:38:02 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969053895782748163\/photo\/1",
+      "indices" : [ 37, 60 ],
+      "url" : "https:\/\/t.co\/349G4fBg6j",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLFVPYWkAA3znC.jpg",
+      "id_str" : "969053838534676480",
+      "id" : 969053838534676480,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLFVPYWkAA3znC.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 3074,
+        "resize" : "fit",
+        "w" : 4096
+      }, {
+        "h" : 901,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1537,
+        "resize" : "fit",
+        "w" : 2048
+      }, {
+        "h" : 510,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/349G4fBg6j"
+    } ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    }, {
+      "text" : "BER",
+      "indices" : [ 31, 35 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969053609890648064",
+  "geo" : { },
+  "id_str" : "969053895782748163",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: How many m\u00B2 has the #BER? https:\/\/t.co\/349G4fBg6j",
+  "id" : 969053895782748163,
+  "in_reply_to_status_id" : 969053609890648064,
+  "created_at" : "2018-03-01 03:37:07 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969053609890648064\/photo\/1",
+      "indices" : [ 42, 65 ],
+      "url" : "https:\/\/t.co\/sa6yfm6du7",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLFFKhWAAAUu8z.jpg",
+      "id_str" : "969053562352304128",
+      "id" : 969053562352304128,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLFFKhWAAAUu8z.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/sa6yfm6du7"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969053609890648064\/photo\/1",
+      "indices" : [ 42, 65 ],
+      "url" : "https:\/\/t.co\/sa6yfm6du7",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLFGb8XUAM59Ls.jpg",
+      "id_str" : "969053584208908291",
+      "id" : 969053584208908291,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLFGb8XUAM59Ls.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/sa6yfm6du7"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969053609890648064\/photo\/1",
+      "indices" : [ 42, 65 ],
+      "url" : "https:\/\/t.co\/sa6yfm6du7",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLFHSiXcAA-I6O.jpg",
+      "id_str" : "969053598863814656",
+      "id" : 969053598863814656,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLFHSiXcAA-I6O.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/sa6yfm6du7"
+    } ],
+    "hashtags" : [ {
+      "text" : "Wikipedia",
+      "indices" : [ 7, 17 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 18, 41 ],
+      "url" : "https:\/\/t.co\/Wy1xA1MACr",
+      "expanded_url" : "https:\/\/de.wikipedia.org\/wiki\/2000m%C2%B2",
+      "display_url" : "de.wikipedia.org\/wiki\/2000m%C2%\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969052225556316160",
+  "geo" : { },
+  "id_str" : "969053609890648064",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "2000m\u00B2 #Wikipedia\nhttps:\/\/t.co\/Wy1xA1MACr https:\/\/t.co\/sa6yfm6du7",
+  "id" : 969053609890648064,
+  "in_reply_to_status_id" : 969052225556316160,
+  "created_at" : "2018-03-01 03:35:59 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    }, {
+      "text" : "Question",
+      "indices" : [ 56, 65 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969052026041786368",
+  "geo" : { },
+  "id_str" : "969052225556316160",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: How many hobby gardeners measure their soil?\n#Question: How many rotate their seeds?",
+  "id" : 969052225556316160,
+  "in_reply_to_status_id" : 969052026041786368,
+  "created_at" : "2018-03-01 03:30:29 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969052026041786368\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/l3NsOB8abJ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLDmhCW0AAiB2l.jpg",
+      "id_str" : "969051936308776960",
+      "id" : 969051936308776960,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLDmhCW0AAiB2l.jpg",
+      "sizes" : [ {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/l3NsOB8abJ"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969052026041786368\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/l3NsOB8abJ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLDoEVXcAA7Ejq.jpg",
+      "id_str" : "969051962963619840",
+      "id" : 969051962963619840,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLDoEVXcAA7Ejq.jpg",
+      "sizes" : [ {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/l3NsOB8abJ"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969052026041786368\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/l3NsOB8abJ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLDpplX4AEuIN-.jpg",
+      "id_str" : "969051990142738433",
+      "id" : 969051990142738433,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLDpplX4AEuIN-.jpg",
+      "sizes" : [ {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/l3NsOB8abJ"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969052026041786368\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/l3NsOB8abJ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXLDq_DX4AADcXn.jpg",
+      "id_str" : "969052013085581312",
+      "id" : 969052013085581312,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXLDq_DX4AADcXn.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/l3NsOB8abJ"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969051762916315136",
+  "geo" : { },
+  "id_str" : "969052026041786368",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/l3NsOB8abJ",
+  "id" : 969052026041786368,
+  "in_reply_to_status_id" : 969051762916315136,
+  "created_at" : "2018-03-01 03:29:41 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "bacteria",
+      "indices" : [ 0, 9 ]
+    }, {
+      "text" : "symbiosis",
+      "indices" : [ 10, 20 ]
+    }, {
+      "text" : "nitrogen",
+      "indices" : [ 21, 30 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 32, 55 ],
+      "url" : "https:\/\/t.co\/tW8N6hWqFk",
+      "expanded_url" : "http:\/\/Pflanzenforschung.de",
+      "display_url" : "Pflanzenforschung.de"
+    }, {
+      "indices" : [ 116, 139 ],
+      "url" : "https:\/\/t.co\/RT1h5ejbLD",
+      "expanded_url" : "http:\/\/www.pflanzenforschung.de\/de\/journal\/journalbeitrage\/gelingt-der-forschung-eine-zweite-stickstoff-revolution-10012",
+      "display_url" : "pflanzenforschung.de\/de\/journal\/jou\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969048548049412096",
+  "geo" : { },
+  "id_str" : "969051762916315136",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#bacteria #symbiosis #nitrogen \nhttps:\/\/t.co\/tW8N6hWqFk :: Gelingt der Forschung eine zweite Stickstoff-Revolution? https:\/\/t.co\/RT1h5ejbLD",
+  "id" : 969051762916315136,
+  "in_reply_to_status_id" : 969048548049412096,
+  "created_at" : "2018-03-01 03:28:39 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969048548049412096\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/XBmP9sRCv4",
+      "media_url" : "http:\/\/pbs.twimg.com\/tweet_video_thumb\/DXLAfetX0AA0t1p.jpg",
+      "id_str" : "969048516889923584",
+      "id" : 969048516889923584,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/tweet_video_thumb\/DXLAfetX0AA0t1p.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 224
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 224
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 224
+      }, {
+        "h" : 400,
+        "resize" : "fit",
+        "w" : 224
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/XBmP9sRCv4"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969047771171950592",
+  "geo" : { },
+  "id_str" : "969048548049412096",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/XBmP9sRCv4",
+  "id" : 969048548049412096,
+  "in_reply_to_status_id" : 969047771171950592,
+  "created_at" : "2018-03-01 03:15:52 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969047771171950592\/photo\/1",
+      "indices" : [ 18, 41 ],
+      "url" : "https:\/\/t.co\/DDuG87UEay",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXK_y0KW4AEZSTs.jpg",
+      "id_str" : "969047749554528257",
+      "id" : 969047749554528257,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXK_y0KW4AEZSTs.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 307,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 307,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 307,
+        "resize" : "fit",
+        "w" : 600
+      }, {
+        "h" : 307,
+        "resize" : "fit",
+        "w" : 600
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/DDuG87UEay"
+    } ],
+    "hashtags" : [ {
+      "text" : "interesting",
+      "indices" : [ 0, 12 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969047463742136321",
+  "geo" : { },
+  "id_str" : "969047771171950592",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#interesting view https:\/\/t.co\/DDuG87UEay",
+  "id" : 969047771171950592,
+  "in_reply_to_status_id" : 969047463742136321,
+  "created_at" : "2018-03-01 03:12:47 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969047463742136321\/photo\/1",
+      "indices" : [ 45, 68 ],
+      "url" : "https:\/\/t.co\/YC1MazhBZn",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXK_bCEXcAAdUiX.jpg",
+      "id_str" : "969047340970635264",
+      "id" : 969047340970635264,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXK_bCEXcAAdUiX.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/YC1MazhBZn"
+    } ],
+    "hashtags" : [ {
+      "text" : "nitrogen",
+      "indices" : [ 0, 9 ]
+    }, {
+      "text" : "lightning",
+      "indices" : [ 10, 20 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 21, 44 ],
+      "url" : "https:\/\/t.co\/wqvVvEzfDg",
+      "expanded_url" : "http:\/\/www.bbc.co.uk\/schools\/gcsebitesize\/science\/add_ocr_pre_2011\/chemicals\/biocompoundsrev4.shtml",
+      "display_url" : "bbc.co.uk\/schools\/gcsebi\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969046516949291008",
+  "geo" : { },
+  "id_str" : "969047463742136321",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#nitrogen #lightning\nhttps:\/\/t.co\/wqvVvEzfDg https:\/\/t.co\/YC1MazhBZn",
+  "id" : 969047463742136321,
+  "in_reply_to_status_id" : 969046516949291008,
+  "created_at" : "2018-03-01 03:11:34 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969046516949291008\/photo\/1",
+      "indices" : [ 24, 47 ],
+      "url" : "https:\/\/t.co\/5qWuUVu9yu",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXK-oQUW4AAgvVC.jpg",
+      "id_str" : "969046468622475264",
+      "id" : 969046468622475264,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXK-oQUW4AAgvVC.jpg",
+      "sizes" : [ {
+        "h" : 143,
+        "resize" : "crop",
+        "w" : 143
+      }, {
+        "h" : 70,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 143,
+        "resize" : "fit",
+        "w" : 1380
+      }, {
+        "h" : 143,
+        "resize" : "fit",
+        "w" : 1380
+      }, {
+        "h" : 124,
+        "resize" : "fit",
+        "w" : 1200
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/5qWuUVu9yu"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/jDd4Xlwa2Y",
+      "expanded_url" : "https:\/\/en.wikipedia.org\/wiki\/Bubble_(physics)#cite_note-1",
+      "display_url" : "en.wikipedia.org\/wiki\/Bubble_(p\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969045580017225728",
+  "geo" : { },
+  "id_str" : "969046516949291008",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/jDd4Xlwa2Y https:\/\/t.co\/5qWuUVu9yu",
+  "id" : 969046516949291008,
+  "in_reply_to_status_id" : 969045580017225728,
+  "created_at" : "2018-03-01 03:07:48 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969045258322501632",
+  "geo" : { },
+  "id_str" : "969045580017225728",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: What happens when you create meanwhile a high voltage in this space(like for a flash, corona discharge)?",
+  "id" : 969045580017225728,
+  "in_reply_to_status_id" : 969045258322501632,
+  "created_at" : "2018-03-01 03:04:04 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "YouTube",
+      "screen_name" : "YouTube",
+      "indices" : [ 125, 133 ],
+      "id_str" : "10228272",
+      "id" : 10228272
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "vortex",
+      "indices" : [ 0, 7 ]
+    }, {
+      "text" : "ultrasound",
+      "indices" : [ 8, 19 ]
+    }, {
+      "text" : "spin",
+      "indices" : [ 20, 25 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 97, 120 ],
+      "url" : "https:\/\/t.co\/2PPvspZOSk",
+      "expanded_url" : "https:\/\/youtu.be\/gHAe4FFHtB0",
+      "display_url" : "youtu.be\/gHAe4FFHtB0"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969044573824667648",
+  "geo" : { },
+  "id_str" : "969045258322501632",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#vortex #ultrasound #spin\nScientists Just Used a Tractor Beam to Levitate the Largest Object Yet https:\/\/t.co\/2PPvspZOSk via @YouTube",
+  "id" : 969045258322501632,
+  "in_reply_to_status_id" : 969044573824667648,
+  "created_at" : "2018-03-01 03:02:48 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969044573824667648\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/cry1lgsh2y",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXK85RbW0AA2laK.jpg",
+      "id_str" : "969044561954787328",
+      "id" : 969044561954787328,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXK85RbW0AA2laK.jpg",
+      "sizes" : [ {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/cry1lgsh2y"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969044407084298240",
+  "geo" : { },
+  "id_str" : "969044573824667648",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/cry1lgsh2y",
+  "id" : 969044573824667648,
+  "in_reply_to_status_id" : 969044407084298240,
+  "created_at" : "2018-03-01 03:00:05 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Meredith Perry",
+      "screen_name" : "meredithperry",
+      "indices" : [ 36, 50 ],
+      "id_str" : "26609111",
+      "id" : 26609111
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "interesting",
+      "indices" : [ 0, 12 ]
+    }, {
+      "text" : "ultrasound",
+      "indices" : [ 13, 24 ]
+    }, {
+      "text" : "molecules",
+      "indices" : [ 25, 35 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 52, 75 ],
+      "url" : "https:\/\/t.co\/lDqH3lec97",
+      "expanded_url" : "http:\/\/www.nature.com\/news\/2007\/070321\/full\/news070319-8.html",
+      "display_url" : "nature.com\/news\/2007\/0703\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969043559507808258",
+  "geo" : { },
+  "id_str" : "969044407084298240",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#interesting #ultrasound #molecules @meredithperry \nhttps:\/\/t.co\/lDqH3lec97",
+  "id" : 969044407084298240,
+  "in_reply_to_status_id" : 969043559507808258,
+  "created_at" : "2018-03-01 02:59:25 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "TaxMoney",
+      "indices" : [ 0, 9 ]
+    }, {
+      "text" : "open",
+      "indices" : [ 16, 21 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969043431745048576",
+  "geo" : { },
+  "id_str" : "969043559507808258",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#TaxMoney -&gt; #open",
+  "id" : 969043559507808258,
+  "in_reply_to_status_id" : 969043431745048576,
+  "created_at" : "2018-03-01 02:56:03 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969043431745048576\/photo\/1",
+      "indices" : [ 45, 68 ],
+      "url" : "https:\/\/t.co\/efUPIqxAv3",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXK7zxcWAAA8jQK.jpg",
+      "id_str" : "969043367958020096",
+      "id" : 969043367958020096,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXK7zxcWAAA8jQK.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "fit",
+        "w" : 618
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 150,
+        "resize" : "fit",
+        "w" : 618
+      }, {
+        "h" : 150,
+        "resize" : "fit",
+        "w" : 618
+      }, {
+        "h" : 150,
+        "resize" : "fit",
+        "w" : 618
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/efUPIqxAv3"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969042996577652737",
+  "geo" : { },
+  "id_str" : "969043431745048576",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "... energy ... compost ... filament ... etc. https:\/\/t.co\/efUPIqxAv3",
+  "id" : 969043431745048576,
+  "in_reply_to_status_id" : 969042996577652737,
+  "created_at" : "2018-03-01 02:55:32 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969042996577652737\/photo\/1",
+      "indices" : [ 31, 54 ],
+      "url" : "https:\/\/t.co\/P00bzZmA2x",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXK7dseW4AA8srz.jpg",
+      "id_str" : "969042988667166720",
+      "id" : 969042988667166720,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXK7dseW4AA8srz.jpg",
+      "sizes" : [ {
+        "h" : 265,
+        "resize" : "fit",
+        "w" : 642
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 265,
+        "resize" : "fit",
+        "w" : 642
+      }, {
+        "h" : 265,
+        "resize" : "fit",
+        "w" : 642
+      }, {
+        "h" : 265,
+        "resize" : "fit",
+        "w" : 642
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/P00bzZmA2x"
+    } ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    }, {
+      "text" : "OpenScience",
+      "indices" : [ 11, 23 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969042593756733440",
+  "geo" : { },
+  "id_str" : "969042996577652737",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: #OpenScience links? https:\/\/t.co\/P00bzZmA2x",
+  "id" : 969042996577652737,
+  "in_reply_to_status_id" : 969042593756733440,
+  "created_at" : "2018-03-01 02:53:48 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 65, 88 ],
+      "url" : "https:\/\/t.co\/WvQ635ykx9",
+      "expanded_url" : "https:\/\/www.hna.de\/lokales\/rotenburg-bebra\/rotenburg-fulda-ort305317\/algen-saeubern-rotenburger-klaeranlage-abwasser-6542506.html",
+      "display_url" : "hna.de\/lokales\/rotenb\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969041488830173184",
+  "geo" : { },
+  "id_str" : "969042593756733440",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "Zwischenbilanz: Algen s\u00E4ubern in Rotenburger Kl\u00E4ranlage Abwasser https:\/\/t.co\/WvQ635ykx9",
+  "id" : 969042593756733440,
+  "in_reply_to_status_id" : 969041488830173184,
+  "created_at" : "2018-03-01 02:52:12 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    }, {
+      "text" : "algae",
+      "indices" : [ 29, 35 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969040897647276037",
+  "geo" : { },
+  "id_str" : "969041488830173184",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: Do defecators use #algae?",
+  "id" : 969041488830173184,
+  "in_reply_to_status_id" : 969040897647276037,
+  "created_at" : "2018-03-01 02:47:49 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969040897647276037\/photo\/1",
+      "indices" : [ 49, 72 ],
+      "url" : "https:\/\/t.co\/xQX1i1nV1l",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXK5UJ0X4AAGRH8.jpg",
+      "id_str" : "969040625722187776",
+      "id" : 969040625722187776,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXK5UJ0X4AAGRH8.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/xQX1i1nV1l"
+    } ],
+    "hashtags" : [ {
+      "text" : "algae",
+      "indices" : [ 0, 6 ]
+    }, {
+      "text" : "nitrogen",
+      "indices" : [ 7, 16 ]
+    }, {
+      "text" : "growth",
+      "indices" : [ 17, 24 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 25, 48 ],
+      "url" : "https:\/\/t.co\/LWbYRkXHlV",
+      "expanded_url" : "http:\/\/dryas.mbl.edu\/Research\/Clue\/nproblem.html",
+      "display_url" : "dryas.mbl.edu\/Research\/Clue\/\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969040001261555712",
+  "geo" : { },
+  "id_str" : "969040897647276037",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#algae #nitrogen #growth\nhttps:\/\/t.co\/LWbYRkXHlV https:\/\/t.co\/xQX1i1nV1l",
+  "id" : 969040897647276037,
+  "in_reply_to_status_id" : 969040001261555712,
+  "created_at" : "2018-03-01 02:45:28 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ResourceNeedsInvestigation",
+      "indices" : [ 0, 27 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 61, 84 ],
+      "url" : "https:\/\/t.co\/adduU55nN6",
+      "expanded_url" : "https:\/\/www.hobbyfarms.com\/4-foods-that-boost-soil-nitrogen-2\/",
+      "display_url" : "hobbyfarms.com\/4-foods-that-b\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969038505266511876",
+  "geo" : { },
+  "id_str" : "969040001261555712",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#ResourceNeedsInvestigation\n4 Foods that Boost Soil Nitrogen https:\/\/t.co\/adduU55nN6",
+  "id" : 969040001261555712,
+  "in_reply_to_status_id" : 969038505266511876,
+  "created_at" : "2018-03-01 02:41:54 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "ntv",
+      "screen_name" : "ntvde",
+      "indices" : [ 117, 123 ],
+      "id_str" : "19232587",
+      "id" : 19232587
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "ResourceNeedsInvestigation",
+      "indices" : [ 0, 27 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 89, 112 ],
+      "url" : "https:\/\/t.co\/xWvhRN3SXU",
+      "expanded_url" : "https:\/\/www.n-tv.de\/4208556",
+      "display_url" : "n-tv.de\/4208556"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969036490562002944",
+  "geo" : { },
+  "id_str" : "969038505266511876",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#ResourceNeedsInvestigation\nLehrbuchwissen auf den Kopf gestellt: Gestein d\u00FCngt Pflanzen https:\/\/t.co\/xWvhRN3SXU via @ntvde",
+  "id" : 969038505266511876,
+  "in_reply_to_status_id" : 969036490562002944,
+  "created_at" : "2018-03-01 02:35:58 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969036490562002944\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/iy28PGXlU3",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXK1jCjXkAEtMiX.jpg",
+      "id_str" : "969036483423342593",
+      "id" : 969036483423342593,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXK1jCjXkAEtMiX.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 534,
+        "resize" : "fit",
+        "w" : 1052
+      }, {
+        "h" : 534,
+        "resize" : "fit",
+        "w" : 1052
+      }, {
+        "h" : 345,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 534,
+        "resize" : "fit",
+        "w" : 1052
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/iy28PGXlU3"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969035844144320513",
+  "geo" : { },
+  "id_str" : "969036490562002944",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/iy28PGXlU3",
+  "id" : 969036490562002944,
+  "in_reply_to_status_id" : 969035844144320513,
+  "created_at" : "2018-03-01 02:27:57 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969035844144320513\/photo\/1",
+      "indices" : [ 41, 64 ],
+      "url" : "https:\/\/t.co\/k5anPQ0Eoc",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXK062TXUAA3mEs.jpg",
+      "id_str" : "969035792940224512",
+      "id" : 969035792940224512,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXK062TXUAA3mEs.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/k5anPQ0Eoc"
+    } ],
+    "hashtags" : [ {
+      "text" : "algae",
+      "indices" : [ 0, 6 ]
+    }, {
+      "text" : "nitrogen",
+      "indices" : [ 7, 16 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 17, 40 ],
+      "url" : "https:\/\/t.co\/05Y6mihORm",
+      "expanded_url" : "https:\/\/biocyclopedia.com\/index\/algae\/biogeochemical_role_of_algae\/algae_and_the_nitrogen_cycle.php",
+      "display_url" : "biocyclopedia.com\/index\/algae\/bi\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969035203384668160",
+  "geo" : { },
+  "id_str" : "969035844144320513",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#algae #nitrogen\nhttps:\/\/t.co\/05Y6mihORm https:\/\/t.co\/k5anPQ0Eoc",
+  "id" : 969035844144320513,
+  "in_reply_to_status_id" : 969035203384668160,
+  "created_at" : "2018-03-01 02:25:23 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969035203384668160\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/9stdm0pLQs",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXK0YGoXkAAevN0.jpg",
+      "id_str" : "969035196027867136",
+      "id" : 969035196027867136,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXK0YGoXkAAevN0.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 465,
+        "resize" : "fit",
+        "w" : 675
+      }, {
+        "h" : 465,
+        "resize" : "fit",
+        "w" : 675
+      }, {
+        "h" : 465,
+        "resize" : "fit",
+        "w" : 675
+      }, {
+        "h" : 465,
+        "resize" : "fit",
+        "w" : 675
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/9stdm0pLQs"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969034790967103488",
+  "geo" : { },
+  "id_str" : "969035203384668160",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/9stdm0pLQs",
+  "id" : 969035203384668160,
+  "in_reply_to_status_id" : 969034790967103488,
+  "created_at" : "2018-03-01 02:22:50 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Q",
+      "indices" : [ 0, 2 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969034626260971520",
+  "geo" : { },
+  "id_str" : "969034790967103488",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Q: tree-compost?",
+  "id" : 969034790967103488,
+  "in_reply_to_status_id" : 969034626260971520,
+  "created_at" : "2018-03-01 02:21:12 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969034390272724992",
+  "geo" : { },
+  "id_str" : "969034626260971520",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: roots\/fungi-sys -&gt; support for crops possible?",
+  "id" : 969034626260971520,
+  "in_reply_to_status_id" : 969034390272724992,
+  "created_at" : "2018-03-01 02:20:33 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "nitrogen",
+      "indices" : [ 2, 11 ]
+    }, {
+      "text" : "tree",
+      "indices" : [ 14, 19 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 123, 146 ],
+      "url" : "https:\/\/t.co\/O7NyQoNEZb",
+      "expanded_url" : "http:\/\/www.spektrum.de\/news\/pflanzen-nehmen-luft-stickoxide-auf-und-verbauen-sie\/965244",
+      "display_url" : "spektrum.de\/news\/pflanzen-\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969031545741864960",
+  "geo" : { },
+  "id_str" : "969034390272724992",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "\" #nitrogen \" #tree \nStickstoffkreislauf: Pflanzen nehmen Luft-Stickoxide auf und verbauen sie - Spektrum der Wissenschaft https:\/\/t.co\/O7NyQoNEZb",
+  "id" : 969034390272724992,
+  "in_reply_to_status_id" : 969031545741864960,
+  "created_at" : "2018-03-01 02:19:37 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969030908702613505",
+  "geo" : { },
+  "id_str" : "969031545741864960",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: How much meat is thrown away?",
+  "id" : 969031545741864960,
+  "in_reply_to_status_id" : 969030908702613505,
+  "created_at" : "2018-03-01 02:08:18 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969030733426839553",
+  "geo" : { },
+  "id_str" : "969030908702613505",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: Who eats every day meat? oO",
+  "id" : 969030908702613505,
+  "in_reply_to_status_id" : 969030733426839553,
+  "created_at" : "2018-03-01 02:05:47 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969030733426839553\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/rrF228gina",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKwTrtXcAA18pg.jpg",
+      "id_str" : "969030722035085312",
+      "id" : 969030722035085312,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKwTrtXcAA18pg.jpg",
+      "sizes" : [ {
+        "h" : 107,
+        "resize" : "fit",
+        "w" : 624
+      }, {
+        "h" : 107,
+        "resize" : "fit",
+        "w" : 624
+      }, {
+        "h" : 107,
+        "resize" : "crop",
+        "w" : 107
+      }, {
+        "h" : 107,
+        "resize" : "fit",
+        "w" : 624
+      }, {
+        "h" : 107,
+        "resize" : "fit",
+        "w" : 624
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/rrF228gina"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969030418505916418",
+  "geo" : { },
+  "id_str" : "969030733426839553",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/rrF228gina",
+  "id" : 969030733426839553,
+  "in_reply_to_status_id" : 969030418505916418,
+  "created_at" : "2018-03-01 02:05:05 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "YouTube",
+      "screen_name" : "YouTube",
+      "indices" : [ 104, 112 ],
+      "id_str" : "10228272",
+      "id" : 10228272
+    } ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 76, 99 ],
+      "url" : "https:\/\/t.co\/xOxpWstg1N",
+      "expanded_url" : "https:\/\/youtu.be\/n9zJ_UqduBw",
+      "display_url" : "youtu.be\/n9zJ_UqduBw"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969029778425737216",
+  "geo" : { },
+  "id_str" : "969030418505916418",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "2000m\u00B2 - your global share of land and food | Luise K\u00F6rner | TEDxBerlinS... https:\/\/t.co\/xOxpWstg1N via @YouTube",
+  "id" : 969030418505916418,
+  "in_reply_to_status_id" : 969029778425737216,
+  "created_at" : "2018-03-01 02:03:50 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Luise K\u00F6rner",
+      "screen_name" : "LuiseKoerner",
+      "indices" : [ 44, 57 ],
+      "id_str" : "2169080514",
+      "id" : 2169080514
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969029662365114368",
+  "geo" : { },
+  "id_str" : "969029778425737216",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: What's about crops from forests? @LuiseKoerner",
+  "id" : 969029778425737216,
+  "in_reply_to_status_id" : 969029662365114368,
+  "created_at" : "2018-03-01 02:01:17 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "Luise K\u00F6rner",
+      "screen_name" : "LuiseKoerner",
+      "indices" : [ 266, 279 ],
+      "id_str" : "2169080514",
+      "id" : 2169080514
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    }, {
+      "text" : "Q",
+      "indices" : [ 56, 58 ]
+    }, {
+      "text" : "Q",
+      "indices" : [ 100, 102 ]
+    }, {
+      "text" : "Question",
+      "indices" : [ 188, 197 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969028984003579904",
+  "geo" : { },
+  "id_str" : "969029662365114368",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: What's about the crops from fruits of trees?\n#Q: What's about vertical gardens at trees?\n#Q: What's about living space gardens (balcony, windows, ceilings,..) from the persons?\n#Question: What's about algae-pipes,algae roofs on top of the soil-crop-area? @LuiseKoerner",
+  "id" : 969029662365114368,
+  "in_reply_to_status_id" : 969028984003579904,
+  "created_at" : "2018-03-01 02:00:49 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 35, 58 ],
+      "url" : "https:\/\/t.co\/FJQQr0rZIn",
+      "expanded_url" : "http:\/\/www.zeit.de\/video\/2015-08\/4405403962001\/experiment-wie-viel-acker-braucht-ein-mensch",
+      "display_url" : "zeit.de\/video\/2015-08\/\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969025007891427328",
+  "geo" : { },
+  "id_str" : "969028984003579904",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "Wie viel Acker braucht ein Mensch? https:\/\/t.co\/FJQQr0rZIn",
+  "id" : 969028984003579904,
+  "in_reply_to_status_id" : 969025007891427328,
+  "created_at" : "2018-03-01 01:58:08 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    }, {
+      "text" : "Moral",
+      "indices" : [ 11, 17 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 19, 42 ],
+      "url" : "https:\/\/t.co\/OiEGCcCuD6",
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969022508082003968",
+      "display_url" : "twitter.com\/MechTech4\/stat\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969024911548276745",
+  "geo" : { },
+  "id_str" : "969025007891427328",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: #Moral?\nhttps:\/\/t.co\/OiEGCcCuD6",
+  "id" : 969025007891427328,
+  "in_reply_to_status_id" : 969024911548276745,
+  "created_at" : "2018-03-01 01:42:20 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969024911548276745\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/nCGyBQO7BH",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKrBDpX4AAnLBu.jpg",
+      "id_str" : "969024904485134336",
+      "id" : 969024904485134336,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKrBDpX4AAnLBu.jpg",
+      "sizes" : [ {
+        "h" : 100,
+        "resize" : "crop",
+        "w" : 100
+      }, {
+        "h" : 100,
+        "resize" : "fit",
+        "w" : 618
+      }, {
+        "h" : 100,
+        "resize" : "fit",
+        "w" : 618
+      }, {
+        "h" : 100,
+        "resize" : "fit",
+        "w" : 618
+      }, {
+        "h" : 100,
+        "resize" : "fit",
+        "w" : 618
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/nCGyBQO7BH"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969024679850725377",
+  "geo" : { },
+  "id_str" : "969024911548276745",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/nCGyBQO7BH",
+  "id" : 969024911548276745,
+  "in_reply_to_status_id" : 969024679850725377,
+  "created_at" : "2018-03-01 01:41:57 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969024679850725377\/photo\/1",
+      "indices" : [ 9, 32 ],
+      "url" : "https:\/\/t.co\/D6joGp7CVz",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKqzf-WAAAHIRt.jpg",
+      "id_str" : "969024671571116032",
+      "id" : 969024671571116032,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKqzf-WAAAHIRt.jpg",
+      "sizes" : [ {
+        "h" : 80,
+        "resize" : "fit",
+        "w" : 626
+      }, {
+        "h" : 80,
+        "resize" : "crop",
+        "w" : 80
+      }, {
+        "h" : 80,
+        "resize" : "fit",
+        "w" : 626
+      }, {
+        "h" : 80,
+        "resize" : "fit",
+        "w" : 626
+      }, {
+        "h" : 80,
+        "resize" : "fit",
+        "w" : 626
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/D6joGp7CVz"
+    } ],
+    "hashtags" : [ {
+      "text" : "problem",
+      "indices" : [ 0, 8 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969023954991099906",
+  "geo" : { },
+  "id_str" : "969024679850725377",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#problem https:\/\/t.co\/D6joGp7CVz",
+  "id" : 969024679850725377,
+  "in_reply_to_status_id" : 969023954991099906,
+  "created_at" : "2018-03-01 01:41:01 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969023954991099906\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/vAGjXdJQu1",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKqJaGWAAEjzt9.jpg",
+      "id_str" : "969023948439552001",
+      "id" : 969023948439552001,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKqJaGWAAEjzt9.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 163,
+        "resize" : "fit",
+        "w" : 620
+      }, {
+        "h" : 163,
+        "resize" : "fit",
+        "w" : 620
+      }, {
+        "h" : 163,
+        "resize" : "fit",
+        "w" : 620
+      }, {
+        "h" : 163,
+        "resize" : "fit",
+        "w" : 620
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/vAGjXdJQu1"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969023809394282501",
+  "geo" : { },
+  "id_str" : "969023954991099906",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/vAGjXdJQu1",
+  "id" : 969023954991099906,
+  "in_reply_to_status_id" : 969023809394282501,
+  "created_at" : "2018-03-01 01:38:09 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969023809394282501\/photo\/1",
+      "indices" : [ 29, 52 ],
+      "url" : "https:\/\/t.co\/rYBUR2KEka",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKqA7dXkAEr_w8.jpg",
+      "id_str" : "969023802775670785",
+      "id" : 969023802775670785,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKqA7dXkAEr_w8.jpg",
+      "sizes" : [ {
+        "h" : 232,
+        "resize" : "fit",
+        "w" : 615
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 232,
+        "resize" : "fit",
+        "w" : 615
+      }, {
+        "h" : 232,
+        "resize" : "fit",
+        "w" : 615
+      }, {
+        "h" : 232,
+        "resize" : "fit",
+        "w" : 615
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/rYBUR2KEka"
+    } ],
+    "hashtags" : [ {
+      "text" : "intelligent",
+      "indices" : [ 0, 12 ]
+    }, {
+      "text" : "autonomous",
+      "indices" : [ 17, 28 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969023230378958850",
+  "geo" : { },
+  "id_str" : "969023809394282501",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#intelligent and #autonomous https:\/\/t.co\/rYBUR2KEka",
+  "id" : 969023809394282501,
+  "in_reply_to_status_id" : 969023230378958850,
+  "created_at" : "2018-03-01 01:37:34 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969023230378958850\/photo\/1",
+      "indices" : [ 10, 33 ],
+      "url" : "https:\/\/t.co\/cp4FIQ4SyQ",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKpecNW4AEji55.jpg",
+      "id_str" : "969023210271465473",
+      "id" : 969023210271465473,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKpecNW4AEji55.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 246,
+        "resize" : "fit",
+        "w" : 601
+      }, {
+        "h" : 246,
+        "resize" : "fit",
+        "w" : 601
+      }, {
+        "h" : 246,
+        "resize" : "fit",
+        "w" : 601
+      }, {
+        "h" : 246,
+        "resize" : "fit",
+        "w" : 601
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/cp4FIQ4SyQ"
+    } ],
+    "hashtags" : [ {
+      "text" : "autonomy",
+      "indices" : [ 0, 9 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969022508082003968",
+  "geo" : { },
+  "id_str" : "969023230378958850",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#autonomy https:\/\/t.co\/cp4FIQ4SyQ",
+  "id" : 969023230378958850,
+  "in_reply_to_status_id" : 969022508082003968,
+  "created_at" : "2018-03-01 01:35:16 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    }, {
+      "text" : "EU",
+      "indices" : [ 26, 29 ]
+    }, {
+      "text" : "HungerZone",
+      "indices" : [ 30, 41 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969022050953285632",
+  "geo" : { },
+  "id_str" : "969022508082003968",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: Where ends the #EU #HungerZone?",
+  "id" : 969022508082003968,
+  "in_reply_to_status_id" : 969022050953285632,
+  "created_at" : "2018-03-01 01:32:24 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969022050953285632\/photo\/1",
+      "indices" : [ 13, 36 ],
+      "url" : "https:\/\/t.co\/317UbyiLSV",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKoagrX0AAdb50.jpg",
+      "id_str" : "969022043239993344",
+      "id" : 969022043239993344,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKoagrX0AAdb50.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 399,
+        "resize" : "fit",
+        "w" : 623
+      }, {
+        "h" : 399,
+        "resize" : "fit",
+        "w" : 623
+      }, {
+        "h" : 399,
+        "resize" : "fit",
+        "w" : 623
+      }, {
+        "h" : 399,
+        "resize" : "fit",
+        "w" : 623
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/317UbyiLSV"
+    } ],
+    "hashtags" : [ {
+      "text" : "interesting",
+      "indices" : [ 0, 12 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969021571494006786",
+  "geo" : { },
+  "id_str" : "969022050953285632",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#interesting https:\/\/t.co\/317UbyiLSV",
+  "id" : 969022050953285632,
+  "in_reply_to_status_id" : 969021571494006786,
+  "created_at" : "2018-03-01 01:30:35 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 75, 98 ],
+      "url" : "https:\/\/t.co\/NsPuHHiazV",
+      "expanded_url" : "http:\/\/www.deutschlandfunkkultur.de\/weltacker-experiment-wie-viel-anbauflaeche-braucht-ein.976.de.html?dram:article_id=333459",
+      "display_url" : "deutschlandfunkkultur.de\/weltacker-expe\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969020341887610881",
+  "geo" : { },
+  "id_str" : "969021571494006786",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "\"Weltacker\"-Experiment - Wie viel Anbaufl\u00E4che braucht ein Mensch? (Archiv) https:\/\/t.co\/NsPuHHiazV",
+  "id" : 969021571494006786,
+  "in_reply_to_status_id" : 969020341887610881,
+  "created_at" : "2018-03-01 01:28:40 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "recap",
+      "indices" : [ 0, 6 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 8, 31 ],
+      "url" : "https:\/\/t.co\/sVQ7KYVSJw",
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/963615041219186688",
+      "display_url" : "twitter.com\/MechTech4\/stat\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969020150635737088",
+  "geo" : { },
+  "id_str" : "969020341887610881",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#recap:\nhttps:\/\/t.co\/sVQ7KYVSJw",
+  "id" : 969020341887610881,
+  "in_reply_to_status_id" : 969020150635737088,
+  "created_at" : "2018-03-01 01:23:47 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "recap",
+      "indices" : [ 0, 6 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 8, 31 ],
+      "url" : "https:\/\/t.co\/7DQk6FObq8",
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969013926594826240",
+      "display_url" : "twitter.com\/MechTech4\/stat\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969019918275502085",
+  "geo" : { },
+  "id_str" : "969020150635737088",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#recap:\nhttps:\/\/t.co\/7DQk6FObq8",
+  "id" : 969020150635737088,
+  "in_reply_to_status_id" : 969019918275502085,
+  "created_at" : "2018-03-01 01:23:02 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969019918275502085\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/fet16SZYD2",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKmebYWkAAs0Xi.jpg",
+      "id_str" : "969019911514263552",
+      "id" : 969019911514263552,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKmebYWkAAs0Xi.jpg",
+      "sizes" : [ {
+        "h" : 357,
+        "resize" : "fit",
+        "w" : 698
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 357,
+        "resize" : "fit",
+        "w" : 698
+      }, {
+        "h" : 357,
+        "resize" : "fit",
+        "w" : 698
+      }, {
+        "h" : 348,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/fet16SZYD2"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969019610019360769",
+  "geo" : { },
+  "id_str" : "969019918275502085",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/fet16SZYD2",
+  "id" : 969019918275502085,
+  "in_reply_to_status_id" : 969019610019360769,
+  "created_at" : "2018-03-01 01:22:06 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ {
+      "name" : "agrarheute",
+      "screen_name" : "agrarheute_com",
+      "indices" : [ 108, 123 ],
+      "id_str" : "20661091",
+      "id" : 20661091
+    } ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "agrarbetrieb",
+      "indices" : [ 78, 91 ]
+    }, {
+      "text" : "wirtschaft",
+      "indices" : [ 92, 103 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 54, 77 ],
+      "url" : "https:\/\/t.co\/dTiRuTfrbH",
+      "expanded_url" : "https:\/\/www.agrarheute.com\/share\/5515109",
+      "display_url" : "agrarheute.com\/share\/5515109"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969019080995954693",
+  "geo" : { },
+  "id_str" : "969019610019360769",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "Jeder deutsche Landwirt ern\u00E4hrt heute 133 Menschen \n\n https:\/\/t.co\/dTiRuTfrbH #agrarbetrieb #wirtschaft via @agrarheute_com",
+  "id" : 969019610019360769,
+  "in_reply_to_status_id" : 969019080995954693,
+  "created_at" : "2018-03-01 01:20:53 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969019080995954693\/photo\/1",
+      "indices" : [ 24, 47 ],
+      "url" : "https:\/\/t.co\/E479pTvv29",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKlrnaWAAAiPd-.jpg",
+      "id_str" : "969019038570512384",
+      "id" : 969019038570512384,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKlrnaWAAAiPd-.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 881,
+        "resize" : "fit",
+        "w" : 644
+      }, {
+        "h" : 881,
+        "resize" : "fit",
+        "w" : 644
+      }, {
+        "h" : 680,
+        "resize" : "fit",
+        "w" : 497
+      }, {
+        "h" : 881,
+        "resize" : "fit",
+        "w" : 644
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/E479pTvv29"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/0HQwyjLSdM",
+      "expanded_url" : "https:\/\/books.google.de\/books?id=PTLW8plltWcC&pg=PA121&lpg=PA121&dq=r%C3%B6mer+angst+wald&source=bl&ots=iyK6yD1uQM&sig=x0NF2PH4h-mLdvBRKx4TCY-I9z0&hl=de&sa=X&ved=0ahUKEwia8qP_-cnZAhWNJ1AKHbtRCMMQ6AEIKDAA#v=onepage&q=r%C3%B6mer%20angst%20wald&f=false",
+      "display_url" : "books.google.de\/books?id=PTLW8\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969017825225519109",
+  "geo" : { },
+  "id_str" : "969019080995954693",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/0HQwyjLSdM https:\/\/t.co\/E479pTvv29",
+  "id" : 969019080995954693,
+  "in_reply_to_status_id" : 969017825225519109,
+  "created_at" : "2018-03-01 01:18:47 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969017825225519109\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/WxfaHxlvME",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKkjfwWsAACodC.jpg",
+      "id_str" : "969017799564767232",
+      "id" : 969017799564767232,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKkjfwWsAACodC.jpg",
+      "sizes" : [ {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/WxfaHxlvME"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969017825225519109\/photo\/1",
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/WxfaHxlvME",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKkkaaWsAE3DBc.jpg",
+      "id_str" : "969017815310184449",
+      "id" : 969017815310184449,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKkkaaWsAE3DBc.jpg",
+      "sizes" : [ {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/WxfaHxlvME"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969017749673521152",
+  "geo" : { },
+  "id_str" : "969017825225519109",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/WxfaHxlvME",
+  "id" : 969017825225519109,
+  "in_reply_to_status_id" : 969017749673521152,
+  "created_at" : "2018-03-01 01:13:47 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969017749673521152\/photo\/1",
+      "indices" : [ 24, 47 ],
+      "url" : "https:\/\/t.co\/sWaspwLioA",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKkclRX0AAxU24.jpg",
+      "id_str" : "969017680786345984",
+      "id" : 969017680786345984,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKkclRX0AAxU24.jpg",
+      "sizes" : [ {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/sWaspwLioA"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969017749673521152\/photo\/1",
+      "indices" : [ 24, 47 ],
+      "url" : "https:\/\/t.co\/sWaspwLioA",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKkdh8W4AMUAAV.jpg",
+      "id_str" : "969017697072766979",
+      "id" : 969017697072766979,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKkdh8W4AMUAAV.jpg",
+      "sizes" : [ {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/sWaspwLioA"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969017749673521152\/photo\/1",
+      "indices" : [ 24, 47 ],
+      "url" : "https:\/\/t.co\/sWaspwLioA",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKke7yXkAIhrmK.jpg",
+      "id_str" : "969017721190060034",
+      "id" : 969017721190060034,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKke7yXkAIhrmK.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/sWaspwLioA"
+    }, {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969017749673521152\/photo\/1",
+      "indices" : [ 24, 47 ],
+      "url" : "https:\/\/t.co\/sWaspwLioA",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKkgGTWAAAm-cE.jpg",
+      "id_str" : "969017741192593408",
+      "id" : 969017741192593408,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKkgGTWAAAm-cE.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/sWaspwLioA"
+    } ],
+    "hashtags" : [ ],
+    "urls" : [ {
+      "indices" : [ 0, 23 ],
+      "url" : "https:\/\/t.co\/mT6HxsYh5V",
+      "expanded_url" : "https:\/\/atlas.media.mit.edu\/en\/profile\/country\/ita\/",
+      "display_url" : "atlas.media.mit.edu\/en\/profile\/cou\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969014819084013568",
+  "geo" : { },
+  "id_str" : "969017749673521152",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "https:\/\/t.co\/mT6HxsYh5V https:\/\/t.co\/sWaspwLioA",
+  "id" : 969017749673521152,
+  "in_reply_to_status_id" : 969014819084013568,
+  "created_at" : "2018-03-01 01:13:29 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969014371904118784",
+  "geo" : { },
+  "id_str" : "969014819084013568",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "Are all villages that you can see in the photo autonomous ?",
+  "id" : 969014819084013568,
+  "in_reply_to_status_id" : 969014371904118784,
+  "created_at" : "2018-03-01 01:01:50 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969013926594826240",
+  "geo" : { },
+  "id_str" : "969014371904118784",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: Where are the forests?",
+  "id" : 969014371904118784,
+  "in_reply_to_status_id" : 969013926594826240,
+  "created_at" : "2018-03-01 01:00:04 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969013926594826240\/photo\/1",
+      "indices" : [ 66, 89 ],
+      "url" : "https:\/\/t.co\/ZKGr9P2r0H",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKg-QDXcAMu3Fa.jpg",
+      "id_str" : "969013861159497731",
+      "id" : 969013861159497731,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKg-QDXcAMu3Fa.jpg",
+      "sizes" : [ {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      }, {
+        "h" : 383,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 675,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1080,
+        "resize" : "fit",
+        "w" : 1920
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/ZKGr9P2r0H"
+    } ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 42, 65 ],
+      "url" : "https:\/\/t.co\/see8vCrkjO",
+      "expanded_url" : "https:\/\/www.google.de\/maps\/place\/Bologna,+Italien\/@44.4055098,11.8057306,13484m\/data=!3m1!1e3!4m5!3m4!1s0x477fd498e951c40b:0xa2e17c015ba49441!8m2!3d44.494887!4d11.3426162?dcr=0",
+      "display_url" : "google.de\/maps\/place\/Bol\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "969008407595364352",
+  "geo" : { },
+  "id_str" : "969013926594826240",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: Where do all the crops go to?\n\nhttps:\/\/t.co\/see8vCrkjO https:\/\/t.co\/ZKGr9P2r0H",
+  "id" : 969013926594826240,
+  "in_reply_to_status_id" : 969008407595364352,
+  "created_at" : "2018-03-01 00:58:18 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
+      "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/969008407595364352\/photo\/1",
+      "indices" : [ 64, 87 ],
+      "url" : "https:\/\/t.co\/YSNT6LvpRI",
+      "media_url" : "http:\/\/pbs.twimg.com\/media\/DXKb9YzW4AUU4zU.jpg",
+      "id_str" : "969008348770263045",
+      "id" : 969008348770263045,
+      "media_url_https" : "https:\/\/pbs.twimg.com\/media\/DXKb9YzW4AUU4zU.jpg",
+      "sizes" : [ {
+        "h" : 1000,
+        "resize" : "fit",
+        "w" : 1600
+      }, {
+        "h" : 150,
+        "resize" : "crop",
+        "w" : 150
+      }, {
+        "h" : 425,
+        "resize" : "fit",
+        "w" : 680
+      }, {
+        "h" : 750,
+        "resize" : "fit",
+        "w" : 1200
+      }, {
+        "h" : 1000,
+        "resize" : "fit",
+        "w" : 1600
+      } ],
+      "media_alt" : "",
+      "display_url" : "pic.twitter.com\/YSNT6LvpRI"
+    } ],
+    "hashtags" : [ {
+      "text" : "Question",
+      "indices" : [ 0, 9 ]
+    }, {
+      "text" : "OpenForestEdge",
+      "indices" : [ 27, 42 ]
+    }, {
+      "text" : "OpenMovies",
+      "indices" : [ 52, 63 ]
+    } ],
+    "urls" : [ ]
+  },
+  "in_reply_to_status_id_str" : "969004734483976199",
+  "geo" : { },
+  "id_str" : "969008407595364352",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Question: What's about an #OpenForestEdge at ... ? #OpenMovies https:\/\/t.co\/YSNT6LvpRI",
+  "id" : 969008407595364352,
+  "in_reply_to_status_id" : 969004734483976199,
+  "created_at" : "2018-03-01 00:36:22 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ ],
+    "hashtags" : [ {
+      "text" : "Plagegeister",
+      "indices" : [ 0, 13 ]
+    }, {
+      "text" : "Stechm\u00FCcken",
+      "indices" : [ 16, 28 ]
+    }, {
+      "text" : "Frost",
+      "indices" : [ 39, 45 ]
+    } ],
+    "urls" : [ {
+      "indices" : [ 57, 80 ],
+      "url" : "https:\/\/t.co\/HkekXit2va",
+      "expanded_url" : "http:\/\/www.handelsblatt.com\/21009134.html?share=twitter",
+      "display_url" : "handelsblatt.com\/21009134.html?\u2026"
+    } ]
+  },
+  "in_reply_to_status_id_str" : "968999213039345664",
+  "geo" : { },
+  "id_str" : "969004734483976199",
+  "in_reply_to_user_id" : 1088808283,
+  "text" : "#Plagegeister : #Stechm\u00FCcken macht der #Frost nichts aus https:\/\/t.co\/HkekXit2va",
+  "id" : 969004734483976199,
+  "in_reply_to_status_id" : 968999213039345664,
+  "created_at" : "2018-03-01 00:21:46 +0000",
+  "in_reply_to_screen_name" : "MechTech4",
+  "in_reply_to_user_id_str" : "1088808283",
+  "user" : {
+    "name" : "MechTech",
+    "screen_name" : "MechTech4",
+    "protected" : false,
+    "id_str" : "1088808283",
+    "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/952004274430541824\/Zw7EtoY2_normal.jpg",
+    "id" : 1088808283,
+    "verified" : false
+  }
+}, {
+  "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
+  "entities" : {
+    "user_mentions" : [ ],
+    "media" : [ {
       "expanded_url" : "https:\/\/twitter.com\/MechTech4\/status\/968999213039345664\/photo\/1",
       "indices" : [ 19, 42 ],
       "url" : "https:\/\/t.co\/iWwXqgObCG",
@@ -1637,7 +4892,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "roscosmos",
       "protected" : false,
       "id_str" : "2306083502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979277701587636224\/AeMPI7G4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014462014553579521\/gdGcSj2j_normal.jpg",
       "id" : 2306083502,
       "verified" : true
     }
@@ -2162,7 +5417,7 @@ Grailbird.data.tweets_2018_02 =
       "id_str" : "3338956540",
       "id" : 3338956540
     }, {
-      "name" : "Landesbildungsserver",
+      "name" : "Landesbildungsserver Baden-W\u00FCrttemberg",
       "screen_name" : "LBS_BW",
       "indices" : [ 58, 65 ],
       "id_str" : "239792754",
@@ -2394,7 +5649,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "roscosmos",
       "protected" : false,
       "id_str" : "2306083502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979277701587636224\/AeMPI7G4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014462014553579521\/gdGcSj2j_normal.jpg",
       "id" : 2306083502,
       "verified" : true
     }
@@ -10565,7 +13820,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JusoHochschulgruppen",
+      "name" : "Juso-Hochschulgruppen",
       "screen_name" : "jusohsgn",
       "indices" : [ 120, 129 ],
       "id_str" : "68121458",
@@ -14453,7 +17708,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Naomi Wu",
+      "name" : "Naomi Wu \u673A\u68B0\u5996\u59EC",
       "screen_name" : "RealSexyCyborg",
       "indices" : [ 0, 15 ],
       "id_str" : "3562121415",
@@ -17851,7 +21106,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Umut Kurt",
+      "name" : "Umut Kurt \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "UmutKurt_SPD",
       "indices" : [ 0, 13 ],
       "id_str" : "2228334645",
@@ -17919,7 +21174,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Umut Kurt",
+      "name" : "Umut Kurt \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "UmutKurt_SPD",
       "indices" : [ 0, 13 ],
       "id_str" : "2228334645",
@@ -17985,7 +21240,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Umut Kurt",
+      "name" : "Umut Kurt \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "UmutKurt_SPD",
       "indices" : [ 0, 13 ],
       "id_str" : "2228334645",
@@ -18054,7 +21309,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Umut Kurt",
+      "name" : "Umut Kurt \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "UmutKurt_SPD",
       "indices" : [ 3, 16 ],
       "id_str" : "2228334645",
@@ -18211,11 +21466,11 @@ Grailbird.data.tweets_2018_02 =
     "id" : 967459348531302401,
     "created_at" : "2018-02-24 18:00:57 +0000",
     "user" : {
-      "name" : "Umut Kurt",
+      "name" : "Umut Kurt \uD83C\uDDEA\uD83C\uDDFA",
       "screen_name" : "UmutKurt_SPD",
       "protected" : false,
       "id_str" : "2228334645",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973552172121186304\/pumxOCKs_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1028757712585285634\/P6DZ3LoM_normal.jpg",
       "id" : 2228334645,
       "verified" : false
     }
@@ -21775,7 +25030,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Volker Dohr",
+      "name" : "Dein Therapoi!t",
       "screen_name" : "VlkrDhr",
       "indices" : [ 0, 8 ],
       "id_str" : "15970295",
@@ -21936,7 +25191,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Ge\u03B7\u1D09aler Ty\u03C1",
+      "name" : ".:: \uD835\uDE42\uD835\uDE5A\uD835\uDE63\uD835\uDE5E\uD835\uDE56\uD835\uDE61\uD835\uDE5A\uD835\uDE67 \uD835\uDE4F\uD835\uDE6E\uD835\uDE65 ::.",
       "screen_name" : "genialewelt",
       "indices" : [ 0, 12 ],
       "id_str" : "795949425315250176",
@@ -21978,12 +25233,6 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Lisa",
-      "screen_name" : "lisamariejaly",
-      "indices" : [ 0, 14 ],
-      "id_str" : "3302012446",
-      "id" : 3302012446
-    }, {
       "name" : "Carline Mohr",
       "screen_name" : "Mohrenpost",
       "indices" : [ 15, 26 ],
@@ -22008,7 +25257,7 @@ Grailbird.data.tweets_2018_02 =
   "id" : 967103037650153474,
   "in_reply_to_status_id" : 966202019735330818,
   "created_at" : "2018-02-23 18:25:06 +0000",
-  "in_reply_to_screen_name" : "lisamariejaly",
+  "in_reply_to_screen_name" : "slawinerin",
   "in_reply_to_user_id_str" : "3302012446",
   "user" : {
     "name" : "MechTech",
@@ -27156,7 +30405,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JusoHochschulgruppen",
+      "name" : "Juso-Hochschulgruppen",
       "screen_name" : "jusohsgn",
       "indices" : [ 0, 9 ],
       "id_str" : "68121458",
@@ -34674,7 +37923,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JusoHochschulgruppen",
+      "name" : "Juso-Hochschulgruppen",
       "screen_name" : "jusohsgn",
       "indices" : [ 0, 9 ],
       "id_str" : "68121458",
@@ -34789,7 +38038,7 @@ Grailbird.data.tweets_2018_02 =
   "entities" : {
     "user_mentions" : [ {
       "name" : "Amrapali Zaveri",
-      "screen_name" : "AmrapaliZ",
+      "screen_name" : "amrapaliz",
       "indices" : [ 0, 10 ],
       "id_str" : "350164545",
       "id" : 350164545
@@ -34843,7 +38092,7 @@ Grailbird.data.tweets_2018_02 =
   "id" : 965999542033375232,
   "in_reply_to_status_id" : 957599884609236993,
   "created_at" : "2018-02-20 17:20:12 +0000",
-  "in_reply_to_screen_name" : "AmrapaliZ",
+  "in_reply_to_screen_name" : "amrapaliz",
   "in_reply_to_user_id_str" : "350164545",
   "user" : {
     "name" : "MechTech",
@@ -34931,7 +38180,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JusoHochschulgruppen",
+      "name" : "Juso-Hochschulgruppen",
       "screen_name" : "jusohsgn",
       "indices" : [ 0, 9 ],
       "id_str" : "68121458",
@@ -34970,7 +38219,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JusoHochschulgruppen",
+      "name" : "Juso-Hochschulgruppen",
       "screen_name" : "jusohsgn",
       "indices" : [ 0, 9 ],
       "id_str" : "68121458",
@@ -35008,7 +38257,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\/download\/android\" rel=\"nofollow\"\u003ETwitter for Android\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JusoHochschulgruppen",
+      "name" : "Juso-Hochschulgruppen",
       "screen_name" : "jusohsgn",
       "indices" : [ 0, 9 ],
       "id_str" : "68121458",
@@ -37453,7 +40702,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JusoHochschulgruppen",
+      "name" : "Juso-Hochschulgruppen",
       "screen_name" : "jusohsgn",
       "indices" : [ 0, 9 ],
       "id_str" : "68121458",
@@ -37486,7 +40735,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JusoHochschulgruppen",
+      "name" : "Juso-Hochschulgruppen",
       "screen_name" : "jusohsgn",
       "indices" : [ 0, 9 ],
       "id_str" : "68121458",
@@ -37918,7 +41167,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Paul Swanson",
+      "name" : "Assorted.Creations",
       "screen_name" : "AssortedNoise",
       "indices" : [ 3, 17 ],
       "id_str" : "109486496",
@@ -38007,11 +41256,11 @@ Grailbird.data.tweets_2018_02 =
     "id" : 929513897266237440,
     "created_at" : "2017-11-12 00:59:17 +0000",
     "user" : {
-      "name" : "Paul Swanson",
+      "name" : "Assorted.Creations",
       "screen_name" : "AssortedNoise",
       "protected" : false,
       "id_str" : "109486496",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/945866128705933313\/VmV-3kQO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1049142671514714112\/ULXMRNNp_normal.jpg",
       "id" : 109486496,
       "verified" : false
     }
@@ -42155,7 +45404,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy S. Cook",
+      "name" : "Jeremy S. Cook \uD83E\uDD16\uD83D\uDCBE\uD83D\uDC4A",
       "screen_name" : "JeremySCook",
       "indices" : [ 0, 12 ],
       "id_str" : "554523542",
@@ -42231,7 +45480,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Jeremy S. Cook",
+      "name" : "Jeremy S. Cook \uD83E\uDD16\uD83D\uDCBE\uD83D\uDC4A",
       "screen_name" : "JeremySCook",
       "indices" : [ 0, 12 ],
       "id_str" : "554523542",
@@ -42281,7 +45530,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "JusoHochschulgruppen",
+      "name" : "Juso-Hochschulgruppen",
       "screen_name" : "jusohsgn",
       "indices" : [ 0, 9 ],
       "id_str" : "68121458",
@@ -48009,7 +51258,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "GlblCtzn",
       "protected" : false,
       "id_str" : "596893898",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/973247306156953601\/_pqvBwMx_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1016140732820697088\/QsQV8MOi_normal.jpg",
       "id" : 596893898,
       "verified" : true
     }
@@ -48706,7 +51955,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "ClintFalin",
       "protected" : false,
       "id_str" : "390396654",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/931032356064030720\/lPPsI60X_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1037056332183035905\/SFk7yERK_normal.jpg",
       "id" : 390396654,
       "verified" : false
     }
@@ -51289,7 +54538,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abstract Art Guru - Iran Lawrence",
+      "name" : "Art of Transformation Guru",
       "screen_name" : "IranLawrence",
       "indices" : [ 0, 13 ],
       "id_str" : "19199743",
@@ -53199,7 +56448,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "roscosmos",
       "protected" : false,
       "id_str" : "2306083502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979277701587636224\/AeMPI7G4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014462014553579521\/gdGcSj2j_normal.jpg",
       "id" : 2306083502,
       "verified" : true
     }
@@ -62609,7 +65858,7 @@ Grailbird.data.tweets_2018_02 =
       "id_str" : "10228272",
       "id" : 10228272
     }, {
-      "name" : "Flotidus Teilzeit Shenmain",
+      "name" : "Flotidus GuideMain",
       "screen_name" : "flotidus100",
       "indices" : [ 9, 21 ],
       "id_str" : "1563056941",
@@ -62659,7 +65908,7 @@ Grailbird.data.tweets_2018_02 =
       "id_str" : "10228272",
       "id" : 10228272
     }, {
-      "name" : "Flotidus Teilzeit Shenmain",
+      "name" : "Flotidus GuideMain",
       "screen_name" : "flotidus100",
       "indices" : [ 9, 21 ],
       "id_str" : "1563056941",
@@ -62698,7 +65947,7 @@ Grailbird.data.tweets_2018_02 =
       "id_str" : "10228272",
       "id" : 10228272
     }, {
-      "name" : "Flotidus Teilzeit Shenmain",
+      "name" : "Flotidus GuideMain",
       "screen_name" : "flotidus100",
       "indices" : [ 9, 21 ],
       "id_str" : "1563056941",
@@ -62760,7 +66009,7 @@ Grailbird.data.tweets_2018_02 =
       "id_str" : "10228272",
       "id" : 10228272
     }, {
-      "name" : "Flotidus Teilzeit Shenmain",
+      "name" : "Flotidus GuideMain",
       "screen_name" : "flotidus100",
       "indices" : [ 99, 111 ],
       "id_str" : "1563056941",
@@ -65910,7 +69159,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "roscosmos",
       "protected" : false,
       "id_str" : "2306083502",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/979277701587636224\/AeMPI7G4_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1014462014553579521\/gdGcSj2j_normal.jpg",
       "id" : 2306083502,
       "verified" : true
     }
@@ -66127,7 +69376,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "fdp",
       "protected" : false,
       "id_str" : "39475170",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/845963514548244482\/BsvDHEIO_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1024191317566541824\/Tf4YsBit_normal.jpg",
       "id" : 39475170,
       "verified" : true
     }
@@ -74369,7 +77618,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Feenkind",
+      "name" : "Niemand.",
       "screen_name" : "kruemel3211",
       "indices" : [ 0, 12 ],
       "id_str" : "2478647774",
@@ -75171,12 +78420,6 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FraktionsNahles",
-      "screen_name" : "FraktionsNahles",
-      "indices" : [ 0, 16 ],
-      "id_str" : "2478147332",
-      "id" : 2478147332
-    }, {
       "name" : "Darth Rain",
       "screen_name" : "Blue1337Blood",
       "indices" : [ 17, 31 ],
@@ -75210,12 +78453,6 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "FraktionsNahles",
-      "screen_name" : "FraktionsNahles",
-      "indices" : [ 0, 16 ],
-      "id_str" : "2478147332",
-      "id" : 2478147332
-    }, {
       "name" : "Darth Rain",
       "screen_name" : "Blue1337Blood",
       "indices" : [ 17, 31 ],
@@ -75234,7 +78471,7 @@ Grailbird.data.tweets_2018_02 =
   "id" : 961206030645579776,
   "in_reply_to_status_id" : 625017542168444928,
   "created_at" : "2018-02-07 11:52:30 +0000",
-  "in_reply_to_screen_name" : "FraktionsNahles",
+  "in_reply_to_screen_name" : "VorsitzNahles",
   "in_reply_to_user_id_str" : "2478147332",
   "user" : {
     "name" : "MechTech",
@@ -75255,7 +78492,7 @@ Grailbird.data.tweets_2018_02 =
       "id_str" : "5734902",
       "id" : 5734902
     }, {
-      "name" : "\uD83C\uDF31 Julie \uD83C\uDF3C",
+      "name" : "\uD83C\uDF83 JuliEEEEEEEEK! \uD83D\uDC7B",
       "screen_name" : "julietaube",
       "indices" : [ 12, 23 ],
       "id_str" : "586521218",
@@ -75302,7 +78539,7 @@ Grailbird.data.tweets_2018_02 =
       "id_str" : "5734902",
       "id" : 5734902
     }, {
-      "name" : "\uD83C\uDF31 Julie \uD83C\uDF3C",
+      "name" : "\uD83C\uDF83 JuliEEEEEEEEK! \uD83D\uDC7B",
       "screen_name" : "julietaube",
       "indices" : [ 12, 23 ],
       "id_str" : "586521218",
@@ -75635,7 +78872,7 @@ Grailbird.data.tweets_2018_02 =
       "id_str" : "3338956540",
       "id" : 3338956540
     }, {
-      "name" : "Landesbildungsserver",
+      "name" : "Landesbildungsserver Baden-W\u00FCrttemberg",
       "screen_name" : "LBS_BW",
       "indices" : [ 65, 72 ],
       "id_str" : "239792754",
@@ -77962,7 +81199,7 @@ Grailbird.data.tweets_2018_02 =
       "id_str" : "15402060",
       "id" : 15402060
     }, {
-      "name" : "This is Allan",
+      "name" : "\uD83C\uDF83 Spooky Allan \uD83C\uDF83",
       "screen_name" : "JuicyAllan",
       "indices" : [ 8, 19 ],
       "id_str" : "937753940",
@@ -79983,7 +83220,7 @@ Grailbird.data.tweets_2018_02 =
       "id_str" : "46085533",
       "id" : 46085533
     }, {
-      "name" : "Gr\u00FCne im Bundestag",
+      "name" : "Gr\u00FCne im Bundestag \uD83C\uDDEA\uD83C\uDDFA\uD83C\uDFF3\uFE0F\u200D\uD83C\uDF08",
       "screen_name" : "GrueneBundestag",
       "indices" : [ 24, 40 ],
       "id_str" : "24725119",
@@ -82622,7 +85859,13 @@ Grailbird.data.tweets_2018_02 =
 }, {
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
-    "user_mentions" : [ ],
+    "user_mentions" : [ {
+      "name" : "Dirk \uD83C\uDF08\u270C\uFE0F",
+      "screen_name" : "dirksch66",
+      "indices" : [ 0, 10 ],
+      "id_str" : "1020225830218354688",
+      "id" : 1020225830218354688
+    } ],
     "media" : [ ],
     "hashtags" : [ {
       "text" : "SehKeinBaumhaus",
@@ -90046,7 +93289,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abstract Art Guru - Iran Lawrence",
+      "name" : "Art of Transformation Guru",
       "screen_name" : "IranLawrence",
       "indices" : [ 0, 13 ],
       "id_str" : "19199743",
@@ -90079,7 +93322,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abstract Art Guru - Iran Lawrence",
+      "name" : "Art of Transformation Guru",
       "screen_name" : "IranLawrence",
       "indices" : [ 0, 13 ],
       "id_str" : "19199743",
@@ -90143,7 +93386,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abstract Art Guru - Iran Lawrence",
+      "name" : "Art of Transformation Guru",
       "screen_name" : "IranLawrence",
       "indices" : [ 0, 13 ],
       "id_str" : "19199743",
@@ -90176,7 +93419,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abstract Art Guru - Iran Lawrence",
+      "name" : "Art of Transformation Guru",
       "screen_name" : "IranLawrence",
       "indices" : [ 0, 13 ],
       "id_str" : "19199743",
@@ -94275,7 +97518,7 @@ Grailbird.data.tweets_2018_02 =
       "screen_name" : "EmmanuelMacron",
       "protected" : false,
       "id_str" : "1976143068",
-      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/834424630630817795\/TfyS4uXb_normal.jpg",
+      "profile_image_url_https" : "https:\/\/pbs.twimg.com\/profile_images\/1035051739853082624\/pzQS5OTs_normal.jpg",
       "id" : 1976143068,
       "verified" : true
     }
@@ -96836,7 +100079,7 @@ Grailbird.data.tweets_2018_02 =
   "source" : "\u003Ca href=\"http:\/\/twitter.com\" rel=\"nofollow\"\u003ETwitter Web Client\u003C\/a\u003E",
   "entities" : {
     "user_mentions" : [ {
-      "name" : "Abstract Art Guru - Iran Lawrence",
+      "name" : "Art of Transformation Guru",
       "screen_name" : "IranLawrence",
       "indices" : [ 0, 13 ],
       "id_str" : "19199743",
@@ -103303,7 +106546,7 @@ Grailbird.data.tweets_2018_02 =
   "id_str" : "959175429893644288",
   "text" : "RT @BadAstronomer: This is a GREAT explainer about the Falcon Heavy and its scheduled launch next week. https:\/\/t.co\/n2ukLvEELx",
   "retweeted_status" : {
-    "source" : "\u003Ca href=\"http:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
+    "source" : "\u003Ca href=\"https:\/\/tapbots.com\/software\/tweetbot\/mac\" rel=\"nofollow\"\u003ETweetbot for Mac\u003C\/a\u003E",
     "entities" : {
       "user_mentions" : [ ],
       "media" : [ ],
